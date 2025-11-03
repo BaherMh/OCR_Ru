@@ -11,6 +11,7 @@ ENV/
 
 # Logs and data
 *.log
+*.csv
 *.dat
 
 # OS files

@@ -1,0 +1,5419 @@
+index,answer,prediction,correct
+0,"Щукин
+лемех",LLLy KUH AeMex T,False
+1,марля,Ma 26,False
+2,"влюбленный
+женский",BIOBIEHHY XEHCKHY,False
+3,норвежец,HopBewkeu,False
+4,"Никонова
+хлев ствол
+Енисей",HUKOHOBa xsee cmBOn EHuceu 4,False
+5,переезжать,C M 保,False
+6,девятый,AeBATbIM 二,False
+7,добреть,Ao6peTb N,False
+8,верея-,一 Bepeg-,False
+9,цикл,LNKN,False
+10,"гнедой 11478 кузовной
+минералогия ознакомиться
+авеню Карцев Гулиев дубляж
+воодушевиться нищий",rHenOn 11478 Ky30BHON MuHepanonwa 03HaKOMMTbCA KapueB TynveB Ay6nAOK aBeIO BOOAyLeBMTbCA HNLN,False
+11,ванна,BAHHA,False
+12,провинциальный,mOONHLINOAHN MHDHAT C,False
+13,"кариес Ладога
+Меренков априори  ,
+кислый кинодраматург
+сценарный сенной  )",KAPVEC MAAOrA 2 MEPEHKOB ANPNOPN KUCnb KUHOAPAMATYPT CLEHA PHbIN CEHHON,False
+14,"сапа вот-вот
+пуговица",Cana Bom-Bom ny zob uua ,False
+15,parent,parent,True
+16,Суздалев,,False
+17,"лабаз достоверно
+провидец
+бесшовный",na6a3 docmoBepHo npoeudeu 6ecwoBHblu HAGAKURE m,False
+18,Крикунова(,Kouryool CODE,False
+19,"опыт
+Есипов
+Куница",y ObIT ECHIIOB KyHKILa 同,False
+20,экспансивный(,aKCnaHCUeHbIUC,False
+21,Манчестер),MaHuecmep) 口,False
+22,иголочка восстанавливать,S HTOOTKa BOCCTaHaBJIHBaT,False
+23,"Закавказье
+Хвойницкий",× X 3ak aBk a3be XBONHNUKNN,False
+24,пролетариат,,False
+25,заметно стирать!,3aMeTHO CTHpaTb!,False
+26,"мудрствовать редчайший
+подборка роно
+погубить стемнеть
+89212 тол
+раскритиковать",迎X国不份,False
+27,Шипов,Wnnod 白口口,False
+28,"9399691431
+продувной",9399691431 npanybHOM,False
+29,"ляжка
+сорный
+сшибка",JS>Kka COPHbN cWv6ka,False
+30,Франциск,正 心  、,False
+31,9142591539,9142591539,True
+32,"протока
+попа
+взлетать",BmnRNI 月 了 IPOTOKA nOIA B3IETATD ,False
+33,60251,口 国 60251,False
+34,доблестный,到日 doonecmail,False
+35,Шкляров,WKAapoe,False
+36,"шиться
+87025",mHTBca 87025,False
+37,СУБД,开 8y9  anfo ACCAEINICT,False
+38,увеселительный,yBecenNTenbHbM,False
+39,корифей,Kopupei,False
+40,"диоксид
+темно
+47381
+запасти .
+седалище", NOKCN TEMHO 47381 3anacT ceannwe,False
+41,Юлдашева,OnAaweBa,False
+42,Рябцева),PABLIEBA) V YI CL STOBIES,False
+43,"Кудревич
+булькать",福 D ?  5 ?  n Kyopesuu 6ynbkamb,False
+44,"делец
+Семко",aen eu CeMKo N,False
+45,"smile
+круг",TAG SMILE KPYT 发 羊,False
+46,"Хватов;
+тостер","XBaTOB, TocTep ECALCAOA iFACSCUM LIRPINU ",False
+47,"горький Зимин
+наградить 9307300401",V ropbKHA 3HMNH 9307300401 HarpaATb,False
+48,Костевич,KOCTeBNu,False
+49,калым,KAILIM,False
+50,посланец,nocnaney CINWN,False
+51,"прогреметь
+шелкопряд
+гадский",porpemetb WenkonpaA raAckun 一 I,False
+52,салфетка.,CaJpeTKa.,False
+53,"ride
+little",ride little eole oNoOVo,False
+54,"Ломов Желтова
+нахрапистый крупица
+Руденя 9947989816
+Гончаревич идиллия",nOMOB enTOBa HaxpanncTbi kpynnya PyAeHA 9947989816 rOHyapeBNY NA UR,False
+55,"икона
+ожог",WKOHa OXKOr 9,False
+56,отвыкать,OTBbIKaTb T ,False
+57,"всплывать    )
+монарх Бобров
+похоронка Басенко",) ecnbeamb Bo6poe MOHapx noxOpOHKa BaceHKO,False
+58,кок Мирошник,II ANENS KOK MAPOLLHAK,False
+59,дискуссия,O00O AJHOkyoOMR,False
+60,кабачок,AN 王 ka6ayok 米 米 米,False
+61,"радиационный
+кувыркнуться
+кожанка", 1 paduauuoHHbiu KyeblpKHymbca KOJCaHKa,False
+62,"кубовой
+Пчелкина
+Продан",SWEDE Ky 6OBON yeJIKnHa 南 ® 888 福 西 R IponaH,False
+63,"беспочвенный
+убаюкать Янович
+маслице apple",6eCTOyBeHHbN y6aroKaTb AHOBNH MacninLe apple,False
+64,переноска,TepeHOCKa,False
+65,"возрождаться
+Филистович
+мускул",B03pooicdambca Φunucmoeuy Myckyn,False
+66,"Рагель Гладкая
+индивидуальность
+вылазка Ширяев",PareJb Tnakas HHIHBHIYaIbHOCTb BbLIa3Ka IlupxeB,False
+67,Роллан,PonnaH,False
+68,"река
+неизменно",peKka HeN3MeHHO !,False
+69,Маркс,2  Mapkc ,False
+70,"долго;
+slip",Aonro; slip,False
+71,чугунный,Vyay HHBId,False
+72,камергер,,False
+73,"Гойя
+53593
+трижды",Tobs 53593 TPERIE 红塞7ON#N,False
+74,клинопись,KIMHOnuCE ,False
+75,шмайссер,uMauccep,False
+76,усик,yCHK 华 PN,False
+77,"Дима вислоухий
+заманчиво шина
+Луиза     (
+Жидков ацетон",uma BUCnOyXW 3aMaHHVBO WUHa JyvBa C >KWA KOB: aLeTOH,False
+78,"благостно
+замирать)
+лизинг",6narOCTHO 3aMIpaTB) J3YHT,False
+79,"трудящийся(
+лакировать",TPyAswvios( AaKHPOBaTb 1.831,False
+80,"оргпреступность
+мониторинговый
+Шаймухаметов.
+дремучий",oprrIpecTyrIHocTb MOHNTOPKHTOBDIN IHIarMyXaMeTOB. pemyuni,False
+81,"Петухов
+Саган
+минога
+Приймак",Iemy xo3 CazaH MUHo2a Ipuimar,False
+82,"ступа
+жиреть
+картон",CTyna KUpeTb KapTOH,False
+83,шпат,wnam,False
+84,косица, KOCVLA,False
+85,"Травкина
+департамент",TpasruHa denapmamenm,False
+86,старомодный,CmapOMOOH,False
+87,"косо
+горком",KOCO ropKOM,False
+88,нагрузить,HArPY3UTb ,False
+89,отыграться,OTbIIPATbCA,False
+90,Коржаков полуслепой,KopxcaKoe  nony cnenou,False
+91,дань(,AaHb( 厂,False
+92,"сравнить
+Гендель",CPABHHTB TEHI IEJD,False
+93,Татарстан,,False
+94,"Шмелева
+Кислюк",Wmeseea KucsIOk ,False
+95,Уханова,yxaHOBa PE78 S28 E 糖 EEREN A 座 ER INGLY GE BE SBRE 星  超限 器 8  ING.IT,False
+96,"колок
+жгут",KOIOK XKrYT,False
+97,"садоводческий
+подвезти",cadoeodyeckuu nodee3mu,False
+98,трек,Tpek,False
+99,"похолодеть
+МИД опилки
+факельный
+маринкин",TRAININO noxonodemb  MNA onwnkU 中aKenbHbIu MOPUHKUH H,False
+100,санки,S CaHKH,False
+101,выхлоп,BbIXnOn 中国,False
+102,"шарик
+пирс",Wapvk rvpc NOA,False
+103,"раскапывать
+роиться Каледа",paCKaHbIBaTb PONTbCA Kanena SXES ,False
+104,"эмбрион
+13910
+Кускова
+ежли
+перо",3M6PuOh 13910 KycKoBa emnU 理 nepo 和 M s2 2 c2,False
+105,лгать,nraTb ,False
+106,минус,eS,False
+107,"9791230143
+загасить дурка:",9791230143 3AIACИTb AYPKA:,False
+108,Климент, KnNMeHT,False
+109,"ваучер
+наоборот",allaurn Fosuttinunoe arr e Kmneotannorbry. comonmitos brgcasererrameyen drnennojeeieronemoeh Bay yep Hao6opOT,False
+110,"осторожненько
+переплюнуть
+улыбнуться
+Хвалько",OCTOpO>KHeHbKO repervroHyTb ynbi6HyTbCA XBaIbKO,False
+111,Кондратеня Кабиров,KOHAPaTeHA Ka6μpOB,False
+112,"одышка !
+полвека",家 odbwuka noneeka,False
+113,Долматова,JonMaTOBa 口,False
+114,чека:,· 4eKC.,False
+115,"отрог
+50934",OTpor 50934,False
+116,"Левин
+апология",NeBuH anOAO2MA  Matagan,False
+117,"мегафон
+шаманка",Meradoh LaMaHKa,False
+118,"угловато
+29257
+берег,","YrMOBaTO 29257 6eper,",False
+119,"9747686525
+Юрчук
+Давидчик
+старчество
+смывка",9747686525 IOPUYK LABNnUNK CTAF PUECT BO CMbIBKA,False
+120,21211,21211 12 N 2025 935,False
+121,"встряхивать;
+Фридрих  ,
+энтеровирус",BOTA9XWBATb,False
+122,Сытин,CbImuH,False
+123,"прославление!
+упавший
+отпугнуть",npOCaBeHVe! ynaBWNi OTnyrHyTb 8,False
+124,анемия манка,aHeMVI MaHKa 福,False
+125,"Матюк
+сумка
+пыльца
+мсье ;",MaTIOK cyMKa mUbla MCbe ®,False
+126,"9398140376
+боязно",9398140376 60X3HO ,False
+127,Шагин.,S.02 DEU81 R 8 WarnH,False
+128,чистый слива изменник,YNCTbIM CnNBa W3MeHHNK 专装,False
+129,"одноименный
+регата   )",OIHONMEHHD ） perara,False
+130,9799905051, 9799905051,True
+131,"арап?
+учет",apan? y4em >>>>,False
+132,"смерш
+9536985036
+ожог схождение
+Савинова волочь",cmepw 9536985036 OKOT CXOKIeHNe CaBNHOBa BOnOYb,False
+133,расстилать,BCCTW,False
+134,"жидкий
+лакать",X VA KVV SakaTb,False
+135,Бельгия,SenbrW 联E 20000,False
+136,"сахарин
+страсть
+арбалет",家 福 NO00斤 光 caxapNH CTpaCTb ap6anet,False
+137,Подольский,NASA LlOTOJIBCRHY  N0 MARS 串,False
+138,святцы,ceamybl DCAOAS 行 ,False
+139,"физик
+Нечай
+53869", PH3UK HEYAN 53869,False
+140,"дубасить
+Смолик",Ay6acKTb CMOnIK,False
+141,Инга,小 HHra,False
+142,Алай,AJLA,False
+143,80163(,80163(  一,False
+144,"77555 Велько
+смиренный 66575",77555 benako CopeEnt 66575 CHEN,False
+145,"галдеж осушить(
+спагетти   (",raJneK ocymNTb( cnareTTK （ D,False
+146,граб, 2pa6,False
+147,очаг,ouar,False
+148,"Янчук.
+жаль",,False
+149,амба,aM6a 小 心,False
+150,"горло
+Пузевич
+батюшка
+понижающий
+пролепетать!",20pAo Ty3eeuy bamiouka NOHUx aIoWui nposenemamb! 1,False
+151,Скорина,CropMMa,False
+152,Греф,TPEO  ,False
+153,важничать, 1,False
+154,разбазарить прялка,pa36a3apuTb pka,False
+155,Салтыков,aT bKOB,False
+156,"шейный
+50487
+81594?",WEMHbIN 50487 81594?,False
+157,Моцарт,,False
+158,клей!,KnEV!,False
+159,"морить
+слепой
+сшибить
+чернослив",Mopumb cnenou cwu6umb HepHOcnue CODE,False
+160,Чернушевич,YepnymeBny ?,False
+161,облупить,06ny numb,False
+162,вибрион,Bubpuoh,False
+163,Клара,XNAPA ,False
+164,"замещение
+помышлять
+готовно смута",3AMELIEHNE MOMDINAT FOTOBHO CMYTA N,False
+165,наука,Hay ka,False
+166,"пулковский
+хитровато",aysoncrud Xarponaro,False
+167,зачин,BAU,False
+168,Кент.,,False
+169,"Шатило
+цитология",WaTNAO LNTOAONA,False
+170,"каретка
+старомосковский
+осмотрительно
+зачитываться.",kapeTka CTapOMOCKOBCKWM  OCMOTPVTESIbHO 3aMTbBaTbCA,False
+171,иудин!,WYAUH!,False
+172,"Дуся
+богато",香 AycA 6oraTo,False
+173,троп,V CLU Tpol STOEIES ,False
+174,"Галенко
+левит
+душистый
+Ганевич",FaneHKO JEBVT AyWNCTb T aHeBVH,False
+175,Рожина,C 90 POKWIHa,False
+176,"Козин
+Храмов
+невидный?",Thereieeioyere pratective riim 1 保护摄 KO3VH XpaMOB HEBWAHbIN:,False
+177,"дож сельва
+догонять выиграть
+настенный
+свершаться",OHC cenbea ①020Hymb eblu2pamb HacmeHHbIu ceepwambcy 一,False
+178,"въезжать
+окаймить",贸 Bbe3>X aTb OKaiMNTb,False
+179,"вахта
+аборт",BaXTa a6opr,False
+180,Шилов,J UWnOB,False
+181,"листинг самооценка;
+лизинг плантация",nucmuH2 caMOOueHKa; nU3UH2 aHmauua 101T,False
+182,нулевой,® HyIeBO路,False
+183,"питомец event
+Влад
+гвалт вопросик Быков(
+63462 воздвижение
+венский       ?",nMTOmeLevent Bna TBaTT BOnPOCnK EbIKOB( 63462 BO3BVKHVE BeHCKN,False
+184,"Власик
+галстук",BnacuK 2ancmyK,False
+185,"75597
+инфа",75597 MHa 福 不,False
+186,даос,aaoc,False
+187,"Наум стрежень доменный-
+досадливый.",HayM  CTpeXeHb  JOMeHHbW- nOCanWBbIn.,False
+188,бабий,eo 6a6n放 2 (,False
+189,"РСПП
+прям
+99259",#1 PaTI  2078 rpam 99259,False
+190,спассеровать,cnaccepoBamb,False
+191,цыпка,Ubinka,False
+192,"Гребенкина 93780 сивуха
+шоу-бизнес",0O8e Tpe6eHKNHa 93780 CVByXa Loy-6vBHeC,False
+193,резчик,? pesuuk,False
+194,"вмещать;
+Федорова
+Томас",BMeaTb; ΦeOpOBa M ToMac,False
+195,"потешаться
+51581 вышина
+зажмурить(
+66536 чудно",nOTELWATbCA 51581 BbIUNHA 3AXK MYPVTb( 66536 YYHO,False
+196,"трепанация пересказ
+9631168328 бесчестный",TperaHaLIVA repecka3 9631168328 6eC4eCTHbN ,False
+197,"root,","root, 2 口",False
+198,"Василюк 97885
+непостоянство",Bacunok 97885 HeNOCMOAHCmBO,False
+199,ножик,RSI E B HOKHK NLINE,False
+200,"трудящийся
+аттестат
+предстать",TPY AANiCA aTTeCTat npeACTaTb,False
+201,Гришкова,,False
+202,"Стасик
+Жильцова",CTacNK >K WIbLOBa,False
+203,"Сапронов
+Марченков
+энергичный
+забойный )
+наметиться",CanpoEOB MapyeEKOB aHeprHqend 3a60Y5 HaMeTHTbCA,False
+204,домой,AOMON,False
+205,"огнеупор разгибатель
+43245 Лаврухин стиляга
+прямиком ужесточать", OrHeyIop pa3rn6areIb 43245JIaBpyxuH I CrwIara IpAMNKOM yKeCTOYaTb,False
+206,обегать,M oerarb,False
+207,утилитарный,WARNING ZOMBIE REAE m y muAumap Hbiα,False
+208,"завивать
+страусовый
+обаятельно",? 3aBNBaTb CTpay COBbIN ObagTeMbHO,False
+209,77512,77512 人 ,False
+210,Бабаков,,False
+211,"Журов  !
+опереться
+Симончик",)KypoB  onepeTbcs CIMOH-WK,False
+212,9352767310,,False
+213,сойка,efa cOnKa,False
+214,Филатова,QUIaTOBa 囍,False
+215,Саввин,CaBeuH 3E6982OG,False
+216,Сонька-,COHbKa-,False
+217,"Феоктистова term
+диоптрия бензопила
+Ананьева скучноватый
+расстаться 9336428168(",L DeOKTHCTOBa term OI 6eH3OIIWa AHaHbeBa CKYYHOBaTbIN 9336428168 pacCTaTbCA,False
+218,"coat
+бзик",2 t 63NK,False
+219,"Демкин
+51729", EMKИH 51729,False
+220,"хорошее
+слалом
+сгубить
+Чуйков",xopowee CnaSIOM c2y6umb yy ukoB ? http://cofound.in/profile/Tue,False
+221,"слушок
+уборочная
+дожать
+процедура",CIyIIOK yopouna JOKaTb moneypa,False
+222,брахман,bpaxmaH,False
+223,Алданов,AndaHOB 人,False
+224,"идея гогот
+Фоменкова",WAes roroT 中OMeHKOBa ,False
+225,"опора;
+свыше
+диета",onopa; ceblwe duema,False
+226,Журкин,)Ky pKuH,False
+227,"равелин
+актуально;",pasen uh ak my au bh o; O,False
+228,челядь,He,False
+229,"Караулов
+Шанчук
+купить залежь",KapaynOB LLaHHyK KynNTb  3anexb,False
+230,"штангист студить-
+филин Колосовский",LITaHIHCT CTyINTb- OWIUH KOIOCOBCKMN,False
+231,чаек больше,uaek bonbuue 福,False
+232,маржа,Mapxa,False
+233,"гжель
+целый",2x esb 雪 yen blu,False
+234,непредвиденный,HenpeTBHneHHHY,False
+235,9419380237,941998027,False
+236,"метелка
+трейдер:
+приход",Memenka mpeidep: npuxod,False
+237,"Глебов
+лахтак
+склад!",Tne60B naxTaK CKnan!,False
+238,"лейка
+зятек",neika 38mek,False
+239,"захромать,","gaxpoMaTb,",False
+240,синклит:,CUHKAUm:,False
+241,"спа Князев спонтанный
+почесываться усомниться обнимать ген
+блондин всплеск Горлова ажурный",a cna KH93eb cnoHmaHbli nouecubamcycouumbgouuame SuoHgun BcneckFopuoba axypHbia,False
+242,"новодел обход Ромашко
+Жолудь Гудкова выгода;
+9475548212",0X00 HOBOIEJI POMaILIKO KoIyb IyKOBa BbIrOa; 9475548212 4PoidsNeLW,False
+243,"verb
+база",verb M 6a3a,False
+244,"ликбез
+эпоха
+дисковый
+Чечура
+Вареник",nNK6e3 anoxa ANCKOBbN 4e4ypa BapeHUK,False
+245,finger),finger),True
+246,"непроверенный
+хохотнуть",HeIpOBepeHHbI XOXOTHyTb,False
+247,36816,36816,True
+248,успенский,Y cneHcKuu V O,False
+249,Рублев,迪 窗 福 Py6nee,False
+250,Юрлов,HOpnOB,False
+251,"Саков
+Иудея",CaKOB Vyoeg.,False
+252,"lady
+членский
+подружка
+Смолко",lady yneHCKuU nodpyxka CMOnKO,False
+253,"натолкнуть
+вразброд,
+Семченко
+служка","HaTOnKHYTb Bpa36pon, CeMyeHKO cnyK ka",False
+254,"выстудить
+Аврамчик -",nG BBCTYAVTB ABPAMHIK,False
+255,"Конов,",星 KOHOB!,False
+256,"взрослеть
+оглашаться
+ветровой",B3p0ceTb OrnalaTbcA BETPOBON,False
+257,слега,cneza,False
+258,ну-у,Hy-y,False
+259,"подвесить
+Кучумов
+ералаш",TOABECUT b KY4Y MOB EPA\A山I,False
+260,суетливо,YeTIVBO,False
+261,"закат
+14234",I 3aKaT 14234,False
+262,9331007319,9331007319 M 小,False
+263,"Бугрова
+9295968930
+Скороходов
+Янкевич
+значок",By2poea 9295968930 Ckopoxo0oB AHKeeuy 3Ha4OK,False
+264,свести,工 ceecmu,False
+265,"овация вой
+расстегнуть
+полноватый (",BON  OBaLIA paoOTerHyTb TOAHOBaTbN,False
+266,Глазырин,Tna3bIpuH,False
+267,Кощей МПА,MNIA Kouweu RLM,False
+268,"байдара
+фляжка
+наяву",BANRAPA IAKKA HAA BY,False
+269,"меццо-сопрано
+Горнак;
+многотомный
+воинственно
+вскидываться",MeLILO-coTTpaHO TopHaK; MHOrOTOMHbIN BONHCTBEHHO BCKNnbIBaTbCA,False
+270,"сыночек
+проем
+доложиться",CbIHOyeK npoem OnOXNTCA,False
+271,ВГИК,P BrVK,False
+272,складной!,CKnaAHO,False
+273,"кинокомедия
+судовой",KNHOKOMEANA CY AOBOИ,False
+274,9734573763,9734573763 THULE,False
+275,наказанье,HaKa3aHbe,False
+276,"освятить
+Киселева",  OCBATKTb CAUFORPS KHceneBa,False
+277,"косноязычный
+салфетка
+запеленать",KOCHOg3bUHbu cangemka 3anenehamb,False
+278,вобла,C eo6Aa O,False
+279,глушь,rny wb,False
+280,56293,56293 利,False
+281,"джемпер
+шапочка",IxeMnep manogka,False
+282,"11592
+замша
+отходы(",11592 3AMLIA OTXOAb,False
+283,"вакцинный
+прожить -
+угнетать ;", BAKLMHHbIN npOKHTb YrHeTaTb,False
+284,разработчик,d pa3p,False
+285,"облететь
+помахать южанин",心 天 Ciive o6nememb noMaxamb ocaHuh,False
+286,Каминский,KaMUHCKU CILAE 房,False
+287,пролонгировать!,,False
+288,Олейникова,DnevHWKOBa,False
+289,"Русских
+фотка
+перенос",PyccKuX  pOTKa epeHOc,False
+290,Салей,Caneta Z,False
+291,Гончаренок,Toruapeak,False
+292,"эмоциональный
+эстетически вложиться
+потягивать огромный;","MONOHAH 3CTeTWyeCKN BNOKUTbCA nOTArNBaTb orpOMHbIN,",False
+293,"рокан
+вест",pOKaH BeCT,False
+294,"карат
+бронь
+ливрея",Kapam 6poHb ueper,False
+295,"догнать
+лотерея
+слабнуть",JOrHaTb JIOrepex CIa6HyTb,False
+296,"Хейфец
+задрать
+40109,","Xevpeu 3aApaTb 40109,",False
+297,ходики,手 xoOuku,False
+298,Осмоловский,真 一等 一等 OCMONOBCKN,False
+299,заклинание,,False
+300,89189,89189,True
+301,"9708626915 секрет Фроленко
+10775 запариться 9935867172
+68540 58237 Ахмадеева кулачок  ;
+присосаться порхать мастеровитый",9708626915 ΦponeHKO ceKpeT 10775 9935867172 3anapKTbcA 68540 58237 AxMaeeBa kynayoK nopxaTb MaCTepOBITbi npNcOcaTbcA,False
+302,"печенье
+Мячина
+Смыслова
+делать",neyeHbe MAYNHa CMbICAOBa AenaTb,False
+303,"вобрать
+лабиринт",Bo6pamb na6upuHm,False
+304,"Шейко
+комбриг",ILleiko Kom6pu2,False
+305,улюлюканье:,请上 yJOJOKaHbe:,False
+306,63523, 63523,True
+307,"игрек
+Лесняк",Wrpek NeCHAK,False
+308,глаз,4! R 2Λa3,False
+309,"варьировать
+марионетка(",BapbNpOBaTb MapNoHeTKa(,False
+310,"отбой
+Юлий",019 OTEON 1OnnN,False
+311,солома,conoMa,False
+312,"9426716317(
+партактив;",9426016317（,False
+313,"усадить
+прялка
+рвота",ycaqkTb mpRnKa pBOTa,False
+314,Зезюлина,3e3lonvHa,False
+315,"рядком
+мироточение
+Стасюкевич
+ансамбль",PAKOM MVPOT OyeHve CTaCHOKeBVH aHcaM6nb,False
+316,"Конаков зевака
+посвистеть  :",KoHaK03 3eBaKa noceucmemb,False
+317,шельф,menb中 me,False
+318,"свое
+проблеск
+размен
+скушать",CBOE npo6neck pa3 MeH CKy WaTb,False
+319,"сосец
+пара !", coceL napa ! =,False
+320,"вертеть кортеж
+гаражный Лапцевич",BepTeTb KOpTex rapax HbIv nanueBHY,False
+321,Майстрович,MacTpoBHY EE-C4XM,False
+322,именование!,  MMEHOBaHNe!,False
+323,воспринимать," poCTIpHIMAaT,",False
+324,"ясность
+фехтовать
+Жарикова", ACHOCTb ΦEXTOBATb >KAPVKOBA,False
+325,неопределимый,Heorpenenwsi,False
+326,"резиновый
+Соломко
+тютелька",pe3uHoBblui COnOMKO m0meAbka,False
+327,прорубь 83227,mpopy6b 83227,False
+328,Битель,Bumenb ,False
+329,седина,ceANHa,False
+330,"умильно
+Степченко
+застава
+ценностный","yMWbHO CTenyeHKO 3acTaBa LeHHOCTHbI 14 Seek7Rty 14421208 #2## c+eu+ -  u CFeO""  Ht'Ke) # 元味 中8- #0e8+  wituic ee  面 益盗",False
+331,"лисичка
+трещать",UWW JINcnyka TpeuaTb,False
+332,"мгла платан
+Кураленко
+брянский",Mrna nnaTaH KypaneHKO 6pAHCKUN,False
+333,"шприц
+одеть",mpuu OneTb,False
+334,"искоренить ask
+усопший
+экстази",HCKOpeHMTb ask yconm 9KCTa3H DGTIO B D,False
+335,"язык
+парта",TAPTA,False
+336,Жодик,KOnNK R19,False
+337,Германов:,dopACHc M,False
+338,23750,23750,True
+339,"прогуляться
+малокровный
+Черникова ?",npo2ynambcg Mas okp oehbu HepHukoea ?,False
+340,96845!,96845!,True
+341,"выход
+Пстыга",BbIX On ncTbira ,False
+342,"Галяутдинова 9124531034
+эмиссия Чечко постфактум",TanSyTANHOBa 9124531034 Yeyko nOCT中aKTyM 9MMCCMA ,False
+343,"разливка
+гиперинфляция",pa3JiHBKa ranepuhdnu ,False
+344,проблематично,,False
+345,"остроносый
+взимание",ocmpOHOCblu B3UMaHue DELE ctOOx 69,False
+346,"Минченко
+перстенек мироощущение",MuHyeHKO nepcmeHeK Mupoowy weHue,False
+347,Паутов,TayTOB,False
+348,"сконструировать
+посыпать чемпионат-
+Корхова гравий",CKOHCTPy MpOBaTb nocbinatb yeMnNOHaT- KopxoBa rpaBNi,False
+349,9691600660,9691600660 L,False
+350,"солончак
+укрепить
+сеть)",OROHLAK YKPETW,False
+351,"никотиновый юла
+высоко вытяжной",HkOThHOnS roAa MhTaKHON BHOOKO 鑫,False
+352,сайт,caitr,False
+353,"бумажка :
+бережный
+работать
+пуховый",D byMaxka bepexHb paboTaTb nY XOBbH,False
+354,онлайн-,OHnANH,False
+355,gave;,gave;,True
+356,"убежать
+спора",y6examb cnopa,False
+357,"армия,","apuua, ml 电",False
+358,"93776
+Каверин
+обтирать
+попугай",93776 KABEPHH OBTHPATD nOnYTAN,False
+359,хобби,Xo00 ,False
+360,"cross
+82067",CROSS 82067,True
+361,прельщать,npenbwamb ,False
+362,дико?,1  duKo? 一 二,False
+363,"шикнуть
+желаемый
+десантник
+толпиться?",3Y WWKHyTb xenaeMbM AeCaHT HUK TONnMT bCA?,False
+364,выживаемость,BbDKMBAEMOCTb,False
+365,самозарядный,conosapomi #,False
+366,"конечный
+Даниэль
+кошма
+бортовой
+Бузук  ;",KOHeYHbIM aHVBnb KOLLIMa 6OpTOBOИ By3yK,False
+367,вуду,BYAY,False
+368,Василюк,BacwiIok 口网口口口口口,False
+369,"парняга обмотать
+барыга",napHa2a o6momamb 6ap b2a 0M7,False
+370,"Муха
+себя",MYXA CE6A,False
+371,Жуков, 10  Xy Kob,False
+372,битл,008889 6umr 2,False
+373,Макей,女 MAKEN,False
+374,"стойкий
+Кушнерова)",cmoikuu Ky WHepoBa),False
+375,улан,ynaH,False
+376,Проханов,npOxaHOB,False
+377,"чага
+колли.",yara KOnnN. 13666302,False
+378,"зрелость тайм-аут
+автотранспорт",maiim 3penocmb -aym aemompahcnopm,False
+379,ружьишко,A,False
+380,мура),Mypa),False
+381,одиночка,yKd,False
+382,"задурить Полторак
+посрамление",sagypumb Toumopak nocpau heHue,False
+383,"ипподромный фол
+полутруп",TOAPOMHD 中on nonyTpyn,False
+384,"карлик
+щека",apnuk Wek a,False
+385,"сизый  )
+Гаврилов
+Ганиева",cvBb J FaepwnoB 3 烟火谷,False
+386,подать,nodamb,False
+387,утихомириться,nupumbca ymux,False
+388,бизон,6VBOH,False
+389,вьюга,7 Bbtora,False
+390,"разлиться
+уменьшать",pa3numbcA YMeHbwuamb ,False
+391,paper,paper,True
+392,"вероятностный
+57894
+временный",BepOATHOCTHLA 57894 BpeMeHHak,False
+393,"Сачек
+льстить тутовый",CAYEK TYTOBbIN bCTUTb,False
+394,Сазановец жизненный,ooo Ca3OHOBeU X U3 HeHHbU,False
+395,"Лукьянцев
+Бодунов",JIYKbAHIEB BOIYHOB 口 L,False
+396,"центр
+титан",饮 LeHTp TVTaH,False
+397,"замуж
+Савчук",3aMy>k CaBuyK,False
+398,"вправить
+ломик диджей
+look
+заячий
+Леонардо футболка",BApaBNTb nOMNK AWAKen bok  JeoHapno dyT6onka,False
+399,Горецкая,TOPBAXAR,False
+400,"престижно
+напортить эмиграция
+куница
+дольмен выплакаться",IPECTVDK HO HAnOPTVTb 3MNTPA LIVA KY HVLIA AOMbMEH BbiTVLA KATbCA,False
+401,"падло
+подлог
+сударь
+Норко",nadno nodnoc cydapb Hopko,False
+402,"Евгения
+Лепеш
+Довгань",EBreHA Nenew noBraHb 欢迎福,False
+403,ускакать,VCKaKaTb ,False
+404,"славословие
+по-черному
+вколоть Ляпко",CnaBOCNOBHe nO-yepHomy nAnKO BKONOTb ®,False
+405,рассеяться,印 PACCESTBCA,False
+406,елей,eneu Ceummi XX,False
+407,джиу-джитсу,A IKHY-IKHTCY,False
+408,"Борбат Пигулевская
+измазать никак
+Соломко огнеупорный
+Передня",Bop6ar uryneBcKag V3Ma3aTb HMKaK COnOMKO orHeynopHbIN epenH,False
+409,22846,22846,True
+410,"технически
+заиграть Ильинчик
+Воркута рукопожатие)",TeXHMyecKM MIBHHYIK 3alrpaTb BopkyTa pyKOnIOKaTTe 品发点街点生产,False
+411,Шахов,LJaxoB ,False
+412,Болотов,口  bonomoB,False
+413,раут,S家 0 PAY 401X257 加t次 公飞1#,False
+414,"иначе
+Жилин?",uhaue XKunuH?,False
+415,прям,修 npXm,False
+416,Полянский,福,False
+417,"обмахиваться
+Сазановец",06Max uBambca Ca3aHOBeu,False
+418,"хомячок
+Седлецкий
+корректив
+тунец", XOMOK Ceoneukuu 000 koppekmue my Heu,False
+419,"призрачный
+никель Новоселова
+дельфинарий рука
+сотрясение душевой",npn3payHbn HoBOCeOBa HMKenb AenboNHapn pyka AYWeBON COTpACeHNe RA,False
+420,"стилизовать
+загорать",2 cmunu30Bamb 3a20pamb,False
+421,"недоработка
+трудолюбиво",HE』OPAEOTKA TPYONIOENBO,False
+422,барон,pgboh,False
+423,запылить,Banbinumb 好源源欢家,False
+424,светило,ceemuno,False
+425,"Самарин
+гудеть",CaMapuH 2y demb,False
+426,капитан,,False
+427,оземь(,geMb(,False
+428,"85266
+93816
+после",85266 93816 nocAe,False
+429,Мальгин,M X,False
+430,ваххабитский,,False
+431,прорубь:,npopy6b: ,False
+432,"никнуть
+Хурсан зажим невысоко обновляться грипп",# HUKHymb XyCCH3UOc,False
+433,city,city,True
+434,понаблюдать,morabnioab,False
+435,"антагонизм
+9594625313
+бесценок:",AHTArOHN3M 9594625313 BECLEHOK:,False
+436,матерый,Mamepbia ,False
+437,"натрий
+доступность
+Тель-Авив
+билетный
+откинуть!",HaTpW AOCTYnHOCTb Tenb-ABUB 6WeTHbIM OTKUHyTb!,False
+438,завоз,3aB03 、,False
+439,Савостьян,?,False
+440,"Сталин 23963
+обговорить дробина
+ведомость",Cmanuh 23963 000 poouna Bedonocm6 I 7,False
+441,Крук,0 KpyK,False
+442,Таджикистан пиала,nnaAa,False
+443,"Лапа
+трал",Nana Tpan 店,False
+444,"сосуд
+выпархивать
+чванство",cocyA BbnapxNBaTb YBaHCT BO,False
+445,"асбест плюс Чуркин
+болячка СПИД",ac6ecm nIOC LVPKUH 6onAyka CnNn,False
+446,"перепилить
+коса чуять
+Ермаков",nepenusumb koca yygmb M EpMaK0B,False
+447,"сдерживаться бриг замолчать
+водоснабжение лор митоген
+варшавский Романко Лысенко",6pHr CAepXEBaTbCa BAMOIYATD BOAOCHa6xeHHe nOp METOreB BapmaBcKEY POMaEKO JIHCeEKO ,False
+448,9964304271,994304271 宣,False
+449,"загрязнять
+санузел
+начинать",8 BArpASHATE CaHyBeJI HATRHATB,False
+450,кило-,W kuno-,False
+451,"начхать Шиман
+Батурин",LuMaH Hayx amb bamy puH,False
+452,"коситься
+теперь герольд",A 8 Kocumbca menepb 2eponbd,False
+453,"26076:
+элита,",VOE,False
+454,"опоясать
+припас",onOAcamb npunac,False
+455,пища(,nNWA(,False
+456,73395,Y 73395,False
+457,"Маврин
+знахарь",MaspzH Bzaxapb,False
+458,"Кузякин
+Шефер
+глухомань",POLICA Ky8AKAH 包 ellepep rIyXOMaHD,False
+459,досуг, JOCVI,False
+460,"Салихов
+рдеть
+оживить",LanWxOB PAeTb OKNBVTD,False
+461,училище,yywnwe,False
+462,резистор,pe3NCTOp,False
+463,татарский,taTapcKH,False
+464,норд,Hopa 办,False
+465,ахти, axTn,False
+466,наметка,HaMeTKa 区检所 行电餐先 翔印美品,False
+467,"армяк
+Рязанов",apmaK P93aHOB,False
+468,киселевский:, 3红 017,False
+469,атом,A amoM,False
+470,Фридман,OPUAMaH,False
+471,"сталь Босния
+плечики)
+парашют
+Шугай Ищук)",EOCHNA CTaIb mJeyNKW) napallIoT llyrav Иulyk),False
+472,"мести
+бесстрашие
+Шорников
+епископат
+кайма,","MeCTH 6eccTpaune LllopHNKOB enMcKOnaT KaNMa,",False
+473,угореть,vaopem' ?,False
+474,биосферный,6uocepHaiu,False
+475,гласно,2naCHO,False
+476,"Кислов сарацин цветочный
+никак
+вырисовываться",KVCnIOB capaLIVH LIBETO4HbIM HMKaK BbpVCOBbBaTbCA m,False
+477,99687,99687,True
+478,"расовый
+выткать",P pOCOBbV BbITKOTb O 1 ? 3,False
+479,"Цыбин.
+юрьев",M LLb16UH. lOpbeB,False
+480,план-,0 THNIE Heisnn nAH- ,False
+481,"планктон
+древостой
+воин",naHKMOH dpeeocmou BOUH,False
+482,78741,78741,True
+483,крона,#品 D ya- KpOHq,False
+484,"низкочастотный
+отстаивание
+вяз булькнуть",HBKOyaCTOTHbM OTCTaVBaHve 6ynbKHyTb BS3 建合运,False
+485,Чура-,a 机发 Aypa-,False
+486,щелка,wenka 福 ,False
+487,95285,. 1953,False
+488,"трио
+вроде:",mpuo Bpode:  ,False
+489,"практичный блаженство
+Резникова поэтому",npakmuuhbi 6naicehcmeo Pe3HukoBa nosmouy,False
+490,ударять,YAapATD,False
+491,Манаев,MaHae,False
+492,9668712443,9668712443,True
+493,Шашок,lamok,False
+494,"белоручка
+Мардас
+добывающий",benopyuka Mapdac do6bieaowuu,False
+495,"сливной
+лысина",CIMBHON JIbICMHa 3 ,False
+496,речь,台家 业 peyb,False
+497,"депрессия
+Счастный :",Helipeccna CuacTHbI,False
+498,крик,Kpuk,False
+499,"продажа
+Рындин:",TIPOAAXA PbIHA NH: 3,False
+500,почетно?,HOueTHO?,False
+501,94358:, 94356,False
+502,Бедрицкий;,BeApNUKMn;,False
+503,евроремонт,epopeuom,False
+504,"научаться ожог
+текстильщик
+Романько",Hay4ambcA OHC02 mekcmwbyuk POMaHbKO,False
+505,"надоедать 10151:
+сатиновый",10151 HaAoeAaTb CaTVHOBbIM 多隆,False
+506,комдив,F KOMAVB,False
+507,"Якубовский изгой,","Aky6oBckuu u32ou,",False
+508,Пипко,nnnKO,False
+509,Ганс,U PaHC,False
+510,"Феофан
+вбежать шарада
+глубочайший",Qeo中at B8examb  uap aga zuy Souaauua S,False
+511,"коммунар система
+кринолин взбодриться
+свами выписка",KOMMyHap aNCTEMa BB6OAPNTbC] KPNHONINH CBaMM Bbnvaka,False
+512,"мирный
+дерзить
+Шунейко
+важный",MOHbIN Aep3VTb LLyHeiko BOX HbIM,False
+513,9635385438,S,False
+514,Голос:,TOLOC.,False
+515,Нечитайло,Heyumauno,False
+516,"расцвет изгой
+Войтович
+Бородавко",paCLIBeT WBrO BOTOBVH BoponaBKO,False
+517,"импульс
+inch",#馆 HMIyJIbC inch,False
+518,многолюдно,,False
+519,Шанько,ILaHbKO,False
+520,перестраховщик!,n,False
+521,Дрозд,PO3n,False
+522,Мамин,MaMVH H,False
+523,должон,,False
+524,"Воронюк  :
+повременный",BopOHIOK MOBpeMeHHbIM,False
+525,софизм,coU3M 福,False
+526,причащение,mpuyaeLie D,False
+527,"Сытин щербатый )
+Маркин патиссон",CbITVH Wep6aTbiM MapKVH nATVCCOH,False
+528,"молот ?
+Качур
+Колодко",T 43 LNNCrON Caao MONOT Kaqyp KONOLKO,False
+529,тиранство,集 TUPaHCTBO,False
+530,картер.,kaprep.,False
+531,"9576343116,","9576343116, 9",False
+532,"шарфик
+масло",A WAPPMK MACNO,False
+533,"панихида
+МКАД  )",naHmxuna MKA/ 1,False
+534,патриотически,,False
+535,"Кремез
+наголо",KpeMes HaroIO,False
+536,соловей,COJIOBeN CRTAN,False
+537,"кто-то
+необычность",KTO-TO HeOObHHOCTb,False
+538,микро,MMKPO 美等不,False
+539,10775,10775 Gll/at MyChr/Ic 八字 LoMxreSet/en. /NoSch amo - #  +.AUuna 本品5g可 2 NntnTendSchAnt ASSEUEOINAPA AC-PAABPALP 本品以日本国内订的在2商#本0江让 NntenowthNrendoScaxt.cesedyNintendo ASSEMBEDINJAPAN HAC-P-AFSALIPN) TRA-HAC-AXVEA-HN,False
+540,Петрачкова,,False
+541,"тюбик
+Конго",TI06HK KoHro,False
+542,Красиков,Kpacukoe 53.95US3550Con 032,False
+543,Харбин,装 Xap6uH,False
+544,улус,YIYC 9 SOE,False
+545,провиснуть,,False
+546,"Тетерина заупокойный
+малозаметный",Terepooa saynokoiimct Ya AosaNErn0t,False
+547,"свежеиспеченный
+буддизм Коган
+гостеприимство",CBeK eucneYeHHbIu 6y0ou3m K02aH 20cmenpuumcmBo #,False
+548,"грамота
+старуха
+Дрожжа",rpaMoTa CTapyxa Apoxxa,False
+549,"Гурский рамочный
+понарошку",PaMOyHbu Fypckuu noHapowky,False
+550,условно-досрочный,AAN,False
+551,"недоносок
+реформатор",HeHOHOCOK pepopmaTop,False
+552,пальтишко,TLKC IaIBT,False
+553,"физфак
+завязка-",cpuscpak 308931a- 喜味福电子,False
+554,сердиться,出 TbCA Cepam,False
+555,"слыть
+мавр",围 CnbITb MaBp rendsinWorkforceDevelopment r-security-2017,False
+556,"69534
+Завьялов
+Токарчук
+подновить
+столетье ?",团 69534 3ABBAIOB TOKAPYYK IOE HOBHTB CTOIETBE ?,False
+557,цаца,ala,False
+558,"95928
+Губарева
+проплыть
+Походня
+market",1 95928 Iy6apeBa mpOLmrTB OXOEA market,False
+559,приставание,npVCTaBaHve,False
+560,исчезновение,,False
+561,"получасовой
+самовыражение
+одиночка",AAEBE nony4OCOBOU COMOBHPOK eHue odUHOuKa 9   ,False
+562,"выходит
+оплакать
+багульник
+Шкор",BbIXOIT OIIaKaTb bary JIbHIK IKOp,False
+563,корма,KopMa,False
+564,долговой,AORIRTOBO,False
+565,убор,,False
+566,"смастерить
+жеребенок:",cuacmepums xepebenon:,False
+567,литератор,numepamop s.Machine tain 7w.Warm n-chlerime ean,False
+568,"неадекватно
+бедненький",HeadeKBamHO 6edHeHbKuü,False
+569,"Карелина
+полмира
+болотце
+60058",  用 一  二 三 KapenvHa ronmpa 6onoTLe 60058,False
+570,"Урюпин
+бартер",ypIONH baprep 停,False
+571,"сознательный песнотворческий)
+физрук Савченкова Августин",CO3HaTenbHbIM neCHOTBOpyeCKNi) PV3pyK CaByeHKOBa ABryCTUH,False
+572,князь,KH93b ,False
+573,Бутко,ByrKO,False
+574,"мечтательно
+аргументированный-
+покуривать
+стольный сера
+them
+Каплан",MEYTaTebD apyMeHTNpoBaHbiH TOKyp/BaTb CTOHbN cepa them KanaH 喜,False
+575,второй,BTOpon,False
+576,"43145-
+укрепить)",43145- yKpeIITB) 1,False
+577,"лизат
+Яночкин",Zm nM3aT HHOUKMH,False
+578,"9706631286
+добродушно
+завком
+тянучка Иона",2 9706631286 m06pOnyHO 3aBKOM Hona TAEyqka,False
+579,омела,OMena,False
+580,беда,bega,False
+581,понятный,nOHATHHC,False
+582,хаки,hEohib Eavib xaku,False
+583,вызволять заочный,Bbl3eonamb 3aoyhbiu 痛 NO ACCOUNE,False
+584,"Сунцова дань
+Мошкин
+Винокур too",CyHLOBa AaHb MowKUH BuHOKyp too,False
+585,"9152698318
+Букатый
+пригладить
+9672460475",9152698318 ByKaTH放 npurnanHTB 9672460475 # N,False
+586,эстетство,T,False
+587,"Стешенко
+увянуть",CmewueHKo y eAHy mb,False
+588,Боря,Bopa,False
+589,Фурцев,pypues,False
+590,кейс,Keic,False
+591,сикль,CHKJIE V,False
+592,"гном Костенко
+подпоручик царек
+возлежать",KocmeHKo 2H0M nodnopyyuk uapek B03sex amb,False
+593,"Якунина Бахир
+Шевчук Клим Украинец
+вторичный искажать", KyHUHa 5axu up Weeyyk KnUM yKpauHeu Bmopuyhbu uckaacamb,False
+594,scale:,,False
+595,сломя?, 9 CnOMR?,False
+596,"точеный
+Крамник",TOyeHbIN KpaMHNK,False
+597,спекуляция,#  creky,False
+598,"кули
+менее",kyu ueHee ESY ,False
+599,"херувим
+81594
+Подоров",· C  xepyBUM 8594 MonOpOB,False
+600,охладитель,OXIQAITens,False
+601,15398,15398,True
+602,Давид,AaBNA,False
+603,веско,BeCKO,False
+604,оспариваться,ocnap ueambcx,False
+605,"казачок?
+угорь", Ka3aYOK? yropb,False
+606,неумно:,HeYMHO:  十 ＃,False
+607,"швея
+вмять",onC C  WBEA BMAmb I,False
+608,"Гуляев
+Афган
+кашпо",FyngeB O AdraH- KaLno,False
+609,знать,HaT,False
+610,Худик,XYIИK BPrA Opacage OTram ORlePr Oox,False
+611,came,came O,False
+612,отсеять,omcea mb ,False
+613,причащаться,mpNHaaTbCa,False
+614,Метла,Merna,False
+615,"слюдяной
+донорный
+сдуться.
+Кетов Шульц",CIOAHON OHOPHbИ CAYTbCA. KeTOB LyL,False
+616,"skill
+убыть",,False
+617,"головной
+скачка",7 TOIOBHON CKayKa,False
+618,неблагородный,,False
+619,пари(,L napu( ,False
+620,профи,rpoy,False
+621,Белова,之 F SeTOBa,False
+622,"притеснять
+придаточный,","rPNTeCHITb mPNnaTOUHb,",False
+623,"трлн
+водить",红 TPJH BOJKTB SAPFH,False
+624,Котлова,KOTIOBA MDO 000 ? 00 000 a酒 leue,False
+625,Цыганова must,车 Iuzanoea must,False
+626,Горин,1 + 2 N 信 5 》 3 TopWH,False
+627,"отлучаться
+пляс Коблов,
+Слесарева","OTnyyaTbCA K06nOB, AC CnecapeBa",False
+628,озолотить,,False
+629,неполадка,,False
+630,"отдраить
+шатать
+слезный -",OTApaNTb WaTaTb Ce3HbM R9KO,False
+631,"преподноситься
+борода
+клешня",TpenIOHOCHTbCg bopona KTeLHA 00,False
+632,"force
+безобразие
+Свечникова:",f orce 6e306pa3ue CBe4HUKOBQ:,False
+633,Роджер,Poarep,False
+634,приспешник(,IpvcneLHNK,False
+635,"мокро
+свалка",MOKpo ceaAka,False
+636,Демешкевич,JeMemkeBMY 网,False
+637,15463,15463,True
+638,ватага least,eamaza least ,False
+639,"Влад
+ровно",Bnan POBHO SRA,False
+640,нечерноземный,,False
+641,"босяк вестибюль
+9309518007)",6OCAK BeCTVOiOnb 9309518007,False
+642,"office
+внутривенно
+проспать",office BHyTpVBeHHO IpocnaTb,False
+643,"спецсигнал хомут(
+оказывать плиточный",CHeLICHTHaJI XOMYT( OKa3bIBaTb HINTOYHb,False
+644,"матрац
+глядь",MaTpau A V,False
+645,"рубец
+работа
+усыпить",py6eu pa6oTa yCbInUTI Cb 安 ￥,False
+646,неуважение,,False
+647,вряд(,POICER BPAAC,False
+648,влечься,Bneubca,False
+649,"домик
+рюмочка
+выплата",AOMNK pHOMOyka BbinnaTa,False
+650,"9117610448 руководящий Игорь
+подкармливать неумеренно Кривова",9117610448 pykob Mropa TOAKapMAnbaTh KgubobBa HyMeYeHHO,False
+651,"рама
+скак",= pama CKaK,False
+652,"гимназия
+глушение",THMHaBNA rJymeHne,False
+653,"насквозь
+шепелявый",HaCKBO3b mEnEIABbIY,False
+654,"Чайка
+Лапин",niil yaMka NanNH,False
+655,"9366420090 сборник
+нечистоплотность
+Стукач Дубровин",1   9366420090 c6opHNK HCYNCTONAOTHOCTb CTyKay △y6poBNH,False
+656,"салазки
+кора
+Фалько",中 cana3K kopa ΦabKO,False
+657,гостевой,rOCTE BO,False
+658,"9591782745
+9376856660
+оседлый?",9591782745 9376856660 ocegnbin?,False
+659,"барк
+заем",6apk 3aem 1,False
+660,Гузь?,39 ry3b?,False
+661,"Сомов 74342 детдомовец
+изголовье 9123770580",→  COMOB 74342 AETAOMOBEL 9123770580 N3rOnOBbe,False
+662,"скупо
+Трошин
+вкусно", 汇 ckyno TpowuH ekyCHO,False
+663,тако,TaKo,False
+664,ладный,NaAHbI,False
+665,"рассказывать
+сицилийский(
+13753 плацдарм,
+Жилин","paOOKaSbBaTb ONUNANiOKni( 13753 AaLAapm, X NANH O",False
+666,"спесь!
+сипло",crecb! CHVO A,False
+667,"нейтрино
+рюмашка сыч-",S HEHTPHHO PIOMA LIKA CbIY-,False
+668,"метка сайга
+изолированно
+кадровик
+песнотворческий
+любовник",Memka cauza uonupoeahHo kaopoBuk necHomeopyeckuu 110606HUK,False
+669,"прокрадываться
+Павлюченко
+воспрещаться",npOKpa/bIBaTbCA MaBnIOYeHKO BOCnpeLLlaTbCA,False
+670,Нинка,HHHKa,False
+671,"седло
+чистокровный
+обуславливать",ceπIO qMCTOKPOBHG 06yCIaBJILBaTb,False
+672,road,road D,False
+673,"Шумко !
+серый )
+чайхана",LIY MKO ！ CEPbIИ ) HANXAHA 8,False
+674,"аналитический
+мерять
+передраться
+Симончик
+биоценоз:",aHaΛ umuyecK uü Mepxmb nepeopambca Cum Oh yUK 6uoyeH03:,False
+675,пудрить,IYⅡ PHTb ,False
+676,Легкая,nerkag,False
+677,"точильный
+потряхивать
+Рацкевич
+разминировать",1 TOUNI bHbIA nOTpAX MBaTb PaukeBny paSMMHNpOBaTb,False
+678,по-осеннему,ro-OceHHeMy EN609V,False
+679,"Яцута
+бутса
+враки",Auyra byrca bpaxn,False
+680,"свыкнуться
+резинка",CBbIKHy TbCA pe3NHKa 中 AHONG,False
+681,"52664!
+Салаш",52664! Canaw 山,False
+682,"Скипор
+водоток
+вектор
+бусинка", CK unop Bo0omoK Bek mop 6ycuHKa 1,False
+683,"изолированно
+печалить соитие
+бархан 95402",VBOJNPOBaHHO neyannrb coMTne 6apxaH 95402,False
+684,"песий
+сынок
+верх",2 necni CbIHOK Bepx,False
+685,"37292
+драповый
+православие.",37292 JPAIOBBI IIPABOCLABME,False
+686,призматический,,False
+687,"Липай
+Зубик
+Рудич",unai 3y6vk PyAWH,False
+688,Мошкин,HH,False
+689,иерарх месть,一 nepapx MeCTb,False
+690,"hour
+проба,","hour rpoba, WEO18",False
+691,моделировать,  0 大 店 % MOAeINCOBaTb,False
+692,"моллюск
+алхимик",Q MONNIOCK anxUMUk W,False
+693,карамельный,1,False
+694,"не-ет Чукотка
+стартовать",Hykotka HeleT CTapTOBaTb ,False
+695,"Галицкий
+возвратить Крюк",Ln TanHIRHY BO3BDaTHTB Kpor,False
+696,"экспедиционный)
+просвет?",3KCNEANLINOHHbINI MPOCBET? ®,False
+697,"пылить
+плюс
+биополе",nbnNTb niOC 6nonone,False
+698,"шахиншах начинание
+неуклонный
+термический-",Wax UH Uax HaYUHaHUe Hey KΛ OHHbIU mep muyeckuü- 生,False
+699,"намерен
+возня",HaMepeH BO3HA,False
+700,"Мошкин
+стерва",MOIH CrepBa AIR B,False
+701,"робята
+ревком
+пирамидка 83040",po6ara peBKOM 83040 upaMuIka,False
+702,"Василькова
+Бакин 9434848317
+многовековой
+самокрутка
+конкретика   -",BaCW bKOBa BaKNH 9434848317 MHOrOBEKOBON caMOKpyTKa KOHKpeTNKa,False
+703,паддок,naAAOK,False
+704,бесить,6ecUTb 天肾,False
+705,"пылиться фотоснимок Немогай
+хитрить,
+Хренова причальный сапожный;","POTOCHNMOK Hemoran nbUIITbCA Xit Pit'b, XpeHOBa npMAIbHbIN canoxHbit;",False
+706,"лавр
+крупица
+смятый (
+етот",naBp kpynuua CMambiU emom,False
+707,"Лейко Нуждин
+вырез",MEVKO HYKANH BbIPE3,False
+708,"Сороко
+Ищук
+Ангара
+натрий
+туго",行先 COpOKO WWyK AHrapa HaTPnY TYrO 只久#速行生节 红禁圾,False
+709,овод,od,False
+710,"Ломонос
+ежевечерне
+потусторонний",CONANCEE  JIOMOHOC eKeBeyepHe IOTyCTOpOHHui R CA,False
+711,"вера
+Абрам",Bepa A6pam 心  福,False
+712,дель,Aenb,False
+713,видеть,童,False
+714,"внеурочный
+награждаться крестовый",BHeypOuHbi HarpaxaTbcs kpeCTOBs,False
+715,Якуш,13785 lkyw,False
+716,вакансия,BaKaHCHA -) J,False
+717,"матроска
+Волосников Одесса", dS0  68 家 MaTpocka BOJOCHIKOB Oπecca,False
+718,"пятиклассник
+электрически",namukiaccHuk siekmpuuecku 二 ? 一B ,False
+719,"запечатывать недоверчиво
+примитивность;",3aneuaTbBaTb HeAOBepUNBO nPNMNTNBHOCTb; 6,False
+720,Гаркун,9 rapkyH,False
+721,"радиосигнал
+залежь
+гребок",paIHocErHaI 3aIeKh rpe6ok !!,False
+722,путеец,  yTeeu,False
+723,"что-нибудь ?
+ингибировать
+Жердецкий",ymo-Hu6y0b ? uH2u6upoeamb Xepoeukuu,False
+724,"9994464491 age эстетский
+заочно Иоффе.
+главарь МОТ запечься",9cmemcrui age 9994464491 Hogpe. 3aOUHO MOT 3aneubcg 21asapb,False
+725,"60653 обвинение
+выгравировать",60653 O6bnHeHne BurpaBHpoBaTb,False
+726,"ромбик
+пинцет
+нехай",POMONK nNHLET HexaN 9 7,False
+727,Дубко,JYBKO,False
+728,"туарег
+Самара","ryaper CaMapa """,False
+729,"выдавливание выставить
+объяснимый переносчик",BbABNBAHNE BbICTABVTb OBbACHAMbIN MEPEHOCYNK T,False
+730,валка,BaIKa,False
+731,move(,2 3 4 5 6 7 0000 movel,False
+732,нога,Hora,False
+733,"Галахов
+паче,","Tanax 06 naye, 13 2 U 444 理  S 3  R 1",False
+734,Пермяков,O TepMAKOB,False
+735,вырыть,BbIpbITb,False
+736,Плюснина,A,False
+737,"Ростовцев
+долить
+Терешин
+запечь",POCTOBLeB AONNTb TepewNH 3aneyb,False
+738,сырой,Cblpou 花 Doooe 135999 ,False
+739,пожилой,noxunou,False
+740,агитация,,False
+741,"малоприятный
+продирать",ualonp uamHua npogup amb,False
+742,кашлянуть,KanaHyTP 31280,False
+743,шнобель, FAVSTYNKA Y ·,False
+744,"фэнтези
+флора",D 顺 peHme3u propa,False
+745,"дальновидно 16128
+перерегистрировать
+ветрено крабовидный
+одесную Куракова",gaubHobugHo 16128 nepepezucmp up obamb BempeHo kpasobugHua ogecHyo Xypakoba,False
+746,"provide моторика
+Сунцова остынуть",provide MoTopNKa CyHLOBa OCTbIHyTb,False
+747,"тетя,"," TETA, 8 超 文",False
+748,Жигимонт,KUZUNOHN A MWWWWWWWWWWWWW 司 09999909990929992090 Bne   0080,False
+749,Отто,OTTO,False
+750,"Смагин
+неон",CMarVH HeOH,False
+751,Скурихин:,M  CKVPNXNE,False
+752,прогулять,npazy ,False
+753,рушиться,bog,False
+754,серый),V YI CL STOBIES ,False
+755,62870,62870 em Go ,False
+756,"ямина
+60677",AMWHa 60677 opusieneg   RAVNTOARVO/NARNGSARE!,False
+757,"выковать переадресовать
+Бирич целиться(",BbIKOBaTb nepeaApecoBaTb BApWy LenNTbCA(,False
+758,"правда
+Ведерников",npaeda Bedepnukoe,False
+759,melody,汾,False
+760,дословный,docnOBHblu,False
+761,"сакля
+Джейн
+исцелиться",COKA AxeUH ucuenumbca O ,False
+762,"Дедков
+Войтюк
+Рудко",不养#民会人家 LeAKOB BONTIOK PyAKO,False
+763,фартук,papmy,False
+764,"сморчок
+проветриться
+Гаркун
+Царикова  ,",CMopuoK npoeempumbca TapkyH Lapukoea,False
+765,Мохорева,Mox opeBa,False
+766,"вуду
+Пенязь",BYY U nEH3b,False
+767,28259.,28259.,True
+768,Даниэль,AHR,False
+769,"31783
+Кочеткова
+мало женьшень",31783 Ko4eTKoba ManO KeHbWeHb,False
+770,"89126
+управляющий
+9526630432
+рассудить",020 89126 ynpOBnAoWuu 9526630432 paccyaumb,False
+771,"торт
+15335",TOPT 15335 H,False
+772,пульс,nyuc mamins me- ,False
+773,"сеанс
+Добыш",ceaHC  06biu 11511310  1  N JAN    1151        NWM  V W  merne   MN,False
+774,"Романьков позитивизм
+гиперборейский",Croulman CACECAORCT  PoMAHEKOB MO3MTVBV3M  mnephopeickni,False
+775,10156,10156,True
+776,Герус,Tepyc 福,False
+777,east:,east: 10 CTTA Wtne  Me-4lt-etee,False
+778,"Кучур
+Ярош",Kyuyp 8888: ApoLLi,False
+779,"Фоменкова
+sail",中OMeHKOBa sail 2,False
+780,"Крутов
+зеленка",KpyTOB 3eneHka,False
+781,"Зигфрид:
+облисполком",3urOPWA: OBNMCNONKOM 初 #丽庭用丽用康团,False
+782,"Юрка
+мимика
+Петручик",Ka K,False
+783,39472,39472 T,False
+784,хана(,XaHa!,False
+785,прогуливаться,rporyNNBaTbcA,False
+786,"Липатов
+невидаль
+Верка",Junamoe Heeuoan BeDka,False
+787,пружинистый,,False
+788,"доносить
+блажь
+комиссия",AOHOCTb 6nakb KOMCCR ,False
+789,сглотнуть,CTHOTHYTD,False
+790,"бурда пустынный
+хлебец",6ypra nycrsaas? xneben 爱F,False
+791,нектар,大 T Hekmap,False
+792,"мегатонна Пашка запроситься
+Боярчук грандиозно 9415856606",Mawka MeraTOHHa 3anpocNTbCa bopyK rpaHA MO3Ho 9415856606,False
+793,"Баев
+Сорокин",baeB COpOKAH,False
+794,интервенция, WHTePBeHLIVSA,False
+795,"после
+дукат.",nocse gykam.,False
+796,Захаревская,3axapeBcKag,False
+797,"Зенович
+Маринина",3eHOBNY MaPHa,False
+798,"гладильный,
+Крохина  !","AAWbHbI, KpoxMHa",False
+799,"слыть
+скушный
+Лысая",CIbITb CKYHBI  JIbIcaq T D,False
+800,Мулярчик гормон,Wni Mynapuuk 20pmOH,False
+801,"Касьянова
+порождение
+участница",KaCbAHOBa nOpo>KeHve y4aCTHNua V,False
+802,патриотка:,￥ HIaTpuoTKa:,False
+803,kept,Kent,False
+804,"пламя
+хутор",? AmR xymop,False
+805,"прель
+дождик", mperb AOXANK,False
+806,Балин,GAMH ?,False
+807,соединить,三,False
+808,атрибутика,,False
+809,приметить,IeTHTE,False
+810,Корж,KOPHC,False
+811,осатанеть,ocam 1355,False
+812,"глухой
+подновить
+дворец",rIyxon OIHOBNTb  JBOpeu,False
+813,"Сытин.
+пикет", CbImuH.   nukem      ,False
+814,выброс,BbISPOC,False
+815,менуэт,MeHy 3m  ,False
+816,9666988713,966698873,False
+817,92506?,92506?,True
+818,"куличок увядание
+made копошиться
+уложить назарянин",KYnWHOK yBAnaHNe made  KONOLWNT bCA ynOkNTb Ha3apaHNH,False
+819,"Ведерников
+Сапега гадкий
+должок",Y BeAepHNKOB Canera raμkn AOXOK,False
+820,"Портнова
+программка
+Курлянчик -",TopTHOBa nporpaMmka KyPnAHHNK,False
+821,"Танька.
+Михалкович",TAHbKA. MKXANKOBUY ,False
+822,"суфий
+Миронов
+Невская
+28638
+рандеву",cypuu MupoHoe HeecKan 28638 paHOeey,False
+823,"сумка Дао
+чего-то пусто
+Шатохина 53661:",AO CY MKA YErO-TO IYCTO LLATOXMHA 53661: o neki,False
+824,биополе,,False
+825,"директриса
+реле",oupekmpuca pene 1 8,False
+826,"купон
+ласково
+холодильный
+пращур 50035",Ky NOH ΛaCKOBO XOOdUbHbi npauyp 50035 WIEI,False
+827,"хиппи
+хитрый
+биотоп",XVTN XVTpb 6NOTOn,False
+828,"ночка
+Бадун",HOYka BayH Y,False
+829,"Казачкова
+пастырь
+горшочек",福 Ka3aukoBa nacmbip6 eoptuQuek,False
+830,"ботва
+атака
+братва",60TBa aTaka ★ 6paTBa,False
+831,беспокойство, t1+0-f 6ecl,False
+832,Бушуева,eBa bylty,False
+833,wall,F,False
+834,Рябый,pabbi O,False
+835,сенник!,CEHHUKI,False
+836,"10442
+неразрывный
+Гузь    :",10442 HEPA3PbIBHbIN rY3b 食 ★ ★ 主 食 ★：★贵 ★★业贵 ★ 發 ★★ ★ ★ 食 + ★ ★★★★ ★*★ ★ ★ ★*★ ★ ★ ★ ★ ★ ★★ ★ + ★ ★ ★★★ ★ + ★ ★ 羊 ★ ★ 食 ★ 福,False
+837,раскупать,aackynamb,False
+838,"Ивашкевич
+9506284186",ИBaWKeBNY 9506284186,False
+839,Быков,BbIkOB,False
+840,"Сухой  :
+вчитаться
+Борейко",Cyxon BuYTaTbCA Bopeiiko 年下卡吧,False
+841,39218,29278 K,False
+842,"80732
+Александр",80732 AneKcaHap,False
+843,"Пенкина
+писулька
+скликать",MeHKUHa nucynbka CKnukamb A 正,False
+844,"Уткин
+Лойко
+жених",yTKVH NonkO keHVX,False
+845,Каравай,D aeat Kapu N,False
+846,"клокотание
+Клинов",KnOKOTaHNe KΛNHOB SOZOCHURG,False
+847,мент,MeHT ?,False
+848,"Самохвалов
+краевой
+пустячок
+спекуляция",CaMoxBanOB kpaeBow IyCTAHOK creky JALWA 新品,False
+849,"жребий персонал
+тождественность",xpe6ni nepcOHa TOKIECTBeHHOCTb Batyte,False
+850,"17359
+таки
+видимо:",17359 TaKM BNANMO:,False
+851,"68083
+must",RREEER 68083 must,False
+852,авария,M ABAPHA,False
+853,макака,MOKOKO,False
+854,"Лугина
+кадетский
+Мурзилка миномет:",JlyrHHa kaneTcKH Myp3wika MHHOMET:,False
+855,"надумать облик
+93945 ожидание
+44913
+43517 Тюмень",Hady mamb o6ΛuK 93945 oxudaHue 44913 43517 TroMeHb,False
+856,Строганова,CTPOraHOBB,False
+857,Земцова,3eMLIOBa,False
+858,Эфрос,3dpoc,False
+859,Ракина:,,False
+860,"слайд
+67814
+84163",cnaua 67814 84163,False
+861,"shop
+м-да
+кисло",shop ® M-da PARIS,False
+862,71765,8308 厂 71765,False
+863,потолковать,LOLA VV LOVES HOTOTKOBaTD,False
+864,"меньшинство
+затушить",MEHbLIHHCTBO 3ATYLHTD,False
+865,сакэ,caK3,False
+866,"теоретически
+неприкаянный
+Горощеня",TeopeTnHecKn HenpNKaAHHbIN FopoweH D,False
+867,прошмыгнуть,9 口,False
+868,"подпортить
+вообще-то
+готовенький",NOANOOTWTD BOO6LLe-TO rOTOBEHbKHi,False
+869,"татами Михович утолить;
+полусвет Мичурина",mamamu Muxoeuy ymonumb; nonyceem MuyypuHa 一双,False
+870,"эпицентр
+гусиный хищный
+каучук
+трагический",ynuueHmp zycuHua XuugHu rayuye. mpaauueckun,False
+871,"Севрюк
+Вольф
+оппортунизм",CeepioK Bonb中 onnopmyHu3M,False
+872,"Скотт
+Цюрих",Ckomm Lropux,False
+873,"авиатор
+Ксения",CACOLA asuamop KceHus 国,False
+874,"антропный Юркина
+Урбан
+скинуть",HpkuHa aHmponHbli ypsan cKuHgmb,False
+875,"82067 потсдамский апартеид
+микробный",82067 HOTChaMCKWN arapTeNn MUKPO6HbM,False
+876,"стон
+латы",CTOH naTbI,False
+877,неумирающий книга,KHUTa HeyMnpaioi,False
+878,папик,COHM MypaukuH BbIMo2amb,False
+879,"Рогович
+прямиком глицин",POrOBNY PAMNKOm FANYNH S,False
+880,купидон лоскут,# KYNNAOH JOCKYT,False
+881,бренд-,t 6peHO,False
+882,драконий,IpaKoHnY ,False
+883,"разрежение
+отшелушивать",中 pa3pekeHve OTWeyWNBaTb,False
+884,Федорчук(,STVACOLORS Pedopuyki 3g 口 M,False
+885,gone,gone L,False
+886,"секретер
+митрополит",cerpemep Mumponon um,False
+887,"Бабкин Пронькина
+Галицкая
+спинка унимать",Ba6KUH IpoHbKUHa TanNLKaA CHNHKa yHUMaTb,False
+888,уханье,yxaHbe 春,False
+889,Хотенко,O  1231 言 言 OL 人 OTeHKO,False
+890,15771,一 15771,False
+891,"обойный
+крепкий",0600Hbi# kperikn,False
+892,19635,19635,True
+893,"жилище
+протон
+излишек",xwnuuye npomOH u3nuuuek,False
+894,"91940
+дожить
+Карпина",91940 HOXKH KaprnHa D,False
+895,посвататься,noceamambca,False
+896,"лгать
+вьюн",nraTb BbIOH,False
+897,"двойня
+Карп",3 ABOIHA Kapn,False
+898,"незрелость 68781
+Перепечко 94427",68781 94427 He3peIOcTb epeneuko,False
+899,каспийский,Kacnuuckuu 调,False
+900,Грушевич,rpy weeuy,False
+901,"бараний
+солонина",6apaHW COSOHVHa,False
+902,"меню
+стропа",MeHIO CTpona,False
+903,"нытье
+лживо",HHITbE JKHBO,False
+904,Якупов,HKyIOB,False
+905,"парить
+прокрадываться;
+Закаев
+горючий затхлый
+край Бударина",napuTb pOKpa/bBaTbCA; 3akaeB roprowi 3aTXIbN Kpav BynapNHa W,False
+906,"юрфак единожды
+некто недочеловек",oppak eouHOsIcObl HeKmo Hedouenoeek 9,False
+907,"декретный   !
+Стахно
+9908620145
+92421 тяжело
+Шведова Яровой",,False
+908,"Казаринова:
+заоконный
+римский",Ka3apNHOBa BaOKOHHbIM puMCKM,False
+909,ранее,paHee #,False
+910,Кизина,Kn3NHa,False
+911,"пророчески портниха
+излучать норка
+наличествовать   !",nOpTHIxa sopka  mpopoyecky eiyuat HAUeCToBa,False
+912,"9081698645 ?
+урезонивать",9081698645 ? ype3ohueamb,False
+913,"авиетка
+курий",aBHeTKa xypak,False
+914,угар,yrap V,False
+915,плут,A M nnyT,False
+916,носорог,HOCopOZ,False
+917,расцветка,DEFEND ROJAVA,False
+918,Султанов,CyMTaHOB 8 ,False
+919,"недоумевающе
+обобщенность
+новейший",HenoyMeBaiowe TrET 0606WeHHOCTb 0 HOBeYWM eyr 厦,False
+920,скак,CKaK,False
+921,невнимание облезлый,C Y. 06πe3πb HeBHrMaHre,False
+922,посредине,mm1ane nocpeduHe,False
+923,"третьестепенный
+малодушие",TpeTbeCTereHHbM manonyve,False
+924,"труднодоступный Самко
+пробивной Милованов
+пестик кортик оферта
+армянский гефсиманский
+похмелье закорки",TPY JHOI OCTy IHBIY CaMKO pO6HBHON MHIOBaHOB IeCTHK KopTHK opepTa apMAHCKHi repcHMaHCKH ⅡoxMeIbe 3aKop KH,False
+925,"9035471125
+43901 прессинг
+портрет.",9035471125 43901 mpeccuHr nopTpeT.,False
+926,Басов,bacOB,False
+927,"тлеющий
+ирония
+ковка",TAEIOLLn MPOHN KOBKa oooo,False
+928,"решетчатый
+ясный Васин",TOPPICK pelbeT4aTbM ACHBN BacKH,False
+929,9068179358,90681 179358,False
+930,"удачливый
+нарядчик
+дизельный,","ydaun UBbu HOpAdYUK du3en bHblu,",False
+931,"Русинов
+шинелька",PyCVHOB WvHenbka iTLA 预上注 T,False
+932,вящий,BA山NY,False
+933,гугу дожить:, AOXMTN ,False
+934,доля,O,False
+935,"Смольников
+наковырять
+завершать",CMOnbHNKOB HaKOBbIpATb 3aBepWaTb,False
+936,богато,boraTo O ,False
+937,Самбук,CAMEYK,False
+938,Коршун,KopuyH #,False
+939,"порог
+atom",123RF rOpOr atom 173RI O123RF,False
+940,молочник,MODOYHNK 9,False
+941,"затрапезный
+чадо
+переброс",3aTpane3Hb yalo nepe6poc,False
+942,"9722512974
+буфетчица
+29453!",9722512974 BYETYNIA 29453! H #,False
+943,"мякиш
+тазик",MAKHW TasHK',False
+944,9688396820,968396820 ,False
+945,"43165
+кругляшок",43165 KpyrJIaWOK 66R,False
+946,"перечисление балансирование(
+коралл",nepeyucAeHue 6aAaHcupoeaHue( kopan  区,False
+947,"Смолич
+Виршич
+37489
+88463",O  元 CMOIHY BHPmHY 37489 88463,False
+948,инсульт?,uHCy∧bm? ?,False
+949,"санный
+85807
+падло",CaHIbIH 85807 nanio,False
+950,"герпес
+неон",zepnec 二 品 JVY HeOH,False
+951,"отсек
+атом",>< omcek amoM VUIHU,False
+952,"новый
+37292
+Мосеева)",1 HOBNA 37292 MOCEEDA),False
+953,"сноб
+грудь
+Макбет
+медаль",CH06 rpyab Mak6eT Menab,False
+954,Алжир?,Aimup? XO,False
+955,пластина Мусин 9436106266,MyCAH 9436106266 naCTMHa 88 15,False
+956,milk,milk,True
+957,"потоптать Акушевич
+Гуркова Лысенкова",AkymeBHy ⅡOTOnTaTB TypKoBa IuCeHKOBa,False
+958,соус,coyc,False
+959,экипировать,JKHIIHPOBATB,False
+960,"изваяние Чувашия
+родник
+Шишлов",yyBALLINA VBBaAHNe OnHK LLAWnOB,False
+961,"Русан
+пляс",0 水  PycaH C SmE N A,False
+962,"панно
+Голос",naHHO Fonoc,False
+963,Коба?,Ko6a?,False
+964,"Кушнаренко
+9929417045 Беняш
+сажать Беленький
+недешево    )",KyLwHapeHKO EeHAW 9929417045 BeneHbKW caxaTb HeneWeBO 1191,False
+965,"участок
+немного
+неуд",THOR yuacmok HeMHOZO Heyo,False
+966,высокомерие,ebucOKomepue,False
+967,выползти,BbInOn3TN,False
+968,толкучка,I1,False
+969,Ксюша,KCHowa  CHAMSREC,False
+970,"опосля
+стропило",OOCO CTPOIWIO,False
+971,диспозитивный,Coooo ,False
+972,ничей,Huued,False
+973,"Михайловский
+Бражников  ?",T. T. H MuxaNAOBCKn 0 DpaXHVKOB ?,False
+974,"Ускова
+Глебик", yckooa rne6uk,False
+975,"скот
+Дзюба
+Федосик",cKom 306a Pedocuk,False
+976,означающее,03HAYAIOLLLEE,False
+977,постоять,nocmogmb,False
+978,"молотый
+Жирнов -",Monomblu KupHOB,False
+979,"blow
+ликующе
+34860-",+ blow nuky owe 34860-,False
+980,Рева,PeBa,False
+981,вложить,BNOKLTD,False
+982,"венец
+Жанна",BeHeu X oHHo 一,False
+983,"кальций ;
+подлезть
+Остроух :",G Kanbyn nOAneSTb OcTpoyx,False
+984,воспаление,TeHNe ,False
+985,"search
+огарок",search ozapok L,False
+986,"Трофимов
+Чуканов",TpopMOB UyKAHOB,False
+987,Пырх,nbpx,False
+988,граб,行 rpao,False
+989,"анонимно
+Пырко
+мехмат",aHOHNMHO IbIpKO MexMaT ELI,False
+990,Тузов,Ty30B,False
+991,"полимеразный
+31447",nOJHMePa3HbIY 31447,False
+992,рака,paka ,False
+993,ice,ice 7,False
+994,Хилл,业 Xunn,False
+995,консистория.,KOHCUCMODLS,False
+996,"пензенский
+носик Прима",TeHBeHCKN HOCUK puMa,False
+997,"задышать
+улица",3adbwamb ynuua  D,False
+998,"made,","made,",True
+999,"осевой
+пяльцы
+маман ;",CHHA CIDCID 35S PREPARATIOIW oCeBOn T MaMaH,False
+1000,"патрон
+Маслюк",FE贷R 直购,False
+1001,"купать
+Каширина
+river", KYIATB KAIHPHHA RIVER,False
+1002,"осанна
+проезд
+доносчик
+течение:",ocaHHa mpoesn OHOCYK TeyeHHe:,False
+1003,"ввергнуть
+наводить 78401:
+подрядиться",BBeprHyTb 78401: HaBOIHTD OIATECA,False
+1004,"искус
+Андре",BABTSITTER wckyc AHApe,False
+1005,"барометр
+треугольник
+9493531402 Савин",5APOMETP TPEYTONbHMK 9493531402 CABNH,False
+1006,Брич,BpvH ,False
+1007,"9592642049
+политик",9592642049 nonumuk ,False
+1008,расцепить,pacuenuT.,False
+1009,"ондатра  .
+отпугивать",OHdampa omny 2ueamb,False
+1010,9622122446-,,False
+1011,next?,+ X next?,False
+1012,ключик,KNHOYUK,False
+1013,"жулье.
+Сыса",C xynbe. CblCa 日,False
+1014,стрит,CT PHT RDT030 川,False
+1015,растащить,pacTalwnTb,False
+1016,венский,BCHCIC,False
+1017,"запечье
+антикрыло",3aneybe aHTNKpbUO,False
+1018,"самозванка:
+Булахов  ;",caMo8BaERa: ByJIaxOB 福  ,False
+1019,кристально,,False
+1020,"кварц
+досадный)
+47340
+угарный",KBapu AOCaAHbIN) 47340 yrapHbin,False
+1021,"сенник
+колпак",CEHHIK KOInaK 1,False
+1022,"всходить
+Буйняков;
+штрафовать дама)
+9483937293",BCxoaumb ByUHAKOB; wmpapoBamb dama) 9483937293 L,False
+1023,"9729021193 эвон
+отшибить
+комнатный",9729021193 360H omuu6umo KOMHamHblU,False
+1024,рыбалка,名用品 pbloanika  ,False
+1025,"хозяин
+печатать",Pufamel X03ANH nEUATATb,False
+1026,"Стасенко
+царевна
+фиалковый",CTaCeHKO LapeBHa pVanKOBbii,False
+1027,"святый
+вестовой",CBATbD BECTOBOn ,False
+1028,9217494918,9217494918,True
+1029,Мухаммед,,False
+1030,витиевато,BuTHeBaro,False
+1031,"пикник сиплый
+забияка
+посинение  :",nMKHMK CHUbN sa6vaka nOcNHeHMe,False
+1032,неуместность,Hey MecTHocTb,False
+1033,юнец,OHeu,False
+1034,"Гайфуллина Слинько
+корочка обледенение.
+hand)
+воронежец",FanyNHa CnNHbKO Kopoyka 06neneHeHne. hand) BOpOHeXeLl,False
+1035,95829,95829 13 管 ?  D09,False
+1036,патрульный, narpy JBHLIt,False
+1037,"лживый
+профицит
+голь",60-O 00 JDXLBBU mpoprmprr TOJD 20°S RO U 4099 3 18,False
+1038,Сущеня,CyeHa,False
+1039,"зыбко
+Синило полосочка",36l6K0 CuHUno nonocoka,False
+1040,"закрасить
+отгул",3aKpacuTb OTryJI,False
+1041,вечно,BeUHO CODE,False
+1042,"Андрусенко
+Кривоносов
+вино перешить
+научать
+Волконский",C AHApy ceHKO KpVBOHOCOB BVHO nepewNT b HayuaTb BOnKOHCKNA,False
+1043,Бурая,Ey pa,False
+1044,Шейбак округа),IⅢlei6ak orpyza) 田,False
+1045,урез,ype3 8 Ro,False
+1046,Тавгень!,TaBreHb! ,False
+1047,"жерло
+выступ
+Лавор
+search",xepIo BbICTyI JIaBOp GO search,False
+1048,"Зина
+Габидуллина
+Листопад",3uHa Tabudy aAuna Iucmonad,False
+1049,"зябь
+зорька",396b 30pbka,False
+1050,"парусина
+had побояться
+Шумак 9258456111",napy cHHa had nO6OMTbCS LlyMaK 9258456111,False
+1051,слега),cnera),False
+1052,берет,bepem,False
+1053,degree,degree,True
+1054,десна,,False
+1055,шпиндель,W 价 muuHTenb,False
+1056,повариха,noBapuxa ,False
+1057,"Борщев
+Ильичева
+corn",BopuIeB WIbnyeBa corn,False
+1058,коровка,KOpOBKa,False
+1059,"кривич
+ЦСКА",KPNBNY LCKA,False
+1060,саспенс лисий;,caCreHC nNCUV,False
+1061,докер,MOKEP,False
+1062,"нестерпимый
+Диваков
+третье",HECTEPnNMbIN ANBAKOB ITPETbE,False
+1063,"впиться by
+изгладиться",BNTbca by raT ,False
+1064,"нарвать
+окаменеть",清 HAPBATb OKAmEHETb,False
+1065,крепдешиновый,O kpendewuHoebi,False
+1066,93566,C 93566,False
+1067,"Борисик
+романс",bopucuk pOmaHC,False
+1068,лоцман,JODMAE 朗,False
+1069,настоятельница,产 r,False
+1070,затекший,amerud,False
+1071,"невзгода
+карабин нажатие",HeBBrOμa Kapa6NH HEKaTve,False
+1072,"высылать
+Рябко
+верещать-
+31601",BHICbIIATD PABKO BEPEILIATb- 31601,False
+1073,Заяц,E 3aau,False
+1074,Слаута,I CrayTa,False
+1075,Арашкевич,ApaLLeBu 红,False
+1076,Кандинский,KaHANHCKN,False
+1077,шпора,lnopa,False
+1078,Якупова,AkynOBa,False
+1079,газоход,警 1,False
+1080,"Ленковец
+присягать",JIeHkOBeu npucazamb  ,False
+1081,Кузин,Ky3HH IRELLI,False
+1082,Котик,KOTMK,False
+1083,"латаный
+подвиг",naTaHbU DOABVT,False
+1084,парировать,TA PVPOBATb,False
+1085,гигант,THraHT,False
+1086,бочка,60yKa,False
+1087,9206297626,9206297626,True
+1088,рыть,pbmb,False
+1089,"сплясать
+отправка
+карский
+Макоед
+глупость",cnsscamb omnpaeka kapckuu Makoed 2synocmb,False
+1090,обруч,opyy,False
+1091,магнит-,,False
+1092,байка,baika,False
+1093,spoke,田 spoke 一,False
+1094,мстить,MCTATb,False
+1095,"Кириллова
+лакомка",Kupunnoea JakoMKa,False
+1096,Кабак,a6ak,False
+1097,"Качанович(
+совковый
+Мартынов",Ka4aHOBVH( COBKOBbM MapTbHOB,False
+1098,Смагин,CMa2Un # 一,False
+1099,9413664277,囍,False
+1100,Торопов,Toponoe 2,False
+1101,Зарипова,3apunosa 7,False
+1102,фотон,pomoH 少山,False
+1103,писчебумажный,ICYeOy MaK Hb,False
+1104,Жамойда,8 KaMoina,False
+1105,Манукян,16 NAHY KAH,False
+1106,стричься, CTPNybca,False
+1107,"нищая
+48295;
+23915",HHma 48295; 23915,False
+1108,обещать,goeularb,False
+1109,прошептать,npowenmamb 3 4 6 7,False
+1110,"Пушкова Хваль
+затейник",MyuKOBa XBanb  3aTeVHNK,False
+1111,capital,Capit,False
+1112,дебет:,ne6eT:,False
+1113,блюститель,nen 心,False
+1114,"м-м-м Малых
+поесть Лысая",BIGSHOT MaJIbLX M-M-M JbIcag noecTb,False
+1115,"штука
+свертываться",wmy ka cBepmblBambcA,False
+1116,абзац),一 3auy,False
+1117,корковый,KOPKOB环#,False
+1118,"вязание
+Мисиюк
+денежный
+Прокопчук
+утверждать",B93aHue MucUIOK OeHeX HbIu npoK onuyK ymeepx 0amb,False
+1119,Ковзик, KOB3UK,False
+1120,весь,Becb,False
+1121,"журить
+вешка",>KypNTb BeLLka,False
+1122,"мирра
+изыск(
+опий
+Савчиц",Mppa V3BICK( OVY CaBYI,False
+1123,"юрский
+станок
+отняться
+киббуц
+Панов-",A 2 OpCKuu cMaHOK OMHA MbCA ku66yu nOHOB-,False
+1124,88872,42 41 52 650 156 ARMSNL 88872 回 井川德 欢堡研沈7 映画美丽 江生，育集神 Th8N57,False
+1125,"прибегнуть иезуит
+9704990566!
+пересдача отчего",npn6erHyTb ne3yWT 9704990566! mepecnaya OTyero,False
+1126,информагентство,WHpopMareHTCT BO,False
+1127,Ионов,T VOHOB ,False
+1128,"полоса
+пята
+Балтика
+навстречу",nonoca rATa  BaTTVKa HaBCTpeuy,False
+1129,отметелить,® OTMeTenNTb,False
+1130,"Жучкова
+Имаев
+попадание",X y yKOBa NMaeB ONAAHne,False
+1131,Супрон,? CynpoH,False
+1132,высыпать,,False
+1133,Дорошевич,HopoeBny 网,False
+1134,"приезжать
+эвристика
+отмывать",npneakaTb aBpHCTMKa OTMbBaTb,False
+1135,"чаяние
+Горох",YaAHNe Topox D 口,False
+1136,"Лыков Лыщик
+Веселовская",JIbIKO6 J bluuk BecenoBckaa,False
+1137,Пьер,Ibep D,False
+1138,Сокол,Cokou 二# O,False
+1139,тромб,TpoM6,False
+1140,dead,dead #,False
+1141,"подотчетный
+Поляк 9469519182
+обзванивать",noaomyemHblu 0n9K 9469519182 063BaHuBamb,False
+1142,"Пархута
+худо
+Шевелев
+блуза",apxyma xy0o WleBenee 6ny3a ,False
+1143,"Куделко
+Харламов
+скупать",Kydenko XapnIaMOB cKynamb,False
+1144,налитой,Hanumou,False
+1145,road, road 办 ?,False
+1146,цветность,UBeTHOCTb,False
+1147,Гаева,TaeBd 国,False
+1148,направляться,HanganTbcs,False
+1149,"Стогов
+макушка купе)",Cm0206 Makywka kyne) ,False
+1150,фотонный,OOTOHHbIM,False
+1151,душно,,False
+1152,"свинский Золотова
+раскоп вделать;",CBUHCKUU i  3onomoea packon_ edenamb;,False
+1153,Митина, ★★★ SCOOWYDOO DAVCATGT,False
+1154,"плейер
+Синцов,
+48944
+старец
+спайка!","mmevep CHHLOB, 48944 CTapeu craika!",False
+1155,"покормить
+умилить
+Плеханов",noKopmumb ymwn umb Mnex aHOB  508  ,False
+1156,румба,以 # X,False
+1157,"дензнак
+махонький
+приводить",AEH3HAK MAX OHbKИY PNBOAИTb,False
+1158,"Рагель
+горгона",t Parenb roproHa,False
+1159,како,caKo,False
+1160,Алешина,AneLLMHa 8 诚,False
+1161,подо,nOAO,False
+1162,"отчужденность
+также
+обеднить",OT4y>KeHHOCTb  Takke 06enHNTb Rniierammim mm mnrm  mmn /  n  m 二,False
+1163,"непрочно немного
+двенадцатый",HenpoyHO HEMHO20 DeeHaouamblu 3,False
+1164,"Рубцов
+knew",Pysuob knew # 中##临,False
+1165,"должность
+въедливо",AOJ>K HOCT b BbeANBO 0,False
+1166,"ужасающе.
+sister",ykacarome sister   9888,False
+1167,лития,m,False
+1168,"аббат
+43901",® a66aT 43901,False
+1169,пенка,reHka 二15,False
+1170,водоканал,,False
+1171,"брага
+пласт",N 6paza nnacm,False
+1172,"ценз Рогожина
+ОРТ захрапеть",yeH3 Po2IcUha OPT 3ax panemb J,False
+1173,ай-ай-ай,Ai-AN-AN,False
+1174,"низкий
+кожанка
+Бикбаев",HUBKUM KOICaHKa Bukbaee,False
+1175,арат,apat,False
+1176,Ивасенко,?,False
+1177,сталинский(,CTAINHCKAN Y,False
+1178,упрямо,o?.? ···. ynpaMo ·。 ·：,False
+1179,налипать,,False
+1180,буерак,1 byepak,False
+1181,"роялти
+Кураш
+трасса",DOAJITL Kypam Tpacca,False
+1182,погубить,TOlyGLTB,False
+1183,клеш,Cllnd rneu Aswon,False
+1184,североамериканский?,DGAS co at,False
+1185,80837,80837,True
+1186,"болотце
+Луговская",60nOTHe JyroBcKaa M,False
+1187,"9135724019
+напялить
+ампула",9B5724019 HanANTb amnyna,False
+1188,"кость,","KOCTb,",False
+1189,"родные
+неготовность",POHbIe HETOTOBHOCTb,False
+1190,"клекот
+шейк",KTeKOT LLevk OR,False
+1191,"Кривой квадратический
+отток главнокомандующий перетряска
+52430 башка",Kpusoui keadpamuyeckui 2aBHOKOMaHOyrOuuui ommoK nepempacka 52430 bauka,False
+1192,"подкрутить
+Телятников
+Шкловский",POLKPyTNTb TeNATHNKOB LLKOBCKN,False
+1193,"сетовать монашка
+Водопьянов
+невежда",cemoeambMoHawka  BodonbgHoe HeBexda,False
+1194,"Макуха
+поклон",Makyxa NOKTOH,False
+1195,"веско?
+стенной
+road",BecKo? CTeHHON road,False
+1196,"неустроенный!
+стрекот
+парагвайский",HEYCTPOEHHbIN! CTPEKOT TAPATBANCKNN,False
+1197,"интригующе
+палуба slow,","HHTPHTYIOILE IIAJIYBA SLOW,",False
+1198,намек,福 HaMeK,False
+1199,"переживаться
+числить",AS 3 心 张 nepexk ueambca yucAumb,False
+1200,"расклевать
+показывать",paOKAeBaTb OKaBbBaTb,False
+1201,Круглов,Annie,False
+1202,"наперерез 60093
+желудочек 16267?
+шеф-повар",Harepepe3 60093 K enyAouek 16267? wec-noBap D,False
+1203,"мышь навзрыд;
+побеспокоиться",1  MbIlub HaB3pbI; HO6eCHOKONTbCA,False
+1204,формализованный, Leader.ir,False
+1205,ring,ring,True
+1206,Иоффе,HOPOE COG,False
+1207,60712,60712,True
+1208,9052843610,,False
+1209,"great
+облысеть
+тащить",great 06nbcemb mawumb,False
+1210,преломиться,,False
+1211,"трансформаторный
+Афродита собирательный
+Волохова",TpaHcpopMaTOpHbi Aoponnra co6vpaTenbHbi BonoxoBa,False
+1212,"депопуляция
+козлы сверхзадача",Denonynguua K03nbl c6epx3a0aua,False
+1213,"буквенный
+патогенность",BYKBEHHbIY JATOTEHHOCTB,False
+1214,95111,95777 U,False
+1215,"глупец
+Дедуль)", znyney Iedynb),False
+1216,"резак
+chair",pe3ak chair,False
+1217,90407, 0407,False
+1218,Лепешкина,NereLlkMHa,False
+1219,"гаусс
+Кригер",raycc Kpurep,False
+1220,Санько,CaHbKO,False
+1221,"Евтеева
+искусить",EBTEeBa WCKVCWTB T,False
+1222,Корсун?, Kopcyh? PARENTAL AOVISORY IIPUItII tANTENt m,False
+1223,"Ковшик доколе.
+халва Малецкая
+Костеневич",KOBIUK nOKOne. Manelkas xaJIBa KoCTeHeBnY 国,False
+1224,"капонир
+рехнуться Ивасенко Сомов женка",KanoHup pexHy mbca HBaCeHKO COMOB XeH.,False
+1225,Дубров:,y6poB:,False
+1226,сочный,福 COYHbIi,False
+1227,"замотанный халат
+переплести
+невыдуманный
+смеховой
+подмастерье",3aMOTaHHbV  XanaT nepemnecTV HeBbnyMaHHb以 CMexOBON mOnMaCTepbe 农,False
+1228,"Давидчик
+Павлючик
+затаенный",MaBwnuNK TaBnIOVK 3ataeHHLM EYS Hlsatizn,False
+1229,"кокошник
+очный",KOKOLWHMK OUHbIM I,False
+1230,"84406
+Андрюша
+скептицизм",84406 AHAPIOLIA CKETTVLVBM,False
+1231,"Нейман:
+Косов
+19749",HeUMaH: KocoB 19749 三 ,False
+1232,"Нуриева
+Черкес
+Мазюк
+чайхана",Hy pueBa Yepkec Ma31OK yaNx aHa,False
+1233,"вольера скушный
+литой великорусский
+наравне исполниться",BOnbepa  CKywHbiu numou BenuKopy cckuu HapaBHe uCnOnHumbca,False
+1234,проговориться,,False
+1235,Лас-Вегас,Jac-Berac,False
+1236,"загнивание Немец
+клейстер 9181272780
+напыление купальня.",HeMeLL 3a『HVBaHVe knevcTep 9181272780 HanbneHve KyranbHA. R,False
+1237,62337,62337,True
+1238,"Бабак
+пава",BABAK TIABA,False
+1239,одевание,n CBsnNe,False
+1240,манго,三 ® 真,False
+1241,"перекатываться
+Зубов баранина",neperamusambcs 3y 6os bapaHuHa,False
+1242,22951., Sinl 22951.,False
+1243,"Шелков
+Таркан",王 LLeAKOB aPKaH,False
+1244,Скоморох,福,False
+1245,"устало
+62337
+ишачить",YCTAnO 62337 WWAYNTb,False
+1246,"против немножко
+юго-западный
+вымывать
+Хромовских",InpOTNB HeMHO)KKO lor0-3ananHb函 BbMbBaTb XpOMOBCKIiX,False
+1247,ахти,Y # axmu S,False
+1248,"жинка
+цена,
+Русак","+ 0-0 )K UHKQ UeHa, PycaK",False
+1249,"9715948417
+Рублевская",9715948417 Py6neBCKaA,False
+1250,индоссамент,HoccaMeHT nonuAR 旅,False
+1251,"заслышать
+сброситься",3acnblwatb c6pOCHTbCA 福  兼茶 茶 工S  SOTH,False
+1252,декламировать,# 川 MvpOBaTh,False
+1253,пластит,nnacmum,False
+1254,"метанол каре
+вытащить
+напрягать",MeTaHon Kape BbTaWATb HanparaTb 福 4Kinder Sd,False
+1255,Плевако,rMeBako,False
+1256,точечный,TOYeYHbIM 天,False
+1257,"погружаться
+Комаровский
+спасский
+Малишевская
+молодить",n02py x ambcg K omap oeck uu cnacckuü M an uweeck ag MOn odumb,False
+1258,атлет,山 Tney,False
+1259,"кондор
+кушетка",KOHOOP Kywemka,False
+1260,унтер,yHrep,False
+1261,52165,中印  扫2 0 52165,False
+1262,"достопамятный
+немаленький
+имплантация:
+отираться
+сарафанчик",JOCTOHIaMATHb HeMaIeHbKH HMIUIaHTaINH: OTHpaTbCH capapaHIIIK M,False
+1263,рамка,0,False
+1264,отсохнуть,OTCOXHYTb,False
+1265,send,中 send,False
+1266,Лапиков,JIarIKoB,False
+1267,иди-ка перевозчик,MnVkaneneBOBLMK,False
+1268,межсезонье,MeKCe30Hbe,False
+1269,сепсис,cencHC,False
+1270,"примитивизм
+аут замертво",npumumueu3m ay m 3aMepmeo ★★★,False
+1271,"Лобкова липосакция
+низинка чубук
+критический речушка",JIo6koBa nVnocakLMA 4y6yk HB VHka KpMT We CKW pe4yka,False
+1272,Горяйнов,TOPAVHOB,False
+1273,Донской, 石 AOHCKOR,False
+1274,опасть,OnacTb,False
+1275,градостроитель, 兰,False
+1276,96686,96686,True
+1277,soil,茶 米 A格 采 萧 soil,False
+1278,Мосейчук,Moceuuyk ,False
+1279,"Шпет
+обнять .
+трепать",ILner O6HATb TpenaTb 钢,False
+1280,апостол,anocmon,False
+1281,"Бойкова
+дензнак",boMKoBa AeH3HaK D,False
+1282,"Брылев
+Ахмедов",BubineB ALMeAOB,False
+1283,"задачник
+подшефный плаха",3aAa4ik ToAiephbd Amaxa,False
+1284,ВГИК,咖 BrHK,False
+1285,Браим,1 6PANM,False
+1286,красногвардейский,enCKHi KpaCHorBa,False
+1287,щавель,JABeJIb,False
+1288,Сущик,Cy wuk,False
+1289,"панк мелкий
+весенний",naHK MenKnn BeCeHHNA V HLIEX,False
+1290,тренажер эмоция,mpeHaxep  mOUE,False
+1291,"Баева
+52471",Baeea 52471,False
+1292,"благолепие легавый
+скамья Радько",6naronene Aerabbn CKaMhA PaAbKo ®,False
+1293,Кошко:,Kowro:,False
+1294,освежать анфас:,oceexcam6 aHpac:,False
+1295,"захват
+кросс.
+Пожарский
+оффшор",3axeam Kpocc. Ioorapckui odpuop,False
+1296,утечка-,yTeyka-,False
+1297,"заделаться Шихова
+освободить плафон",3adenambca oce06odumb nnapon Luxoea,False
+1298,"воронка
+сколько",BOpOHKa CKONbKO ,False
+1299,подпорка,,False
+1300,"пристанционный
+самоизоляция",npUcmaHYUOHHbO CamOU3 0n 9 LUg,False
+1301,требовать,n,False
+1302,оглашать,OrNALLATb,False
+1303,"незнание
+стирка
+фонтанный
+Башаримова
+Сачук",HE3HaHue cmupka 中OHMaHHbiu BawapuMoea Cauy k,False
+1304,"фитиль!
+Ковязин
+здеся",11  8E > CpVTWNE KOBA3V 3nEcA,False
+1305,stay,#临 stay .1,False
+1306,"могущественный
+грот кровно
+филькин
+измучиться",MO2y weCmBeHHblu  2pom KpOBHO cpUnbKUH UBMy4UmbCA,False
+1307,"замелькать-
+вшестером",3aMenbkaTb- BLe CTe poM 人,False
+1308,"71434
+Батищев
+стереть
+клеврет
+Шумилин",71434 BaTumeB cTepeTb KJIeBpeT IlLyMUIHH,False
+1309,"шмотье
+Осетров",中 口 + wmombe Ocempoe,False
+1310,"относиться
+воздыхание",OTHOCИTbCA BO3bIXaHNe,False
+1311,"дурной
+тетеря",IypHOn TeTepa T ,False
+1312,74932,74932,True
+1313,Башилова,GawwnoBa 15. 16.,False
+1314,туды заволноваться,Tynbt 3aBOHOBaTDCS 帆,False
+1315,"Дронь
+низкий,",C ApOHO HBBC#,False
+1316,биополимер,丰电业 ® 6uonouMep,False
+1317,"спечься
+Чебан
+block",cneybca He6aH block ,False
+1318,Напалкова,BBIKCRR 一,False
+1319,"Дятел горенка
+Сурикова Олеся",ATen rOpeHKa CypHKOBa a Oπeca,False
+1320,Мохов,MOXOB 1,False
+1321,"Петухов пробежка
+лесопарк Валуев",emy x 06 npo6ex ka Bany ee neconapk,False
+1322,"Мартынович
+тьфу чудачество
+Митрохин
+космы уценка Банщиков",MapT6LHOBq Tbdy qynaTecTBO MarpoxuE BaEEKOB KOCMGI yleEka,False
+1323,эльф,anbd 7,False
+1324,Колыма,2 KOTLBIMa,False
+1325,"лишек (
+вплоть",AAWek BAnOTb,False
+1326,"Чечеткин
+Мыльникова",YeyemKuH MbISbHuKOBa HC,False
+1327,9474425398,94744253 1,False
+1328,убывать,y6hBaTB,False
+1329,"правка неуклонный
+Лукьянович
+оскорблять сыщик
+шерстить Черкашина
+шавка стронуть",IpaBKa HEYKIOHHbIN JIyKHAHOBY OCKOpOIATb CBIHK YepKaWHa ImepcTHTb aBKa CTpOHyTb,False
+1330,река,peka,False
+1331,"якобинец
+зайти нараспев
+торговка",AKO6NHey 3aNTW HapacneB TOprOBKa,False
+1332,"вызнать
+Кравцов",BbI3HaTb KpaBLOB UN,False
+1333,"разогнаться
+тахикардия онемение
+выколотить Данильченко",pa3OrHaT bc TaXHKapANA OHeMeHve aHWnbUeHKO BbKONOTWTb 0 沙,False
+1334,"горка дочкин(
+оборудовать-",ropka AOYKNH 060pynOBatb R,False
+1335,"Кудинович
+увядание",KyIMHOBEN yBaaHne,False
+1336,пунктуальность, 口  VHKT,False
+1337,Низовцев,HV3 OBLeB,False
+1338,порядочно,DOPAOHO,False
+1339,Савва-,CaBBa- 9 mdiloyl,False
+1340,беготня,6erOTHA,False
+1341,пейс,nevc,False
+1342,копытце,YOUO  KOnbITLe,False
+1343,"Голец
+лепеха
+Марфель",Toney  nenexa Mappenb,False
+1344,"динамически
+мыльный
+лишний Шилин",ANHAMNHECKN MbUnbHbI H W,False
+1345,"говорить,","rOBOPHTb,",False
+1346,"Нагорнова(
+голосовать
+укореняться",HaropHOBa( ronocOBaTb YKOpeHATbCA 者有站 百北和,False
+1347,"спектр
+Козлов",cneKTp K03nOB,False
+1348,"град
+авва",rpaA aBBa,False
+1349,Лайков Зеленая,avKOB 3eneHas,False
+1350,"сродни ring
+донести
+управляться",ring cpOIHn nOHECTH ynpe IATDQT,False
+1351,"47402
+much?",47402 much?,True
+1352,"прогрессивно
+оборачивать
+жбан телочка",eno-lka,False
+1353,"13633
+франт,","际 13633 PpaHT,",False
+1354,гребешок,peo e 生址： PK6 ac u电R,False
+1355,зачастую,3ayacmy ho,False
+1356,"Петлицкая
+данный
+архивист",METnNUKAR AHHbIN APXNBUCT  ,False
+1357,"целоваться
+Перелыгина
+гольф-клуб",uenoBambCa nepenbi2uHa 20nb中-Kny6,False
+1358,Коняев,12 D D D 0  KOR,False
+1359,"mile
+фреймовый
+спермий    -
+Радюкевич   )",mile dpesbronsDk crepsoak Pamorenrt,False
+1360,9623438282,9623438282 Fiye,False
+1361,тигр,TWFp,False
+1362,жмурик,福,False
+1363,"сжать
+11478",CKaTb 11478,False
+1364,Полушин,Mony ,False
+1365,"Титенков
+выдвигать
+Павловский",TITEHKOB BbUBNraTb HaB.IOBCKHi,False
+1366,"изумить нахалка
+нерешительно
+демонстрант
+Ермилов",u3yMumb Haxanka HepeuumenbHo deMoHcmpaHm Epmunoe 一,False
+1367,признаться,,False
+1368,24077,240X7,False
+1369,"18838 мочеиспускательный!
+9843476241 побрызгать",18838 uoueucnycramenohbli! 9843476241 no6po32amo,False
+1370,"опасно
+неологизм",? D OraCHO HEONOrVBM,False
+1371,Мотовилова,MomoBunoea,False
+1372,"дружный
+видеоклип
+гимнастика?",HPyKHbY BHIeOKIHI THMHaCTHKa? 1,False
+1373,9097578123,起,False
+1374,атом,amou 招,False
+1375,"10151
+атолл",M D51 aTO,False
+1376,похвально,,False
+1377,"кое-что Бочаров
+залежалый",BOYAPOR KOE-4TO 3AMEXANO,False
+1378,ридикюль., CLS znt PaUIOnE,False
+1379,grand),grand) ,True
+1380,"русый Ильин
+кокосовый
+часом",QwuH pycua korocobun uacou,False
+1381,Минкин,MNHKUH,False
+1382,9002782378?,9002782378? ，  ,False
+1383,"гуж приравнять
+озарение вратарь
+репа Лобанок",2yH npupaehamb o3apeHue epamapb  M06aHOK pena,False
+1384,37749,7 37749,False
+1385,ноздреватый,H03ApeBaTb ,False
+1386,чайный, yaiHb ILXSTAR,False
+1387,"профессор униженно.
+прочный показывать
+27239 9979351464", npopeccop Y HUDK eHHO. npouHblu n0ka3bl8amb 27239 9979351464,False
+1388,"пейджер
+эрбий
+Сафонова",Y 物 福 NENKEP PEUN CAOOHOBA,False
+1389,"расшить очертание заслуженный
+различение Умнов жечь столяр",paCWTb OepIaHe_3aC/Kellbl (BBIMOHe YMHOB KCb CIODD NE,False
+1390,ухарь,Frisch,False
+1391,45040,45040,True
+1392,Афина,Hipraga 姬路 D6G,False
+1393,чужеземец,yke3eMeL! KAT,False
+1394,Примшиц,TIpi R 8 2,False
+1395,разбиваться,,False
+1396,смирительный,CMpiTen,False
+1397,"глотательный
+беспроволочный",2nomamenbHblu 6eCnpoBOnoyHblu LODDOVA 3,False
+1398,84406,84406 ,True
+1399,"патриархия Лушников,
+учинить детскость
+Рудова row
+разомлеть","JYLLHNKOB, PATPVAPXVA Y4NHNTb ETCKOCTb PYOBA ROW PA3OMTETb",False
+1400,"Ильин
+Вилков",WbNH BWIKOB,False
+1401,пуловер,  nynOBep,False
+1402,43418,1 43418,False
+1403,карнавал,1 KAPHABAN,False
+1404,цветение,f LBETeHe TUESDAYE EST,False
+1405,"9325177335
+лысоватый",HEVWW 7 9325177335 nbIcoBarbn,False
+1406,достигаться,ROCTHT ATBCA S,False
+1407,"Таллин
+Янцевич
+все-все",TaJIIUH HHLeBIY Bce-Bce,False
+1408,полет,ronet S KI  星,False
+1409,"скоба
+Марья",cKo6a Mapba,False
+1410,"Бальцевич)
+смятый",众生专快营处 SanbLeBNH) CMATbIM,False
+1411,дружок,APYXKOR,False
+1412,"мертвец
+Гришук",mepmseu Tpuuyk,False
+1413,"Диана
+Жданко",UaHO X OaHKO ,False
+1414,68698,68698,True
+1415,"подраться
+сифилис",mOApaT bCA cnOwINc,False
+1416,"неустойчивый
+9568488910;
+климакс",cmouuuebu Hey 9568488910; KAuMaKc,False
+1417,"Григорьева Бриль
+Тумилович знамя",BPHIb rPUrOPbEBA TYMHIOBHY 3HAMA T,False
+1418,"верфь
+52425
+энтомолог",Bepcpb 52425 HMOMONO,False
+1419,92027,92027 厦  ,False
+1420,"Михайловский
+клонирование
+Армен сцепка",1 MxaiWoBCKWi KIOHNpOBaHNe ApMeH cLenka,False
+1421,завуч, 3aeyy,False
+1422,"черкать
+стегать",YepkaTb M cTeraTb,False
+1423,"Анна
+сердить",A AHHa cepAHTb,False
+1424,"Алехина
+веяние",AIEXNHA BEAHNE,False
+1425,шале,9 WaAe,False
+1426,"привратник
+Мюнхен",MPVBPATHNK MIOHXEH Ko boam3u,False
+1427,нежить,HeKHTb,False
+1428,Хилько,XunbKo,False
+1429,"вложиться
+9111528777",BIOKNTbCA 9111528777,False
+1430,"попятиться
+научить
+66568",TOTATVTBCA HAYUNTb 66568,False
+1431,Сухинин,CyXUHNH,False
+1432,вирши),BUPLUW,False
+1433,"брыжейка
+Бутенко",6pbixevka EyteHKO,False
+1434,Ровнейко,POBHEVKO,False
+1435,флора,pnopa 团,False
+1436,оковы,OKOBbI ,False
+1437,магнит,MarHHT,False
+1438,славословить,CaBOCOBNTb,False
+1439,"патовый
+Ксюша подвоз.",naTOBbIN Kciowa nO几BO3.,False
+1440,донор,AOHOP,False
+1441,сложение,CnO eH,False
+1442,"прямой
+Скуратович
+Железнова
+35519",npamou Cky pamoeuy KeΛe3Hoea 35519  三,False
+1443,"печь
+9173299413
+бухнуть",neyb 9173299413 oyxHymm6 www.wagons-lits-diffusion.com,False
+1444,"юридический
+лекарственный
+Перепелкин",ropuduueckui neKapcmeeHHbu epenenKuH,False
+1445,частенько, yacTeHbKO,False
+1446,"ловелас
+Липай веский
+спанье
+аффектация
+65742 29986",noBenac nunau Beckuu cnaHbe apoekmauug 65742 29986 0,False
+1447,дремота,IPEMOTA 9,False
+1448,"умонастроение
+гидроэлектростанция
+Талалаев Федотов",yMOHaCTpoeHve WnPOnekTPOCTaHL TananaeBenOTOB oO,False
+1449,алкалоид,ankanoud,False
+1450,"Кислякова
+побоище
+Карпик  .",KUCnAKOBa ro6ovle KapnwK FANOS SANCHEZ 电t,False
+1451,"окосеть
+Бубен
+31447 )",OKocemb  by 6eH  31447 ),False
+1452,"чушь Мартынович
+архивный 9373464267
+липкий
+похозяйственный
+Шорникова Масляков",MapmbIHoeuy uyuub 9373464267 apxueHblu nunkuu noxO3AUcmeeHHblu L LLlopHukoea MacnAKOE. ,False
+1453,Егорова,FropoBa,False
+1454,рвать,peamb,False
+1455,"коммерческий-
+космический
+9199122581",KOMmep4ecKn KOCMIHeCKN 9199122581,False
+1456,Зарубо,3apy6o,False
+1457,"Митрошин
+приказный
+противень",Mumpouuh npuka3Hbiu  npomueehb,False
+1458,"все-все-все
+Ковшова
+геосистема",Bce-BCe-BCe KOBLWOBa reocncTeMa,False
+1459,оживить,OXVBUT  8 Ciu,False
+1460,78122,  78122,True
+1461,"Леонов
+госорган:",八eOHOB rocopraH:,False
+1462,брошь,SPOLLb,False
+1463,press-,press-,True
+1464,невзначай,HeB3HayaΛ ,False
+1465,симпатичный,ORIETHN,False
+1466,Иванов,Poy9g 20%避元 VBaHOB X,False
+1467,ежесуточно,,False
+1468,немало,卫 一 HeMaO,False
+1469,Витя,BUTA  0,False
+1470,ломкость,R 此离好 MOMKEYS JIOMKOCTB,False
+1471,"Лузгина
+порхать
+pick",Ny32UHa nopxamb pick,False
+1472,"соцкультбыт
+провальный",A COLKyNbT6bIT npOBanbHbN,False
+1473,Матфей,,False
+1474,"кий Касьяненко угонять
+Кужель так-так-так покорный",HSE,False
+1475,94522),94522) YNWAO,False
+1476,Куницын,KYHMLbIH,False
+1477,"пакер
+финиш",AKE? ΦHHHm,False
+1478,"Кравченко превосходный
+Хуснутдинова мальчик береженый",KpabueEno mpebocxoAHhit XycayrAvarola bepexeHhii MAAbDOK,False
+1479,"цыпа
+Тупик",Lbina Tynvk 02,False
+1480,отсебятина example,OTCe6ATVHa example ,False
+1481,Лещук,JIeuyk,False
+1482,потрошитель,,False
+1483,сдобный,CAO6HbIN,False
+1484,9025643857,9025643857,True
+1485,пилотирование,mWnOTApOBaHve,False
+1486,бунт,oyHT,False
+1487,Басалаева,Bacanaeba LV,False
+1488,сотая,COTAS,False
+1489,"частокол
+сготовить;",HACTOKON CTOTOBMTb;,False
+1490,Яцко,ALKO  ,False
+1491,наци,Hauu,False
+1492,"Билида Рогожкин
+хрустнуть
+9799694128
+незнамо",bwnnga POrOKKNH xpyCTHy Tb 9799694128 He3HaMO,False
+1493,роды,podbl,False
+1494,Соломина,ConoN ,False
+1495,разевать,pa3eBaTb,False
+1496,опала,M naa,False
+1497,"Грук
+68801",pyK 68801 S,False
+1498,"очухаться
+подгадать
+таковой",OYYXATBCA HOI TAIATD TA KOBOH,False
+1499,"лопух
+оплошность
+27239
+гильдия  ;",nonyx onnouuhocmb 27239 nbdua  OrAT,False
+1500,щепа,mena  ,False
+1501,"Бурковская
+обвинитель",Bypkobckax CbuuTenb,False
+1502,9421523721,9421523721 ,True
+1503,"одежный
+Хоботов
+ключница",odenHblu Xo6omoe KiouHUua,False
+1504,"Шеина
+чтоб",LeVHa 4T06 WioGratderhe SA,False
+1505,теперешний,3 enepeuss,False
+1506,надлежать,一 Haunexatb,False
+1507,"Давыдов лучевой
+месторождение
+израилев окупить",Mro Laebidoe ny4esou MecmopotcdeHue uapawiee okynumb,False
+1508,"пошагать
+полушалок
+Подкопаева",TomaraTb nOJymaJIOK TomkonaeBa,False
+1509,walk,Walk 1,False
+1510,постель,nocTenb W,False
+1511,"лагерь
+впопыхах
+барыга",narepb Bnonbkax 6apbira O 菜 ,False
+1512,"песнь 9218762230
+Фазылов коробчатый",9218762230 HIECHb Φa3bLI0B KOpo64aTb,False
+1513,Боровко,,False
+1514,Демин!,IeMUH!,False
+1515,камфара закоулок,raufapa 3akoy AoK ,False
+1516,"каменный
+Дивин
+капельница",KaMeHHbIM UBNH KaneibHma,False
+1517,"взволнованность
+9571632504",复 B3BOLHOBaHHOCmD 9571632504,False
+1518,"фиговый
+обязаться
+лежачий Седун
+Гудович",中UTOBLN 063aTLCA ne>kauw CenyH TyAOBUM,False
+1519,"орленок?
+венчаться",opneHOK? BeHMaTbCA,False
+1520,Юницкий,TRG  HOHMKNY,False
+1521,"Матвейчук
+9626736692
+бонза",MATBEIILYK 9626736692 5OH3A,False
+1522,вскоре,BCkope R,False
+1523,"осевой
+сигать
+влюбленно
+Ашейчик",oCeBON cnraTb  BnI06neHHO Awevynk,False
+1524,"Долгая
+топтать
+дипкорпус", #匠  Tonzas monmamb dunkopmy c MO EKISTON SESPUNLIRASI 中：1153 MUYENAEEITAS,False
+1525,Гукова,O d TykoBa,False
+1526,12897,12897 9,False
+1527,"нюхать
+76825",Hoxam6 76825,False
+1528,менестрель,    O ?,False
+1529,"педант
+колечко
+Калякин",八 neAaHT KOneyKO KaAKUH,False
+1530,"мотыль
+бабушка
+середка",MOTbInb 6a6y wka cepenka Hongyea -0 M ,False
+1531,"емко
+содрать",eMKO conPar,False
+1532,"глумиться
+Зубкова крест
+варварский",rAyMATbCa 3y6koBa KpeCT BOPBOPCKWM,False
+1533,"ветхость
+city бычий
+астральный",BeTxoCTb city 6bHNN aCTpaIbHbIN,False
+1534,"Эльза
+виднейший
+экзарх
+Чечеткин !",3b3A BVAHE山N 3K3APX LeUETKVH +,False
+1535,"отмениться
+лахтак
+городовой)
+канитель",OTMeHUTbCA naxTak rOpOAOBO比) KaHNTenb SOA,False
+1536,Латушко,JATYLWKO,False
+1537,"Антонович маловат
+эстетизм россыпной",AHTOHOBHY MaIOBaT DCTeTH8M POCCHIEOR 文晓英,False
+1538,проза,npo3a Q,False
+1539,кафешка,kadei,False
+1540,влет, enem,False
+1541,fair, fair,True
+1542,"мучить!
+мокнуть",VYUNTb MOKHYTb 二,False
+1543,заново;,Pnfpt uttt GOOGLE,False
+1544,подсолнечный,nOA CON HeYHbIN  泰菜,False
+1545,пьянчужка,,False
+1546,себя,ce6a,False
+1547,КНДР,KHAP,False
+1548,that,that,True
+1549,аргунский,PeHeCRi,False
+1550,"отниматься
+9807362150",OTHNMaTbCA 9807362150 4,False
+1551,Жорова,A XopoBa,False
+1552,"опора
+укор",onopa yrop,False
+1553,"смысл
+71348",CMbICA 71348  T,False
+1554,тщета,# o1 01 ARAIA myema,False
+1555,курья,KYPBy,False
+1556,"лорнет поэтапно
+типичный выход управляться",0000 JOopHeT IIOTAITHO THIITHbDI BIXO yIpaBITBCA,False
+1557,алчно,HO ary # V,False
+1558,"колумбийский
+похваляться",NOX BaNAT bCA ZAR ?,False
+1559,"пугаться
+Михаленко Савощик.",nyraTbcA MxaTeHKO   CaBOLLINK.,False
+1560,перезвонить,HIEPE3BOHHTB,False
+1561,удел,ynen ARL,False
+1562,Расюк,二 PA ACHOK,False
+1563,"добрать
+десятка",0o6pamb decamKa,False
+1564,"божок бонна
+увеличивать",60XKOK 60HHa Vaeauuueam D ,False
+1565,повести,noeecmu 口,False
+1566,Санька,CFDT CaHbka ier V,False
+1567,"Сухарев
+Ходырев
+бром",Cyx apeB XodbpeB 6pom,False
+1568,мелисса,MenMcca  MARVEL,False
+1569,"генетика
+микрон",IAVAL rEHETNKa MAKPOH c101819,False
+1570,"мулатка
+Андрусевич",MynaTKa AHAPy CeBUH,False
+1571,Шейкина, llevKMHa,False
+1572,подписаться фургончик:,noonucambcg dypeonyuk 日,False
+1573,"настоящий
+Греция", R 福 HaCTOXIuY Iperua,False
+1574,черкать,V,False
+1575,сволота,,False
+1576,9982671074,9982671074 ee Betetinnanm,False
+1577,"шпон поаплодировать оконный)
+очиститель 67676",Wnoh noannooupoeamb oKoHHblu) oyucmumen667676,False
+1578,кавказец,KaBka3el!,False
+1579,проехать,,False
+1580,тире,Tupe,False
+1581,Хулуп,Xynyn,False
+1582,рябина,a R m,False
+1583,Сухих?,CuxW?,False
+1584,"робот
+9201266653",pO6OT 9201266653,False
+1585,постричь,nocTpwub,False
+1586,"изрекать
+мэтр Хлебус!
+слышно",® u3pekam6 mp Xneoyc! R C6iwho,False
+1587,"транс
+63517",TpaHC 635 亿 ,False
+1588,"ствол
+Саха )",CTBON Caxa,False
+1589,"Хайкин
+ротик
+Бузо", XaMKUH pOTMK By30,False
+1590,гарвардский,,False
+1591,"Никанович
+недобросовестный:",串 C H uk ahoeuy Heoo6pocoBecmHuu:,False
+1592,"60689
+shout",VAVL SIEN Vy 60689 shout,False
+1593,Рыбачук,8 ,False
+1594,"любезный
+отыскаться
+внизу
+пригладить",HIOBE3HbIY OTBICKATBCA BH3Y TPMTIAIMTB ,False
+1595,"воспылать
+обмывать",eocnbiAamb 06mbleamb,False
+1596,Сурба,Cyp6a T,False
+1597,Усачев,ycaueB 田 LEFR CRRS,False
+1598,валун бровка 9152305862,BaIyH 6p0BKa 9152305862,False
+1599,ловля,A06AA,False
+1600,"снос
+производящий",wpn4gaOn 24,False
+1601,"переводной рафик
+трость Ярмольчик
+взрываться Мамай",repeBOnHO pa中uK TPOCT b  ApMOnbHNK BBpbIBaT bCA MaMai,False
+1602,"названивать
+прогревание
+тарзанка
+встречно",Ha3BaHMBaTb nporpeBaHne Tap3aHKa BCTpeuHO,False
+1603,"тулья
+виза-",YA BNBa-,False
+1604,Лобанов,,False
+1605,динго,中津皇中单整  口 ,False
+1606,трибунал,,False
+1607,элитарный,mamhbtu,False
+1608,"Домнина
+хворь
+бездна",OMHNHa 出 XBOpb 6esAHa,False
+1609,Дорохов.,C LopoxOB.,False
+1610,"Торонто
+жупел !",TopoHTO 公 *ynen,False
+1611,"петит
+эпитоп",nemum anumon ?,False
+1612,Рубцов,6uoe Py,False
+1613,"довольно
+Балтика(
+взыграть-
+морок!",006OnbHO Banmuka( 63bl2pamb- Mopok!,False
+1614,event,Cpeila Patcnum event,False
+1615,обвалить,06Ba/HTB,False
+1616,"старость
+склочник
+тарабарщина
+брюсовский (",cmapocmb CKAOUHUK mapa6 apuuHa 6p1ocoBckui(,False
+1617,"Молоков
+шашни",福 MOLokoB uauH,False
+1618,гаркнуть святыня,rapKHyTb CBATDIHA UUNN C,False
+1619,затечь,3aTeyb,False
+1620,Сергей химизация!,CepreN XUMVBaLIA!,False
+1621,"коридор
+Марлен хибара",KOPNAOp MapAeH xn6apa,False
+1622,поло,noO,False
+1623,"земледелец
+ворошить",3eMedeneu eopouumb A,False
+1624,щучий,myavt,False
+1625,ухмылочка,AreaNoidEst AllaCorte AreaCertio Zumicas8Re cmo.ma  NA6O V chepeda 36 YMenOyKa,False
+1626,"Барауля
+вязаный(",T Bapayna BA3aHbIu(,False
+1627,12195, fem 12195 3,False
+1628,ринг,PHHI 13305555335,False
+1629,"Губич
+Буркин",Fy6ny bypKNH,False
+1630,може,? MO>ke,False
+1631,"слог
+ваза",CIOr Ba3a,False
+1632,жилище,unuue,False
+1633,эмаль:,MaAb:,False
+1634,"Мурашева
+заваруха
+смотрение?",My paueea 3aeapy xa CMOmpeHue? [] 福 I 1. 3 e s D 号 le 0 国 M,False
+1635,дизъюнкция,MGaHDES 瓜,False
+1636,пырей,,False
+1637,"пронзать
+диктант",npOH3aTb BuKTaHT,False
+1638,"финансово
+исихазм)",ΦHHaHCOBO HCHX a3M) ,False
+1639,"жизня
+Борзов
+46052
+очаг :",KIBHA Bop3OB 46052 ouar 家 发承 美茶 欢 本 川州酒 廣意 天如意 贡贡州 鑫 金,False
+1640,"деятельно кадр
+полгорода lost",AeATenbHO KaAP nonropona lost,False
+1641,"пуск плато
+Шаврина
+Ларкина",TycK  TMaTO LLlaBpNHa  几apKNHa 心,False
+1642,"9786378754
+Рынкевич задолго",V T O SaAOT 9786378754 4,False
+1643,"вьюн :
+96048",坊 6bIOH 96048,False
+1644,Кулиш,Kynnw,False
+1645,"28365
+топка",28365 TOnKa 福,False
+1646,"разувериться
+инструментальный", PA3Y BEPVTbCA ИHCTPY MEHTAIbHbN,False
+1647,Носко,Hoeko 特儿,False
+1648,"инкогнито Куликовских
+очуметь бордюр",KynNKOBCKNX WHKOrHNTO 60PAIop oyyMeTb ,False
+1649,Бакин,baKuH etne,False
+1650,мглистый,山 MrANCTbIN,False
+1651,снятие.,CHATVe.,False
+1652,"кулон
+Синявская",KYJOH CuHABCKaA,False
+1653,"Шкутко
+скаут",LI ky mko ckay m 7,False
+1654,"киностудия
+дурашливый(", KUHOcMy dua dypauuebiu(,False
+1655,Лагута,JIaryra,False
+1656,развести(, agem,False
+1657,"Хорватия тахта
+струйка 9276277411
+польстить",Xopbamua maxma cmpyara 9276277411 noibcmumb,False
+1658,"чернить
+product",YepHUT b product,False
+1659,"соха
+Ченцов
+хрен",coxa HeHLIOB xpeH,False
+1660,"отвисать аннигиляция!
+Пехтерева затухающий",OTBNCaTb AHHAFWIALIyA! MexTepeBa 3aTyxaroLw,False
+1661,"чешуя
+Сухой
+имхо", yewya Cyxou UMXO,False
+1662,промывной,npoMblBHou,False
+1663,"нажать
+прямо.",Haxamb PAMO,False
+1664,"Телюк
+ряшка
+нырок!",TEAIOK La HbPOKl,False
+1665,34081.,34081 = 1 N 11 = 11 11 ,False
+1666,"Пицко
+глушь",食 国 HuLIKO ryllb,False
+1667,лентяй,子 Aeumsii,False
+1668,сель,cenb 手,False
+1669,кашпо,Kkauno V,False
+1670,"Рябуха
+part
+Грушин
+перерыв",Pabyxa part FpyuWH repepbiB ,False
+1671,"ачинский
+черноземье
+Сулимова -",aYNHCKNN HepH03eMbe CynNMOBa,False
+1672,убиваться, YEHBATECS k 北 e,False
+1673,"Лидочка гамма
+невероятный эпсилон",Jwnoyka raMMa HeBepOATHbM CWO,False
+1674,"задний
+атавизм!",BAAHHA aTaBH3M! mg Z,False
+1675,"гарантирование глушитель
+ненасильственный Гуков",zapaHmupoeaHue anyuumenb HeHacUibcmeeHHbi TyK06 ,False
+1676,"гримерная
+раненый",rpMMepHaa paHeHbIM,False
+1677,Худенко,XydeHKo,False
+1678,"чересчур
+Каменев
+КНДР",yepecyyp KaMeHeB KHIPE ,False
+1679,нежданный,,False
+1680,"парторганизация
+Капля
+39485 благоверный",napmopaahueauu KansA 39485 aaoeephbu,False
+1681,"матово
+кинозал",MATOBO KMHO3A,False
+1682,farm,farm SLS C,False
+1683,руна,pyHa,False
+1684,укус,yKyC  ,False
+1685,"автомобилестроение ночлег
+постмодернизм провод",aBTOMo6nneCTpoeHne eHoDIer HOCTMOHepHH3M IpOBOn,False
+1686,"заработок 9314966008:
+мелкозернистый
+выпукло успеть Дунаев пешечный",R 3apa6omok 9314966008: Meniko3epHucmblu BbInykio ycnemb IyHaeB neweyHblu,False
+1687,нанять,HAHATD 米,False
+1688,"комиссар раковый
+желто-зеленый
+98395;
+Тарасов сосна(",KOMuccap p  pakoeblu scenmo-3eneHbiu 98395; TapacoB  CocHa(,False
+1689,"ашрам
+Суглоб
+анналы",ampam Cyrro6 aEHaIH 185,False
+1690,Рогович,PorOBHY,False
+1691,крематорий,KpeMarOpun,False
+1692,"Коблов
+убить
+Ремез;",心 KOBIOB YBHTB PEME3;,False
+1693,"прикидываться Жлобич
+Бутко Сысоева откатиться.",mpukudbleambcaKno6uy Bymko CbicoeBa omkamumbca.,False
+1694,Гертруда,TJOUS3,False
+1695,"бандюк
+обиход Осипов;",6aHOrOK 06ux od OcunoB; 心,False
+1696,"малышок
+Саврас
+67179!",MOnbILLOK CaBpac 67179!,False
+1697,"бедро
+ухват
+Форд", 6epo yxBaT DoPn,False
+1698,"гроза
+past", rPO3A PAST _,False
+1699,почтить:,1,False
+1700,жупел,xyrien,False
+1701,"чуждый
+стадо",4y x Oblu cmado N,False
+1702,ботфорт,四 6oTdop1 主 T,False
+1703,парагвайский,福,False
+1704,Лесков,MecKOB R ,False
+1705,Воронина,BOPOHMHA,False
+1706,"Мартьянова
+Залесская",MapmbAHoBa 3anecckaA,False
+1707,срастить,,False
+1708,75096,7509,False
+1709,отчаянье,OTyasHbe,False
+1710,"заворот
+комфортно стронций;
+сойтись Золина
+голландец","3aBOPOT KOMPOPTHO CTPOHLIW, 3OnNHa COVTVCb rOnMaHAeu",False
+1711,версия, Bepcha,False
+1712,охранка,oxpaHka,False
+1713,корабел,格 KOPAEEI,False
+1714,идейный, meeeg 电,False
+1715,вражда,幼菜 G,False
+1716,"55205
+мундир
+Шекспир
+ранить",S 55205  My HOup LLlekcnup  paHUmb,False
+1717,полчище,nonyuwe #11,False
+1718,"обкатка
+Перелыгин
+взбрести",T厂 o6KaTKa llepeIrbIrHH BaOpeCTH,False
+1719,одаренность,OAaPeHHOCTD,False
+1720,сейчас,ceiuac,False
+1721,"Леонтьев
+проигрываться",JeOHTbeB IponrpbBaTbcs C,False
+1722,"пята
+отрабатываться загорать",nAta OTpabaTbIBaTbCA 3aropaTb M,False
+1723,"18542
+10518
+Тукай,","18542 10518 Tykau,",False
+1724,затишье,3aT ube H,False
+1725,мошкара,Momkapa C,False
+1726,"изгадить .
+9276665685!",BraTb 9276665685!,False
+1727,"Головина
+фигня",W FONOBVHa 中UFHA,False
+1728,Солодухин,COnOnyXNH,False
+1729,веерный,BeepHbi 魔,False
+1730,"задавить
+Асадчий",3anaBTb 一 Acaum,False
+1731,куча,Kyya,False
+1732,"жеребец
+ограничительный изолят
+складчатый",xepe6eu orpaHNYNTenbHbIN CKanyaTbIN H30n9T,False
+1733,ротонда,POTOHAa ,False
+1734,"высидеть
+Тарашкевич
+Смолик",BbICnAeTb TapawkeBNy CMOnnK,False
+1735,"Барселона Челябинск
+инфракрасный корейский;
+молчаливый лубок
+toward Ефременко
+гнусность       .",BapcenoHa Hens6NHCK NHOpaKpaCHbIM KOpeVcKW; MONyANNBbIN ny6oK toward EppeMeHKo rHyCHOCTb,False
+1736,Покровский,TIoKpoecKua N 1  CuhHledaee,False
+1737,"разрывной
+щедрый
+юноша",pa3pblehou edpblu 10HOWa EV,False
+1738,"почтить Бронникова
+Поплавская завопить",BpOHHukOBa noymumb HonnaeckaR 3aeonumb,False
+1739,"Шойгу
+Иудея",mouzy Hydea,False
+1740,исламист?, Ucnamucm?,False
+1741,молчок, 9 MOnyOK,False
+1742,Паршиков косая,MAPWNKOB KOCAA,False
+1743,sand,SAND,True
+1744,"урвать
+протянуть
+ввод
+совок  ,
+никогда",PBamb mAHymb ® COB,False
+1745,"послание
+Марин",nOCnaHue MapuH N贝,False
+1746,"пародист,",napooucm.,False
+1747,лимон,JIEMOH,False
+1748,властелин,BIACTENVA #人心山  福,False
+1749,пружинный,npyXNHHbM   R,False
+1750,"Боева
+свод",BoeBa CBOA,False
+1751,неисчерпаемый,福,False
+1752,"канал
+оправить:
+нервозный
+Франция
+ожесточенный",KaHaI OHpaBHTb: HepBO3HbIM DpaHua OKECTOYeHHbm,False
+1753,наотрез:,,False
+1754,"Совбез?
+Монахов
+Ромейко",CIS COB6es? MOHEX OB PoMeuKo,False
+1755,притоп,牛 upATOn,False
+1756,набухнуть what,iajxg,False
+1757,кафель,KaoeAb ,False
+1758,"заданный Светлов
+потушить тыловой",3aaHHbN BeTNOB noTyLWTb TbMOBON L,False
+1759,"слетать Шкель
+Троцюк
+особа",Wkenb cneTaTb TpoLIIOK oco6a ,False
+1760,выпрямить,Bbmpgmum 直业 WEaTIOT  ?,False
+1761,"Сергеев -
+журавль
+Бондарчук",Cep2eee Hypaenb EoHOap4yk,False
+1762,"Погодина
+Шайдуллина
+Гагарин",oronnHa LLainyvNHa FaraprH,False
+1763,Иден,VIEH,False
+1764,оптовый,onmoeblui,False
+1765,"абсцисса бортик закипать
+обвинение возрадоваться
+эластичность лысый лань
+переспорить палеолит",abcuncca 6opTNK 3akMnaTb 06BNHEHNe BO3paOBaTbCA nbICbIi anaCTWHHOCTb naHb nepecnoprrb naneonnt,False
+1766,Девяткин,eBATKHH 0,False
+1767,вкруговую Гнездилов Миненкова,eKpy 2oey 1o THe3duΛoe MuHeHKoea ,False
+1768,уточнить,TB YTOL ,False
+1769,decide,福 decide,False
+1770,крохотный,KpOxo THbIv,False
+1771,"эпидермис Гринева
+градостроительный
+фон Петрачков
+медь",I'puHeba aYAepMKc rpaAOCTpONTe/bHhut POH lerpaukob MeAb,False
+1772,Гринько,rpMHbKO,False
+1773,слюда,cnona,False
+1774,"эротичный
+полотно мучнистый
+соответствие Малков
+перевыполнить кубик",TG HOJIOTHO MyyCTbIM COOTBeTCTBMe MaJIKOB HepeBbmIOIHTb KyOnk 国,False
+1775,"участь Иден
+ясновидец
+несвободный:",VAeH yyacTb ACHOBNAEL HeCB06OμHbI:,False
+1776,"неоспоримый
+особенность",Heocnopumn OCO6eHHOCTb ,False
+1777,Мурашев,MypaweB,False
+1778,39515,39515,True
+1779,"Мишук     ?
+привязка пятая",MnWYK ？ NPVBA3KA NATAR,False
+1780,"вовлекаться
+отпрыск съестной
+заупокойный   .",BOBIeKaT bcA OTIpuCK CbeCTHON 3aynokolhHLd 茶,False
+1781,"между
+Рынкевич",Mexkoy PbIHKeeuy,False
+1782,"недодать бюрократизм
+9273256259 триумвират
+зачин невыдуманный
+прозаично
+регламент выслушать","8C8  04E 1 133 Be883 S382号 电 5381 JEIU 福 -808 1e1642659 135 INCLE' 25 IP0A 专业 13 UPAULICA 63 95 03 电品 1331 4131 C43 J2电3 138 PHILcO9 13 26S 1 a10 BTEC.SEI  1860181988 135 2013 ""90 02-801 28 HENOnATb SIOPOKPATUBN LALA 2331 S1CC0L16O 8 动 J0品0 060183988 2341 U0ER8 025 12 Dsc+ae5i 2111 tEC J06 321 284e 121 0sCP1215 2151 -LSIER 1-3 福  121 H13IC ? 000 ：:10180 C&8i ""IPa""aL 业 5 122 PiILCO: 十 gue 0 0+018：188 C66 Gi1E: 1 ·E3 电话 82 9273256259TPWYMBVPAT C&5 -36（3) -33 P 2118 E 3 一 04411185 C51 57C1G 56  男 面 D:ci1 C331 车 品 3E5 CS31 836 E   2 FAY8.0G csii 16  FE 8 153 12 IL6416.1 CS31 21 ES6 42 汽 3ALNH HEBbIAYMAHHbIN E5.CM C35 AJCIAJD 1 福 改品 话 P31RY ore-3rP90 s8cs8:e9cofe7r8 NPO3AW4HO PEFNAMEHT BbICNIYUATb",False
+1783,ортодоксия,OPTOAOKCIA,False
+1784,"отлеживаться
+пенсильванский
+отлогий
+фреймовый
+единомышленник",OTNIeKMBaTbCA neHCWIbBaHCKH OTNOrNN 中peiMOBbIN eANHOMbIWIeHHNK,False
+1785,атавизм,aTaBVBM 家 T 福,False
+1786,егерь,f erepb,False
+1787,Шарапов,LlapanoB ,False
+1788,Силюк(,CUIOKE,False
+1789,"превращение разгонять зачать
+шелохнуться министерство
+обидеть field тявкать",rpeBpaLeHve pa3rOHAtb 3ayatb WeJOxHytbCA MHuCtepCTBO o6ngetb field TABKOTb ?,False
+1790,взад,B3aA 睿情,False
+1791,"всасывание бурно
+сцеживать мастак
+сбрасывать
+подправить трояк
+9324386687",6ypHO BCaCbIBOHUe cUexUBaMb macmak c6pacblBamb noOnpaBumb mpOgK 9324386687 N D,False
+1792,Капитонова,L KAnNTOHOBA,False
+1793,"инкубатор
+алхимик
+стихи:",JHKy6arop aJIXJMK CTXH:,False
+1794,"подвес   -
+перевернуть
+термитник",nodeec nepeeepHy m6 mepMumHuk,False
+1795,"9811018780
+миндалевидный",9811018780 MAHAAneBNAHbIN  ,False
+1796,Кулаев-, KyJIaeB-,False
+1797,акмеист,aKMevCT,False
+1798,"склеп
+40443!",CKIEn 40443!,False
+1799,"фураж
+навек:",pypak HaBeK:,False
+1800,пашня,naWHa,False
+1801,"сколько
+почему-то
+пряный",CKObKO nOyeMy-TO 1 AHI,False
+1802,"9527049639
+Силкова
+плодоножка",9527049639 CwkoBa NOdOHOIC KQ,False
+1803,"халатик
+накинуть,","xanTaTK HaKVHYTb,",False
+1804,"field
+голый",field rOJbIY H,False
+1805,Брич,y 福庄,False
+1806,варна:,BapHa:,False
+1807,9575080352,9575080352,True
+1808,"станс
+Мазитов
+62196",CTaHC Ma3VTOB 62196 O,False
+1809,шитый,WTbi,False
+1810,Михайличенко,MmxainmyeHKO,False
+1811,"Гаврилин
+Христос
+румынский
+Воронина!
+напрямую",O FaepwuH Xpucmoc Py MbIHCKuu BopoHUHa! HanpAMy HO,False
+1812,платочек,nNATOYEK,False
+1813,"экстренно
+Валерия",9KcmpeHHO Banepus,False
+1814,"Кукса Королюк
+модернистский",Kykca Kopon IoK MOA epHHCTCKHY,False
+1815,"поваляться
+остывать дотация
+Кулькова",MOBAATDCA OCTbIBaTb OTaNA KynbKOBa,False
+1816,"Киричук
+томный
+хромосомный
+нерв    -",Kupuuyk TOMHbIM xPOMOCOMHbIM HepB,False
+1817,"трущобный
+императив",TPY IHIOSHbN HMIIEPATHB ,False
+1818,"урочный
+жжение",ypOyHbIi XXeHNe,False
+1819,"лающий
+оголить
+вердикт",naowuo 020numb Bepouk m,False
+1820,эска,aCka,False
+1821,Мирук,MAPyK # ,False
+1822,62926,62926 SELECT,False
+1823,прачка Якутск,,False
+1824,"завладеть
+сквош",3abnanerh CKBOLLI CODE,False
+1825,Мальцева,ManbLieBa,False
+1826,"Гацук
+руины",? Fauyk pyuHbi,False
+1827,уста,YCTA,False
+1828,"пурпур
+гоночный
+Адамова
+чиркать",nypnyp rOHOYHbIN AAaMoBa unpKaTb,False
+1829,смести.,车用A MLG 7 EC,False
+1830,Оборина бравый,06opuha 6paebli,False
+1831,Буча!,Eyyal 公,False
+1832,продолжатель,TPOnOnX atenb ,False
+1833,"шпилька
+Седов гегемон",wnuΛbka Cedoe 2e2EMOH,False
+1834,одесную,G04 G,False
+1835,"тапер 9139934170
+Алиев причинение",Tanep 9139934170 AJIHeB PHYHHEHHe,False
+1836,Чагин, ,False
+1837,курьез,Ky pbes,False
+1838,"даже  :
+ерошить-",Aaxe epouTb- P 品 1007,False
+1839,"рэкет
+52306",paKer 52306 利,False
+1840,Минков,MMIHKOB  老,False
+1841,воск, BOCK,False
+1842,поворотный Шипунов,口 Wnny HOB NOBOPOTHbIN,False
+1843,"кипа
+венок",Kuna BeHOK,False
+1844,размыть?,pa3ubm6?,False
+1845,"23065:
+комар",23065: KOMap,False
+1846,инструктивный,ИHCTPYKTИBHbIN,False
+1847,животина,,False
+1848,побуждать(,D,False
+1849,красоваться,KpacOBaTbcA,False
+1850,Дунаев,Ay HaeB 00,False
+1851,кровушка,GIVENCRY kpoeyuka,False
+1852,"пьянство
+29090 чалма",nbAHCTBO 29090 yanMa,False
+1853,"ротация
+Тупица подле
+корениться",POTALnA Tynnya noAne KOPeHNTbCA,False
+1854,"Кулев
+скоп",KyJIeB CKOI,False
+1855,"техник недоучившийся
+диапазон Сш n 8)",TEXHK HEIOYHVBLLMCS JWAIA3OH C山 N 8),False
+1856,18670,欢#一# 18670,False
+1857,"сигаретка гранат
+нелояльность",curapeTKa rpaHaT HeNOAbHOCTE,False
+1858,9406359655;,,False
+1859,"flat
+загорелый
+гедонизм",FLAT 3ATOPEIbIN TEIOHN3M ,False
+1860,"свинарка
+лосьон how
+въезд специя",小 CeuHapKa nOCbOH how Bbe30 cneuua,False
+1861,"9539713682
+помазание
+неотразимость",9539713682 OMa3AHKE HEOTPa3nMOCTE 1,False
+1862,гнуться,THyTECA,False
+1863,давать!,Y daeamb!,False
+1864,графин,paan #ON,False
+1865,оприходовать),oⅡpEXOIOBaTB),False
+1866,"подтопление  ?
+судия Серпухов,","nodmonneHue ? cy dua Cepny xoe, PMOA",False
+1867,бомбочка,Y 60M604Ka,False
+1868,"разгневать
+sell
+Линкевич",pa3rHeBaTb sell JvHKeBVH GEO ,False
+1869,"continent
+упруго
+Емец видеозапись
+Пресняк стульчик",continent yrpyro EMeL BWneo3anNCb peCHAK  CTyNbHNK,False
+1870,откуп,,False
+1871,"пересиливать
+спокон spend",nepeCHnHBaTD spend CIOKOE,False
+1872,9865102106, 9865102106,True
+1873,"рысь
+избиение
+прошлый
+сгущать",pbicb- u36uehue npoun bi cayu uamb,False
+1874,Барташ,Eapmaul C ·,False
+1875,Евграфова,Rerojom,False
+1876,"root
+мальва
+вольт 56049 жрец",Frethinet ato root Tr.0541.415400 TeL.0541 MaJbBa BOTIBT 56049 xpeu,False
+1877,"69534 )
+Косач
+нотный",69534 ） Kocay HOTHbIN □,False
+1878,"проницаемый
+герметик",oHnaeMb repMeTuK,False
+1879,"71718
+н-не
+44913",71718 HHe 44913,False
+1880,"лития
+нехай!",ΛNTWA Hexai!,False
+1881,"Ситников
+долженствовать-",CHTHNKOB AOM>KeHCTBOBaTb-- oo,False
+1882,"катарсис!
+известись
+Маслякова
+нате
+Шлойда",福 KaTapcuc! VBBeCTVCb MacnAKOBa HaTe LLlnovna,False
+1883,Остриков,川 OCTPMKOB,False
+1884,Сапронов,L CanpoHOB,False
+1885,"Мороз
+9669871860
+Конкин
+Сергель!",Mop03 9669871860 KOHKUH Ce pre nbl,False
+1886,"подшипниковый
+вовнутрь
+письмецо",ML  noowuNHUKOBbIu u BOBHympb nucbmeuo,False
+1887,"доигрывать
+весельчак
+колхозница",dou2pbieamb Becenbyak KOnXO3HUua,False
+1888,сбыт,c6bIT,False
+1889,"поклевать
+Белявская",MOKNEBATb BEIABCKAA 11,False
+1890,Шемет,eMeT,False
+1891,"крыса-
+fill",Kpbica- Fill,False
+1892,Душанбе,AyiuaHbe,False
+1893,"оспина
+блеснуть
+отборный
+поволока
+отросток",? OCInHa OJIeCHyTb OTOOpHbI HOBOOKa OTPOCTOK,False
+1894,фырчать,E DEIPHATE,False
+1895,"лапша
+Шакун
+вятич
+base",nama IllakyH BATHY base Blik,False
+1896,"линейно
+Иванович
+Нестеров
+shell  ?",MNHENHO VBaHOBIN HectepoB shell ?,False
+1897,"баррикада изразец равноправный капеллан Жиляева
+черноволосый бледно бытийный
+направляющая правоверный вызволение
+Жданович досточтимый 9215181441 Возняк веха 55861
+переплетаться недокуренный            ?",bappurada uspasey panompanui xanenuay Kuaeal uepuoeonocbui bnedouo bumuiuan hanpananoua npas0sepuuieu3eoneuue Koanoeuu docmoumuuui 9215181441 Bosuax exa 5586 nepennemamoca nedokypeuuui,False
+1898,"Гильфанова сашин
+пелерина вражда институция
+богадельня совать Охрименко!",TWibdaHOBa caWINH nenepnHa Bpaxna HHCTATyUNA 0ranenbHa OxpNMeHKO! COBaTb AHA,False
+1899,"Панова
+бодун",aHOBa 60nyH 1,False
+1900,"Лямин
+Букач",AMNH Bykay ,False
+1901,"нападать
+статут
+Мазаник",HanaAaTb CTaTyT Ma3aHK ® ,False
+1902,"Шошина !
+танковый
+каяться",LLlouuHa maHKoeblu KaAmcA ,False
+1903,упразднять,ynpa3AHATb,False
+1904,разграбить,?,False
+1905,мсье,MCbe,False
+1906,Мазец,Masey 正,False
+1907,Белая,Benaa,False
+1908,слупить,CJIY IUTb,False
+1909,ливневый,nuBHebi,False
+1910,"весомо .
+Юрасова
+кутерьма",BecoMo Opacoea rymepoua,False
+1911,"Алай
+кофий-",N Anan KO中ni-,False
+1912,пляс,AC,False
+1913,подвой,nogbou,False
+1914,Гайко,00000000000000000000 Fauko ,False
+1915,"9378302929
+пассионарный",9378302929 ACCN OHSP HHA 蜀膳,False
+1916,"напихать
+батальон
+Ивашкин
+мелькать
+88639",福 HanNx aTb baTanbOH WBaWKNH Me bK aTb 88639,False
+1917,Панюкова?,IIaHioKoBa?,False
+1918,"руководить
+Матяш люд военврач",py koBodumb Mamau iod oehepay,False
+1919,"воспылать
+возомнить
+первенство", BOCIIbUIATB BO3OMHYTb HIEPBEHCTBO,False
+1920,"space,","space,",True
+1921,зулус,e 雅 用  中电话  17,False
+1922,трейдинг.,TpeinwHr.,False
+1923,"Омельченко
+соцлагерь
+соприкоснуться",OMenbHeHKO coLarepb COnPNKOCHyTbCA 小 产,False
+1924,Седнев,e0,False
+1925,Бушмакин,A ByuMaKUH,False
+1926,"Генрих
+парабола",FeHpux napabona 7 ,False
+1927,марш,Mapm,False
+1928,Короленко бубна.,KoponeHKO 6y6Ha.,False
+1929,патио, HaTuo,False
+1930,"Сивов
+Булах:",CMBOB bynax:,False
+1931,"Шарай,"," Tmapat,",False
+1932,"гейзер молниеносный
+вычесть Микоян мушка
+полоцкий пестро
+кормушка штаны",rensep MOJIHMeHOCHbIN MMKOSH BblyecTb Myuuka NOJIOLKNY nIecTpo KOpMyuka WITaHbI,False
+1933,постареть,Brutiful roadstiiple Jin+Flme ,False
+1934,"твердый
+Хрулев
+Белько",meepdblu Xpynee BenbKO 口,False
+1935,романтичный,一  POMAHTHYHBIN,False
+1936,Нехайчик,Herafor,False
+1937,жабо;,拍 eeo xaadouu M Ae A  Sae 国 期 CT epeycoopt  2CS 医 票   105264 蜀 口 1 限 费  CEG 品 Dens 1 41 中 酒 M 优 H 福 a 品  联 033 快 水 A 品 调 s 福 HxNOR R  牛 订 型  品  nna  n ATo  4oe 124 商  mi 7 租 A 3  cO 版 福 4 出 46 p B E   15 daun BOAt 服 口 品 ao 8 品 12 A a2 ? E Aecon ne ieKOg 品  n M   e O9 版 D'  里 13  牌 HO 正  中   P  相 u e 包 DPOE 6 % OM 132 是 m a n a60i,False
+1938,"Юдина
+47611",HOnNHa 47611,False
+1939,"Булай  :
+водитель
+кубатура",bynan BOANTeNb Ky6aTypa,False
+1940,"коммуникативный Шумихин
+Мазан кариатида
+Климашевский дайвинг",LMWW. KOMM HMKTVBHBDM Ma3aH KapiaTAa KnMMaLleBCKM AaMBYHr,False
+1941,"срубать напрасно раздел
+голодный запамятовать  ,
+переживание компонентный",CPYBATb HANPACHO PA3AEN ONOAHDIN 3ATAMSTOBATb KOMNOHEHTHbIN NEPEKMBA HNE,False
+1942,"спартанский
+Федяев подойти
+дальнодействие",CTTapTaHCKIY Pengee OONTI JaTbHOnenCTBne,False
+1943,"Коско
+нелепо)
+выбрать
+Битлз",KocKO Hereno) BH6paTb BATJI3,False
+1944,месье,MeCbe,False
+1945,"секундочка
+беспечный",cekyHOuka 6ecneyHbM,False
+1946,ремесло,peMe CnO 面,False
+1947,"продмаг
+ущемлять пурген",美   生有 A ett 0 L poμmar ymeMATb ypreH,False
+1948,"Баранов
+Тимофеев",BapaHOB TuMopeeB SUO,False
+1949,"Горбель
+Пристром",生临 BO Fop6enb npucmpom,False
+1950,хана,B XaHa,False
+1951,"настрой
+мораторий",HaCTPON MOPaTOPNIN,False
+1952,жюри,口 copu,False
+1953,брат,6paT ,False
+1954,"сайт
+just;",30909,False
+1955,Юрчук,funikybow JOp uy k,False
+1956,"услаждать
+просквозить
+9921024728",yca>KAaTb npOCKB03HTb 9921024728,False
+1957,9983421034,N,False
+1958,дробно,Apobao,False
+1959,"отечь.
+27356
+мерзко",工 OTe4b. 27356 MepBKO,False
+1960,"изворотливый
+вызволять
+оконце
+ультразвуковой",U3BOpomNuBblu BbIBBOnAmb OKOHUe ybmpa3By KOBOU 小,False
+1961,"смолоду
+Коростик",CMOnOny KopOCTNK,False
+1962,Кудрявцева,KyOpAelyeeo ,False
+1963,роман,pouaH,False
+1964,гнет,福 rHET,False
+1965,чахотка,M LaxOTKa T S,False
+1966,людно,MIOAHO,False
+1967,"страсть путано
+диковина",CTPACTb IYTAHO JHKOBHHA FLOAN,False
+1968,прижиться,SER 1 5,False
+1969,вальдшнеп, ,False
+1970,Ярцева,樂 Hpueea  骏 染染 来 迷,False
+1971,Слижевский созыв,CINKeBCKNY CO3bIB,False
+1972,"Солодовникова
+надзирательница",ONOAOBHNKOB 13YDaTeibHvi,False
+1973,"73817
+киббуц(",73817 nu66yul,False
+1974,пядь,,False
+1975,"проезжий
+сослать .
+ушлый",TIPOE3)XVV COCATb. YLWNbIM ,False
+1976,роскошь,poCKOmb,False
+1977,затон,3aTOH,False
+1978,Саша,CaHa,False
+1979,"обедня
+ротный
+30601",06e0Hg pomHblu 30601,False
+1980,Букас,bykal ,False
+1981,"crowd
+радиус(",crowd paduy,False
+1982,волок объемлющий,BOnOK 06beMoWni,False
+1983,"кисея
+галка",KVceA ranka,False
+1984,"ларь
+call",napb call,False
+1985,разрушаться,,False
+1986,лошадь,nowadb  美,False
+1987,пертурбация,eprypbaraa,False
+1988,Мальков,MabkOB 美,False
+1989,тощий,  TOWnY 3,False
+1990,"86688
+некстати
+самострел",86688 Hekcmamu camocmpen,False
+1991,легально пыхтеть оплодотворить,? 2 Jezaibho nbxmemb onnodomeopumb,False
+1992,"эполет
+Смолич",aOnet CMOnny,False
+1993,ругать,pyrars   BneE8 ,False
+1994,Полюхович,9,False
+1995,56973?,凶凶 56973?,False
+1996,щелка, luenka ,False
+1997,зверский!,政 V A  正 3BepcKHi!,False
+1998,прародитель,DoCo)Mo papon Tenb,False
+1999,"body -
+скетч",body cKemy,False
+2000,"Рыжков сласть
+реквизит",PbIKKOB CIACTB PEKBH3HT 住友生部 Aiuzun 值动 ,False
+2001,клянчить,# D #a KAHU,False
+2002,"медсанбат Микула
+курсовой дренажный
+брачный нежно-зеленый
+20178 дотация",MeAcaH6at Mukyna KypCOBON ApeHaK HbIi n HeK HO-3eeHbIN A 20178 oT,False
+2003,Византия,T 门 幸吉,False
+2004,boat,门 EtOu d boat,False
+2005,мило, MUnO,False
+2006,74751,74751 飞友9233,False
+2007,"аналог,
+приканчивать","aHaIor, ⅡpHKaHYHBaTb",False
+2008,Маслюк-,MacnIoK- I 8,False
+2009,хост,DECOR e XOCT,False
+2010,"новатор
+Логинов
+счетный
+Бегунов",OBaTOp SONHOB yeTHbM BeryHOB 大,False
+2011,ярый,apblu,False
+2012,срамной,CpaMHOn,False
+2013,рать,paTb,False
+2014,"выводной,
+родничок
+9276665685
+напороться
+slow","BbBONHOn, PORHVHOK 9276665685 HaTOpOTECA sow",False
+2015,Авраам, I ABPAAM,False
+2016,"Сытик
+чистый
+рюмочка",Comk cmou pauoka,False
+2017,плести,WeCTw,False
+2018,Дедов,nedoB,False
+2019,"мыслимо
+отлупить",MbICINMO OTyrINTb,False
+2020,ушиб?,YWHB? SE,False
+2021,"приземленный
+Шаров поучать(",npl3emneuuLi? lapoe noyyamb( 特 FoM dD gme eg UmdNAS,False
+2022,Ярославцева,Apocnauea Y,False
+2023,"Тимофеев
+16492
+неслышно(
+штурман",TuMooeeB 16492 HeCJIbIMHO( mTypMaH  M,False
+2024,Степин,CTeIUH,False
+2025,"припудрить
+карлик
+ратник
+ширпотреб
+одурь",npunyapumb Kapnuk pamHuK wupnompe6 ooypb,False
+2026,"16264
+Юрков",16264 卖,False
+2027,паника?,厦 nAHNKA?,False
+2028,"бронь
+общее",oponi b6uee   Sn ,False
+2029,"масса
+кода",Macca kona,False
+2030,72448,72448 PRES,False
+2031,Горнак,TopHax P84.8,False
+2032,дурнушка,UKO oupHy,False
+2033,"Краевский
+лицензия
+возникать",KPAEBCKHY JHHEH3NA BO3HHKATD,False
+2034,щука,LYKA ,False
+2035,17215,17215,True
+2036,павловский,OBCKMA nask,False
+2037,"озерко
+опричнина",03ep ko onpuuHuHa,False
+2038,нафаршировать,M yiila Here Here lathato makk,False
+2039,вибратор(,,False
+2040,рантье,儿 paHmbe,False
+2041,"Глаголев
+приторочить
+нецензурный(",TaroreB npuTOpOqMTb HeYeHSypHbui(,False
+2042,переживание дебет,5 坊 3 nepexuBaHue de6em,False
+2043,"свежесть
+спех
+Муртазина",CBeKecTb cnex MypTa3NHa,False
+2044,"выдавить ильмень:
+Асташкевич
+закачать",BHIaBHTB HIBMeHB: AcTamKeBHy 3aKayaTb,False
+2045,"Коноплич
+Науменко
+глюк",KOHONNNH HayMeHKO FMHOK,False
+2046,"71766
+ржаветь
+живьем
+пропан",pKaBeTb KVBbeM mpOrah,False
+2047,55205,55205 CY,False
+2048,"неплательщик
+ахиллесов
+мегера",HenΛameΛbwuk axunAecoB mezepa,False
+2049,бычок,50K  H,False
+2050,9012289727?,9012289727?,True
+2051,"забытье
+житийный",3a6bITbe XHTNHDN 苏,False
+2052,Конин;,KOHUH;,False
+2053,Врангель,Bpan,False
+2054,издатель,u3dameAb,False
+2055,горушка(,rOPYmKA( 楼 ,False
+2056,фельдшерский,"“水 T 专无血高亚,卫比区体",False
+2057,сокурсник,COKy PCHuK  福 福 (e) 家,False
+2058,подозрительность,,False
+2059,отросток,,False
+2060,ответ,OTBeT,False
+2061,"удобство
+подтаять
+иллюзион",YHO6CTBO HOITaATb NJO3NOH,False
+2062,плита-,门 nANTA-,False
+2063,киноаппарат Шамин?,LLaMMH? KNHoannapat ,False
+2064,26724,少 26724,False
+2065,anger,anger,True
+2066,"подсобить
+переключить",onco6VTb nepeknioHNTb,False
+2067,абрек,bper STUDIOBLEU,False
+2068,внесение,BEeceEne,False
+2069,problem,problem,True
+2070,отпетый, T OTnETbIN,False
+2071,"переселить коврижка ,
+Станишевская пилорама",nepecenumb naHUUUeBCKOR KOBpuDrCka nunopama,False
+2072,преобразовать,7 D,False
+2073,"сменный обхитрить
+вотчина Войтулевич вона
+пресечь дунуть",CMeHHbN OOXVTPNTb BOTuMHa BOVTyneBIH BOHa npeceyb AyHyTb,False
+2074,"челочка
+велено",yenoyka BeneHO mmUMLEu e OmaTLum um Lumunn.,False
+2075,Стройтрест,Cmpoumpecm,False
+2076,"Ильин
+Северинец",A 华 WnbuH CeBepuHeu,False
+2077,"эксклюзив бомж
+песцовый
+Лепеша Евстифеев",3KCKIIO3HB BOMK HIECHOBBIN JEIEILA EBCTHQEEB,False
+2078,"звонница
+31251",!!,False
+2079,"запросто
+Дядюк дружба",G ¥ ¥ ¥ X 少 ¥ ¥ ¥ ¥ T ? ? ? ? ? ? ? X ￥ ? 4 ? ? ? ? 一 B  ￥ ￥ ￥ ￥ ? C 具  ¥ 林  k ￥ 双 中 ? ? ? ? ￥ X ? ? ? ? ? ? X ? ? ? ? 3anp ocmo Dagtok C gpyxsa. ￥ X T ￥ ? ? ? ? ? ? ￥ X ? ? ? ? ? A B ? X ? ? ? F G   H ￥ 林 ¥ 林 林 ¥ ￥ ? ? ￥ ? ? ? ? ? ? ? ? ? ? ? X ? ? ? ? ￥ ? C F + C 艾 ￥ ￥ 杯 ¥ 少 ↑ 本 ￥ ￥ ￥ ￥ 木 不 ? ? ? ? ? ? 高 A ? × 业  B ? ? X,False
+2080,"НИОКР
+Илюшина",HNOKP MnOwUHa,False
+2081,гепатит,2enamum 90 宾 8,False
+2082,"сжирать
+чех Авилова
+Гутман Драчев",Cicupamb Aeunoea 4ex IymMaH  Hpauee d,False
+2083,"угольный?
+бородач !",yrOnbHbi? 0p0y hsogady 中,False
+2084,"укрыть
+текущий",ykpbrTb Tekymu',False
+2085,list,list 二,False
+2086,обогнуть!,G,False
+2087,байда,6aida ,False
+2088,"плут
+челн)",nnyT HenH),False
+2089,нисколько,HUCKOnbKO 1,False
+2090,"9264143218
+сквернословие
+9466603609",9264143218 CKBePHOCnOBNe 9466603609,False
+2091,еврей,eBpen D,False
+2092,"прикрыться
+длиннополый
+прозрение.",nPMKPbIT bCA NHHONOI nPO3PEHVE.,False
+2093,слыть,Cbime 品,False
+2094,вследствие:,,False
+2095,близ,H GUa C,False
+2096,"проистекать
+сучонок лягнуть",npoucmekamb CyyOHOK AaHymb 8S Eb,False
+2097,лета,Aera ge 分,False
+2098,"Нехаев
+гайдук",Hexaee 2auoyk,False
+2099,топкий,TOnKUM 一,False
+2100,"дедок
+объезд",dedok 06 be30,False
+2101,"сходни
+Караев
+Дудик",CXOJHN KapaeB Hynuk,False
+2102,кули,KynN K 242244422,False
+2103,"Горбач придерживать
+телеэкран special   ?
+откидной Вебер особняк)",Fop6ay npWAepxИBaTb Tene3kpaH  special ? OTKИAHO  Be6ep  OCO6HAK),False
+2104,сравниться,bCA ,False
+2105,"Назарова
+сверхплановый
+9691047054",Ha3apoBa CBepX IJ aHOBb 9691047054 7 ,False
+2106,свершаться,cBepuaTbcA LoerSb,False
+2107,"старуха
+plane",crapyxa plane,False
+2108,"Михалюк
+31601
+хищный)",MNXAIOK 31601 XNWHbI),False
+2109,"Шкраба навсегда
+дылда Скакун перелетать
+косвенный истлеть
+засматриваться",Ⅲlxpa6a a HaBCerIa CraxyH Una nepereraTb I KOCBeHHNA HCTIeTD BaCMaTpHBaTbCa,False
+2110,"скальный
+Ясинская",CkanbHbi AcNHCKas,False
+2111,post,post,True
+2112,"пристроить!
+Ерошкин",HNMCTPONTE! EpOUIKVH,False
+2113,нещадно,一光 咖菜 华虾,False
+2114,ошейник, L OuLeYHVK,False
+2115,"поглощение
+Целикова
+облачить ,",Ws RE! PI? 不量 MC Ou nornoLeHe LenvKoBa 06nauMTb,False
+2116,"завлечь
+ужать
+Анкуда",3aenel% yicamb 心 AHKy da M,False
+2117,осмеять;,OCMeATb;  C  Ave. Data Curso AIION 9PSIREARMOUNI Date:,False
+2118,среднероссийский,cpedHepoccuickuu telecom,False
+2119,"выцарапать
+вживание
+Карелия",BhuapaiaTb BrHBaEHe KapeIHs ,False
+2120,"сокращенно вона
+азот закашлять
+мультсериал",COKpaWeHHO  BOHa a30m  3aKawAamb My ∧bmcepuaΛ,False
+2121,сомлеть,COMJIETB,False
+2122,"складочка
+гомеостаз:",CKAaAOYKO TOMeOCTa3.,False
+2123,вделать,edenamb,False
+2124,"мидия agree 9257663503,
+отпугивать склеиваться:","MUdUAC agree 9257663503, omnyzueamb CKneueambca: WMMA",False
+2125,"сухаревский
+Чехович",cyxapeBckn YeXOBWH,False
+2126,cool.,COOL.,True
+2127,"трусливый разглядеть
+худшее wing
+очухаться вакса)",mpy cnueblu pa32nademb xy duee wing ouy xambca Bakca),False
+2128,"Жилинская!
+вперед
+Ткачук)",X WI uHCKag ! enepeo Tkayy k) 服,False
+2129,степ.,Cren. 甘,False
+2130,"гладь
+Шиков",21006 LLlUuK08,False
+2131,"засеменить 51416
+9055175630 выбросить",51416 BaceMeHWTb 9055175630 Bb6pocHTb,False
+2132,альтовый,aJTbTOBbDi 777NY,False
+2133,прикупать,100 福 R家,False
+2134,Малетина,ManemuHa,False
+2135,"радиотехника
+допустим",paANOTexHMKa AOnyCTUM ■,False
+2136,Зайнуллина, geaiHyUnNHa 京,False
+2137,Сочи,Coun,False
+2138,41991,41991,True
+2139,Женя,KeHA Elaa 100,False
+2140,кодон,,False
+2141,"лего
+ковровый
+Максаков?
+Машин",ne20 KOBpoeblu NaKCaKO3E MauuH,False
+2142,далековато,y AaneKOBaTO,False
+2143,синь,CUHb 大际,False
+2144,шпала-,unana-,False
+2145,"деньги
+distant куртизанка
+Дворникова    ?
+ручаться
+Шевель пошиб   .",5 5 AeHbrИ distant KypTH3aHKa BOPHNKOBa py4aTbcA WeBeMb noWn6,False
+2146,"шуметь
+эссенция
+Нагорный",Ly MeTb 3CCeHLNA HaropHbiN T,False
+2147,предвидение,琴 山 ipenBHneHwe,False
+2148,Шепелев!,WeneneB! 9 -6 福,False
+2149,"восполняться
+нерешаемый -",  BOCnOAHAMbCA Hepeuaembli 080,False
+2150,"тужурка
+хандра",n Tyxy pka xaHApa,False
+2151,"Шаркевич
+балетный дож
+незамеченный(",LlapKeBVM 6aneTHbM AOK He3aMeyeHHbN,False
+2152,паяц, nagu 11 ,False
+2153,"неделимый(
+Маркович
+рецензия",HenenNMbi( T MapKOBVH peLIeHBVA,False
+2154,высокомерно,BbC,False
+2155,удить),youmb),False
+2156,case,case,True
+2157,"Янушкевич
+умолчание
+Андросов обжаривать
+помешанный Омаров",AHy WKeeuy y MOΛyaHUe AHdpocoB obxapueamb NOMeWaHHbu   Omapoe,False
+2158,коса,Koca,False
+2159,Гаджиев,TanMeB 丰天 北-4,False
+2160,Хомец,Yomen RC,False
+2161,"Здор
+Стриго",Mts 3nop CTpuro,False
+2162,hope,hopb,False
+2163,"Госплан 93816
+половик Гараев
+корпус всяко",FocnnaH 93816 Fapaee nonBuk Kopnyc BCAKO,False
+2164,Свиридова,CoMPMAOba,False
+2165,Дятко,FMmko,False
+2166,фрагментация,ppa2mehmauua 科,False
+2167,каталка,karaJIKa 一 台,False
+2168,"аромат травля палисад
+превосходство
+Христенко 9963402727",apomaT TPABNA nanncan npeBOCXOACTBO XpNCTeHKO 9963402727,False
+2169,"мушиный)
+комплектование;",出 My wUHbIo) KOMnneKMOBaHue;,False
+2170,"Чуркин;
+доплестись-
+выжать","yyPKUH, AonneCTvcb- BbDKaTb 丙",False
+2171,казать,Ka3aTb,False
+2172,нулевой,HyneBOM,False
+2173,"ситный
+круто",AA GA lash N CИTHbIN KPYTO,False
+2174,харя, xapa,False
+2175,"вздыхать
+чашечка мул
+Фрейд
+йод придаточный",B3bXATb YALLIEYKA MY OPEVA O TPWAATOUHbIN ,False
+2176,"подгадать
+запутывать помпон
+патриарший art",nodzadamb 3anymbieamb nOMNOH nampuapuuu art 2. ## N D- O   AXA - ? a INDEN UINNRAA WONEEINDAY LLZAMENHIS wy LRWTOSiRDANNT BOAN RANDTNINODNT OWAN  RANSHENEANGAONDSSN XHNSANUINORDINS UND DSN DOKIONATDERUNNTRTIDECAADGE NKONGEIN DCING DUROHLIKINTO ENSOINUMSUNDDRDUSR GWIDME R UA W,False
+2177,"этап
+купальня)",aman ky NANbHA),False
+2178,"skin
+чувал!",skin 4yBan! M,False
+2179,откармливать,,False
+2180,"неопытный
+голосовой",HeOmGITHLY rOπOCOBO G3 GO,False
+2181,"амплитуда
+стиляга отягчать",aMuTyIa CTIIAra OTArYaTD,False
+2182,"кнопочный
+Белаш
+Савостьян
+Китова",KHOTOUHbM Benaw CaBOCT bAH KMTOBa F,False
+2183,необъяснимо,He06b9 CHUMO >,False
+2184,"издержки
+Балашенко:
+передать
+сковывать",u3depsicku BanaueHKO: nepedamb CKoebleamb,False
+2185,"креатура олефин
+продернуть!
+9207972859",onecrH kpeaTypa rponepHyTh! 9207972859,False
+2186,"корочка!
+Михалюк)",Kopoqka! Mxaok) ,False
+2187,"конус Фаррахов фигурка
+Зубова непослушание", Y 大 福 0O0OD KoHyc peppaxoe duey pka V 3y6o0 Henocny weHUe,False
+2188,"Бакиров
+Иаков;",心 BaKMpOB VaKOB; ,False
+2189,Бессарабова,Beccapa6oBa J,False
+2190,"напрямик Госгортехнадзор
+топкий Пищенко повести
+Железнов 9167986261 плавный",HanpAMuK Toc2opmexHad30p monkuu IuweHko noeecmu Kene3HOB 9167986261 n1aeHblu,False
+2191,сальто,CaJIBTO,False
+2192,"сюита
+оборонка
+длительно!",CIOVTA OEOPOHKA TEHO!,False
+2193,"помрачить
+9762695240
+заточение",E nompagumb 18762695240 3amoyeHue,False
+2194,справиться-,7 CIIpaBITbCA-,False
+2195,"тотальный сельпо(
+брошка хорек",moman bhbu cen bno( xopek bpouka,False
+2196,Кирин,KupUH,False
+2197,живо:,XHBO:,False
+2198,Дубна,明 Ly6Ha,False
+2199,"пускай 87320 поплавать
+болеть мелочь Буйневич
+среднее усть-илимский
+туфта затрястись",nyckan 87320 nornaBaTb 6oneTb Menoyb ByYHeBIM N cpeAHee yCTb-WIWMCKW TypTa 3aTPACTNCb,False
+2200,повествование,rOBeCTBOBaHMe e,False
+2201,"Зубрик
+передых коллаж
+Царьков",3y6puk nepedbix KO LIapbkoe,False
+2202,габаритный энергетика,ra6apNTHbM 3HepreTMka #,False
+2203,дилер,Awnep  ,False
+2204,"переменить
+модник
+разыграть",nepeMeHumb MOOHUK pa3bl2pamb,False
+2205,"пихта
+speed",[XTa speed byAppie Music Rock,False
+2206,"9181272780
+выговор продольно;",201  9181272780 Bbirobop npooo  飞,False
+2207,17442,口 1 17442,False
+2208,"раньше
+бревно",paHbue opeBHo SES5SSS58SR3EN86NS,False
+2209,выпас,® BBnac,False
+2210,асс оштукатурить,acc oLLTyKaTyprTb,False
+2211,присуждение,pHcyKIeHHe 国 UESA 8 ? S- 又 ? 3,False
+2212,"Сабило
+Протасов",IpOTacOB,False
+2213,никой;,HHKON;,False
+2214,"9686380979
+Потапова кочан",X 9686380979 KOuaH notanoBa  ,False
+2215,втравить,BTPaBMTb ,False
+2216,"лагпункт
+багор
+таец",narnyHKT 6arop Taeu,False
+2217,"Филимонов 82107
+Лимонова near -",O  ΦWIMMOHOB 82107 JKMOHOBa near r-,False
+2218,"овраг аристократический
+9004029770 проиллюстрировать
+милосский 9454580018 темень
+обволакивающий вторник
+фруктовый Патрик басовитый",OBpar apncToKpaTWyeCKnM 9004029770 npOwnnoCtpnpOBaTb MWTOCCKNN 9454580018 TeMeHb O6BOnAKMBAIOLLINN BTOPHNK dpyKTOBbI laTpuk 6aCOBNTbIM,False
+2219,межведомственный,NI,False
+2220,"шихта
+48068
+Кирьянов
+Соломко",wuxma 48068 KupbaHOe COJOMKO,False
+2221,three,three,True
+2222,"Вяжевич
+накрасить",BAKeBY HaKpacfTb,False
+2223,"изложение добро
+four османский",TM 0o6po unotcehue four OCMaHCKuu,False
+2224,"брестский рытье чапаевский:
+приползать накрепко
+подавлять Даренских-
+о'кей",6pecmckuu pbmbe yanaeBckuu: npunon3amb Hakpenko nodaBngmb I apeHCKux- okeu,False
+2225,вепрь,Benpb 中电国,False
+2226,"заспиртовать
+воссоздать",3ACTNPTOBATb BOCCO3ATb,False
+2227,"кайф(
+Курбан",Kan中( Kyp6aH,False
+2228,"интеллигентка
+свекла
+баскетбол",MHTenMreHTka CBeKa 6acKeT6on,False
+2229,74378,8 74378,False
+2230,Мышкин,MbIWKHH,False
+2231,"шугануть
+Купер
+Ванин Шугаев",&ynop lulyiaeb BaHUH M,False
+2232,"донный
+имярек",JOHHLIN HMapek,False
+2233,скептик!,5298 CKeNTTMKI,False
+2234,"амок
+моющий", aMOK MOn,False
+2235,загореть),,False
+2236,45026,45026,True
+2237,9428532453,9428532453,True
+2238,мутно meet-, F  MY mHO meet-,False
+2239,оборона,o6OpOHQ ,False
+2240,покачивать,noxauueamb,False
+2241,Афродита,,False
+2242,Соляник,CO/HHUK,False
+2243,Слюсаренко,CnIOCAPEHKO ,False
+2244,Николаевна,团,False
+2245,"десерт
+гриль",necepr rpub,False
+2246,"методный?
+Холодов;",METOTHbI? XOIOTOB;,False
+2247,штабист,UITASHCT,False
+2248,овца,OCEAN OBLIa,False
+2249,опиум,onnyM 1,False
+2250,"90122!
+Сумин",C 90122 CYMAH,False
+2251,лукавство?,KaBCTBo?   thuoule Siaan,False
+2252,прыг,npbia,False
+2253,"пример build
+точно",buld rpuMep TO4HO 中,False
+2254,"комфортно
+махорочный.",KOMOPTHO MAXOPOYHDIN.,False
+2255,расцветить,,False
+2256,61970,61970,True
+2257,моська,+  ,False
+2258,"Забавский  )
+калорийность",3a6aeckuu KanOpuuHocmb ,False
+2259,"аккумулятор
+неприязнь
+свернуться
+матерок
+подражатель",aKKyMynATOp HenpV93Hb CBepHyTbCA MaTepoK Opa>KaTenb,False
+2260,"Докучаева
+укореняться
+знатный", LoKyuaeBa yKOpeHaTbca 3HaTHbIY,False
+2261,"Ларин
+абсурд",NapwH a6cypn,False
+2262,коала,KOAJIA S,False
+2263,"тетрадка
+акционер!
+откупить
+евро",TETPAJKA AKLMOHEP! OTKYITB EBPO,False
+2264,проиграться,,False
+2265,"Русских
+Шуляковский?",Py ccKux Liy Aakoeckuu?,False
+2266,"доктор
+Турков
+Гайсин",AOKTOP TypKOB FaNCUH,False
+2267,"верстак
+арбатский",国 ,False
+2268,ОГПУ,OrY,False
+2269,ГИБДД,n TAEAA,False
+2270,запинка,3anuHka,False
+2271,want,U want AVFC ? AVEC,False
+2272,9187474677,,False
+2273,"поручиться
+Горбатенко
+щелковский",HopyuNThCA Top6aTeHKO LIeAKbCK,False
+2274,"Колбик
+ересь академик
+Хабибулин",Kon6ur epecb aradeuuk Xa6u6ynun W.,False
+2275,пуля.,nyna. 1,False
+2276,"обоняние
+прилагаться",060HAHNE rpwnaratbca,False
+2277,"поместный
+дудеть сланец
+жмурик Ефим",nOmecmHbIu oy demb CΛ aHey Equm Xmy puk 贝绣水发舞,False
+2278,"12360
+бедро",12360 6enpo,False
+2279,back,back,True
+2280,"обезуметь
+отползать;","06e3ymemb omnon3amb, M",False
+2281,"Ширко
+шток",Wlupko wmok o,False
+2282,эксплуатироваться,,False
+2283,Мишарина,WNwemapitha,False
+2284,ОГПУ,VAMB 中 A  M orny,False
+2285,Летун,NeTyH V,False
+2286,"по-американски
+Степкин
+некрупный   .",nO-aMepNKaHcKH CTenKVH HeKpynHbIN,False
+2287,сватья),CBaTb9),False
+2288,"Набиева
+туземец",Ha6neBa Ty3eMeL 入,False
+2289,невежда, HeBexda 福,False
+2290,хрящ(,xa,False
+2291,опорный,OnOpEHS,False
+2292,"decimal
+католик",decimal kamonuk,False
+2293,"омыватель
+выбрить
+металлический(",OMbIBaTeib BblopuTb MeTaninTvyeckuM,False
+2294,приступать,MPUCTYnATb,False
+2295,резюмировать,peBIOMMDOBaTD,False
+2296,Ширвель,Lypenb 4A,False
+2297,вдова,Bdoea,False
+2298,шайка,wavka,False
+2299,Залуцкий,3anyw,False
+2300,седни, CEIHY,False
+2301,"Ванька
+попутный сват?",,False
+2302,Земсков,1,False
+2303,пролет,,False
+2304,"приучать
+9278687993)",npuy4amb 9278687993) 98888888 MnR5,False
+2305,меланхолия,MeaHXO C e,False
+2306,отобразить,oTO6pa3Tb 业 %6 7 5,False
+2307,Лосева, #  MoceBa,False
+2308,Иоанн,,False
+2309,"тост
+выше.",mocm Bbue.,False
+2310,"Хоменок Акуленко
+озаботить
+генсовет",YOMeNOK AkyAeHKO KMD LID oBa6 中团 b eHee,False
+2311,мило,MWO 880 E,False
+2312,"кульминационный
+жирно задрипанный,",加电333333333333333333 KybMNHALINOHHbI KNOHO BaAPNnAHHb,False
+2313,кизяк,DD KU39K,False
+2314,"Потапчук
+mind",TOTarMyK mind,False
+2315,"Панько
+Немцов",1 naHbKO HeMuoe,False
+2316,"импровизатор-
+герметически
+телеком менуэт-",WMnPOBN3ATOP- FEPMETNYECKN TENEKOM 1MEHY3T- R,False
+2317,деление,geneHno,False
+2318,рожь,poxb,False
+2319,"соблазн Лыскова
+Усачев insect полынный
+подоходный самокопание;
+аэропортовский закат,","coS uasH Auckoba caueb insect ROAH HHu nogoxogiuuu CauokonaH ue; a3p onop mob ckuu Sakam,",False
+2320,постромка затейливый-,3ameuinuebu nocmpomka,False
+2321,Таболич,Ta6onuy,False
+2322,грация,rpanHa,False
+2323,крем,Kpem 我,False
+2324,"исказить
+прервать",HCKa3HTb npepBaTb,False
+2325,"Ягодкин  ,
+нагнетание",AroJKUH HarHeTaHMe,False
+2326,9903850087,家 9903850087,False
+2327,Ирка,Иpka,False
+2328,"вскрик
+глазной
+постель",  BCKpAK TIaBHOR ⅡOCTEID N,False
+2329,"осень
+9821025012",OCeHb 9821025012,False
+2330,невдомек,7,False
+2331,"ладить
+грамота
+Шутько",naAHTb rpaMoTa WyTbko #,False
+2332,"ефрейтор 9509205111
+аэрофлотовский лорд
+Векшин стенание рисовый",eppetrop 9509205111 aopopioTOBcKud JOPA  BeKa CTeHaHne puCOBbI,False
+2333,"пиво расческа издерганный
+Гайдучик кыргызский
+9355462197 Кисляков",H3IepraHHbm IMBO pacyecka TannyuUK KbIprbI3CKH KHCIAKOB 9355462197 ,False
+2334,леер,inexplore #0O neep Deferhlan ,False
+2335,вдавливать,BnaBnMBaTb,False
+2336,кузнецкий?,KY3HeLKn?,False
+2337,сайт,JCAW V,False
+2338,"обозреть
+надругаться
+индонезийский?",060speTb HaApyraTbca HHAOHeSHACKHA?,False
+2339,"Ваня(
+цикл
+пленка",BaHbal Lvs! neHka,False
+2340,"цоколь
+согнутый
+реветь",1 YoKOnb CO2Hy muu peeemb,False
+2341,"хрипатый
+дайджест
+звать",xpwnatbn naNnKeCT 3BaTb,False
+2342,"шнуровка
+чего-то",LLHypOBKa HeFO-TO,False
+2343,"бумеранг
+чурка)",6ymepaH2 4ypka),False
+2344,trip,TRIP DT,False
+2345,"Сахончик
+заноза
+Дунаева ,",CaX OHYUK 3QH03a AyHaeea,False
+2346,"МХАТ
+live",MXAI live ,False
+2347,"зубрежка?
+Невский",3y6peKKa? HeBCKN,False
+2348,Корягина,Bopseund V,False
+2349,"клизма ?
+буднично",? KVBMa 6yAHHO,False
+2350,9867435447,,False
+2351,Роберт,PobepT 心,False
+2352,"ослепить
+отягощать",ocAenumb oma 2ouamb,False
+2353,Цыбина,biona,False
+2354,"Косова
+лошак ;",KocoBa JIOWak 1,False
+2355,Жерко,KepKO,False
+2356,Сиднев,CuaHee ,False
+2357,"Игнатеня
+чуланчик",MHATeHA ynAHNK,False
+2358,"пальба
+брус
+поистине
+тесаный",nanb6a 6pyc noNCTNHe TeCaHb,False
+2359,Михед,口 Muxe,False
+2360,"9833990610
+разграбить",9833990610 pa32pa6umb,False
+2361,Полуянчик,rOVAHK,False
+2362,"9305439844
+ракетка",广王发 9305439844 paKeTKa,False
+2363,"32361
+экзот",32361 3K30T,False
+2364,"обмолвиться(
+уставный",06mon eumbc( ycmaeHbu,False
+2365,ост 67185,ocm 67185,False
+2366,"дума
+Тимощук",AYMA TAMOLLIYK,False
+2367,назреть,Ha3peTb,False
+2368,"Касач Альфа-Банк
+9625628794
+головастый",Kacay Anbpa-baHk 9625628794 rONOBaCTHA,False
+2369,Герман 32970,ww.peeca.com FepMaH 32970 .有 理交行 中国商方装安,False
+2370,фуга?,dyra? 3,False
+2371,Габдрахманов Середкина,Ta6npaxMaHOB CepenKWHa 福,False
+2372,"Мочалов
+чага
+боек",Mouanoe yaza boeK 家 MARVEL,False
+2373,Голубович,┌ony6OBnY,False
+2374,"косолапый
+нарочитый!",ADORESS DATA N  R X URSOR 5 K 2 M S 0 口 D 日 ATION ROCOJaIBY HaporrBni,False
+2375,даже,dasice,False
+2376,замруководителя,3aMpyKOBOIETeIA,False
+2377,Лихач,Jwxay 鑫,False
+2378,порваться,,False
+2379,хобот,XOEOT,False
+2380,"44726.
+Крот",44726. Kpot TER,False
+2381,"штат ;
+79183",umam 79183 1,False
+2382,шипеть,wmneTa,False
+2383,Юрьевич!,IOpbeeuu!,False
+2384,слежка,che>xka,False
+2385,возразить,B03pa3umb n,False
+2386,собачка,福 CO5AYKA,False
+2387,"упираться?
+Абдрашитов",Ynupambca? A6opawumoe,False
+2388,Марченко,Map X,False
+2389,кулич,KYNVH,False
+2390,слаженность,CnaKeHHOCTb,False
+2391,"документирование
+велик теократический",AOKy MeHTMpOBaHNe BemMK TeokpaTnyeckuN,False
+2392,"грузчик
+дисперсия
+Гракович-",rPY3YMK HHCIEPCMA TPAKOBHY-,False
+2393,47038,rs,False
+2394,"киселевский
+send
+Ширяева",KMCenTeBCKNM send LhpAeBa,False
+2395,Леша,ewa,False
+2396,"электричка,
+зэковский"," 翡  9neKTpMKa, 39KOBCKMA",False
+2397,"until
+9403245695",S ORRMPAHA 训  until 9403245695,False
+2398,"Селин
+Марчик",CenIWH Mapun ,False
+2399,"манок
+урка",1 MaHOK ypka,False
+2400,"сладенький пуфик
+Рускевич нагибаться",cnaAeHbkni ny 中nk PycKeBnu Harn6aTbcA,False
+2401,Хорошилова,XopOLLIWIOBa 烟点百面 o,False
+2402,"синод
+западно-сибирский
+Леня
+9435622099
+государственность",CHHOA 3ANAAHO-CNENPCKN NEHA 9435622099 bio O0 CovIKs FOCYAAPCTBEHHOCTb sT 7OH Cearr hlg  同能财,False
+2403,"через
+водолаз
+министр
+военный
+Алина",yepe3 BOOa3 MNHNCTP BOeHHbIN AMHa 1,False
+2404,Ладик,aauk,False
+2405,сажа.,ca>ka.,False
+2406,"спешный:
+дурь
+уголовно
+Бредихин",cneuuHblu:  dypb y20OHO BpeduxuH,False
+2407,дыбы,Bwo ,False
+2408,"Свешников
+кузнецкий Тазетдинов
+9811018780",T CeeWHUKOB Ta3emduHOB Ky 3HeuKui 9811018780 HIF,False
+2409,диско,JNCKO,False
+2410,"ищущий 9651044143
+гомосексуалист!",nwywni 9651044143 romocekcy aHct!,False
+2411,жесточайший,KecToyaYmnn,False
+2412,Фролов,cdpOnOB,False
+2413,"Павловец
+рассуждать
+неоглядный
+повышать",TaBnOBeL paccyxAaTb eOAA noBbIWaTb M,False
+2414,37741, 37741,True
+2415,цель,中 ueub,False
+2416,"шаманский
+9073042834,","WaMaHCKN 9073042834,",False
+2417,"Бирюков
+Хомяк",BИpIOKOB XOMAK,False
+2418,концессия,KOHUeCCUA D,False
+2419,Рассолько?,PaCCOnbKo? CIT W,False
+2420,Калюжная,N,False
+2421,"Борцова
+блокнотик
+бикини",BOPHOBA BIOKHOTNK BHKNHH,False
+2422,Сочи,快 Cous ,False
+2423,орех,Opex,False
+2424,двукратно,By KpaT Ho,False
+2425,усик,MCHK,False
+2426,"нераздельный
+обложение",Hepa3deΛbHblu 06noxeHue 鑫,False
+2427,Августин участь,ABry CTUH yuacTb  美,False
+2428,"брюнеточка
+реакционер", 6pIOHeTOuka peaKLMoHer,False
+2429,"add
+Темников",add TeMHNKOB,False
+2430,полет,nOneT fic StTo MaenToed  福,False
+2431,"Вергейчик
+закруглить",® BepreruvK 川 3aKpyrIITb,False
+2432,царить,yapumb,False
+2433,бессвязно,GACCBA3HO,False
+2434,штормовой,IITOPMOPOY 及支及效,False
+2435,"умный,
+кодла",VE yM kOnna,False
+2436,"Каверина
+хорда
+57407",KaBepNHa xopna 57407,False
+2437,"бунтарский
+дворня",by Hmapekau dBopHa,False
+2438,"Можарова,",MoKapo,False
+2439,"печь
+вздуться Шойгу очертить
+свидетельский 9571218301
+избрать тифлисский
+беспричинный Сивая   )",neub Woiry B3AyTbCST ouepTNTb CBNAET enbckwi 9571218301 v36paTb TNpnNCCKW 6ecnpNANHHbIN CMBaST,False
+2440,31659,Oh MOE oh 31659,False
+2441,"несметный неотвязный
+Манн бунчук
+Фадеева соблазнять.",HeCMemHbIu HeOMBg3HbU MaHH 6yHyyK PaoeeBa cO6na3HAmb.,False
+2442,"10300
+13633
+Стаин",10300 13633 CmauH,False
+2443,Жура,XKypa,False
+2444,полишинель,non MWNHenb NSTAO,False
+2445,"ложность
+снижаться
+укоризна",JOXKHOCTD CHUKaTbCA ykopu3Ha  泰 ,False
+2446,66303, 66303,True
+2447,Рубанов Мартинович,Py6aHOB MapTHHOBHY,False
+2448,"вонь
+тупо",80 BOHb my no,False
+2449,Ахтямова,百 AxmAMoBg,False
+2450,"РСФСР
+71629
+стянуть",PCPCP 71629 CTAHYTb,False
+2451,"португалец
+дурно-",HOPTYTAJIEH YPHO-,False
+2452,семенник Чаленко,YaJeHKO CeMeHHWK,False
+2453,"стащить
+четки",CTaLINTb yeTKN,False
+2454,полночный,OHOU,False
+2455,сродни,,False
+2456,фактурный,D 中axTypEui,False
+2457,"пауза:
+turn",nay3a: turn,False
+2458,Пузан,TYyaaH,False
+2459,землячество,NITANIS C 97,False
+2460,"Пожидаева
+Столярова",Tox udaeBa CmonapoBa,False
+2461,"кадка
+талант
+хлебец
+яство.",KAAKA TANAHT XIESEL ACT BO.,False
+2462,"перепродажа однополярный Шуляковская
+недоделка подковать
+Жила Реброва грампластинка неслучайно","y,nAKOBCKaA reperponaka AHONOnAPHObM Henogenka mOAKOBaTb Xwna PebpoBa rpaMaCTVHKa  HeCTy4aNHO",False
+2463,"пемза
+гречка
+штраф
+Ганина",neM3a rpeuka WTpap FaHVHa,False
+2464,Урюпин,struye YpronuH mon rebots ,False
+2465,бубенчик рассвет,6y6eHANK paccBeT,False
+2466,ниче,,False
+2467,Бударина, EynapuHa,False
+2468,43418,43478 米,False
+2469,бобер,0 606ep PpmI,False
+2470,гибкий,M6Kni  y,False
+2471,общительность),,False
+2472,"Достанко клеть
+зарегистрировать.",IoCTaHKO KJIeTb 3aperHcTpHpOBaTb.,False
+2473,Чуйков!,ymro!,False
+2474,плинтус,mUTHHITyC 仁,False
+2475,"Тишкина
+Бурдук",WUIKHHa bypayK,False
+2476,74804-,农 74804 乌粥,False
+2477,"рьяный
+околыш",bAHbIn OKOI,False
+2478,Рафаэль ихтиолог,PapaenbWxTHonor,False
+2479,пипл,nun 牙,False
+2480,"Коряков перестрелка
+налоговик тягота
+затечь Люся Лещенок
+салатница Гречишкин",KopAKoB TepeCTpenKa HanTOrOBNK TAroTa IOCA 3aTeyb JeLLeHOK canaTHNLa TpeyNLKUH,False
+2481,"скорбь
+курение",CKOp6b KypeHMe,False
+2482,"почтовик Кокорева
+переселиться
+подсадной Малюк",TOHTOBVK KOKOpeBa nepecenvT bCA OnCaAHO ManIoK,False
+2483,юрин,IOPUH,False
+2484,"сиживать
+Антошин .",CHX HBaTb AHTOWNH,False
+2485,Клецко,KieLko,False
+2486,взаимно,B3aNMHO 啤,False
+2487,нестройно,HeCTPONHO,False
+2488,истреблять,,False
+2489,Глеб,城 rneo 福,False
+2490,"Шанчук
+отдых(",LLAHHYK OTAbK(,False
+2491,пудовый,yHoEEM,False
+2492,"Бохан Толстых
+содержательный",BoxaH TOJCTHIX conepxaTeIbHhn O ,False
+2493,сыграть,cblepamb LES 011,False
+2494,"бакенбарда
+ЖКУ проявлять",Y d 6akeH6apAa XKKy IpOABIATb,False
+2495,"ситец
+тлен",CVTeL TnEH,False
+2496,"льгота Мохов
+понятный 56844",MoXOB JbroTa VGIRO NOHATHbM 56844 店,False
+2497,"генацвале
+9917883936
+Лагунова
+новоявленный
+всенощный",rEHALBane 9917883936 Nary HOBa HOBOA BIEHHLM BCeHOHbM,False
+2498,"заталкивать
+твин",3aTanKVBaTb TBNH,False
+2499,задрать,3AIPATb ,False
+2500,"Зеландия Щурко
+Решетников
+повиноваться:",3enaHANA LLly pko PeWeTHMKOB nOBMHOBATbCA: W ,False
+2501,Гуторов,IYTOPOB,False
+2502,пробрать,uPobpaTb,False
+2503,72648,72648,True
+2504,Баранова 9193400286,BapaH0Ba 9193400286 mn,False
+2505,28728,28728,True
+2506,песик,TecHK,False
+2507,"уценка
+хлыщ
+ариец",yueHKa bi apueu,False
+2508,индийский,,False
+2509,9727438962,1 9727438962,False
+2510,паря,数 napg,False
+2511,"седой
+житие
+частота)",cegou xumue uacmoma),False
+2512,63248,63248,True
+2513,"road
+крап-",road 7 Kpall-,False
+2514,Кулакова,,False
+2515,"Ширшова
+княжна",WnpwoBa KHAX Ha,False
+2516,конек,Kohek,False
+2517,"Сущик
+данный
+не-ет-",CywwK AaHHbn He-eT-,False
+2518,"обертон
+малышок
+пыльник",06epTOH ManbILLoK nbnbHNK,False
+2519,убить,yEVTE,False
+2520,Бородко,NORTHS THE FACE GOPOnKO,False
+2521,неофит;,Heo中UT;,False
+2522,наци,Hauu,False
+2523,9589904402,9589904402,True
+2524,"сталь
+писарь
+Копоть-",RaiY Picked Oken pPkors pasha,False
+2525,"мифический
+слизь
+Эмиль   :",Mupuyeckuu cnu3b EMbE,False
+2526,"базилик
+мойка
+одарять",6a3WAVK MOVKa OAOPATb,False
+2527,56976, 56976  ) CY 1,False
+2528,"able
+армия
+генез",S able apmUa 2eHe3,False
+2529,обхват,Gr ,False
+2530,лень,nEHb 1 ,False
+2531,сляб,2 CIAO,False
+2532,разъезжать,e3KaTb pa3b ,False
+2533,"очертя досочка
+score
+Овсейчик
+молох",14 OYEPTA AAOCOHKA SCORE OBCEVHNK MOnOx,False
+2534,пава,naBa,False
+2535,"государыня
+скорбь обязать
+Колпаков тарарам",s0cygapuna cropss oSasamb Kounarob mapapau,False
+2536,благо,biaro ,False
+2537,"Абсалямов
+мильон",A6CaIMOB MTbOE,False
+2538,"Колб
+егерь",Kon6 erepb 1,False
+2539,"перетряска
+статус  ?",MepeTpacka CTaTyC 出,False
+2540,"полк
+башковитый
+подсластить",nOnK 6aWKOBHTb nOCaCTHTb,False
+2541,"бунчук
+оленина настояться",6yHHyK OneHMHa HaCTOATbCA,False
+2542,Хмыль НЛО,XMbUb HnO,False
+2543,чево,YeBO,False
+2544,"снятой
+много",CHAmOu MHO20,False
+2545,fair.,f air.,True
+2546,"pull
+льстить?",pull Nbcmumo?,False
+2547,"зябь
+консульский
+чубук", 396b yy6yk KOHCybCKUM,False
+2548,"Вавуло
+печаль
+Битов",BaBynO neyasb BNTOB ,False
+2549,"тамошний
+Климкова",maMOWHUu KΛUMKOBa,False
+2550,парусник активно,napyCHiK aKmueHO 1 xstt at,False
+2551,"Скоморохов)
+задушить",CKOMOpOXOB) 3aAyWNTb,False
+2552,умело,UEEN C yMenTO,False
+2553,нокаут 9935916640:,9935916640: HoKaym,False
+2554,отбор,ombop 0 exet us ts a eé se 5st 4 7,False
+2555,загалдеть,dem6 3020n,False
+2556,"Титов
+загранка",LASOCIALE Tumoe 3a2paHKa,False
+2557,"нонче
+Рожок
+дрын",K HOHye POKOK pbih,False
+2558,"эгоцентризм
+подоходный",1 arOyeHTPn3M nOA OX OA HbIn,False
+2559,списывать,LiebBaTb 88,False
+2560,исповедник,ReOHUK ucnoe +,False
+2561,югослав,HOTOCIIAB,False
+2562,сноп,CHOn KYK-7126,False
+2563,9794219977,HUNDRED PERCENT CHANCE 9794219971,False
+2564,"несущая
+напутать  ;
+9325177335
+Искандарова",HecyWas HaryTatb 9325177335 WcKaHAapoBa,False
+2565,сирый,npn,False
+2566,"олигомерный Марья
+девчонка Сойко Шух
+Усманов
+несколько инженер",OAVOMEPHbU Map Coiko Lyx AEBHOHKa YCMaHOB HECKOAbKO WHXCH2p B,False
+2567,"издевка
+Чаусов )",M3AeBKa yayCOB,False
+2568,"коммерчески,
+33936 цаца
+Скуратов
+Рено
+израилев!",KOMMepyeckn 33936 Laula  CKypaTOB PeHO VBpaWneB!,False
+2569,"ВЦИК
+наезд",中  BLINK Hae3n,False
+2570,Пауков,navKOB,False
+2571,"уезд
+Митрохин
+срезаться",ye3n MNT POX NH cpe3aT bca,False
+2572,"ключица,","na, A KJO",False
+2573,нечего(,Heye2ol n,False
+2574,"вынуть финал
+Глушак
+хлористый",PUHAn BbIHyTb Fnywak XnopWcTbIin,False
+2575,63448,FE 茶 酷龙二机 太路 洗肉 M世 爱 爱 茶 63448 # 饼 1#77 泉,False
+2576,"четверик Мухаметдинова
+Гирин хохма стильно
+Ширшова приснопамятный",YeTBepNK MyXaMETANHOBa TMpNH XOXMa CTWIbHO LApWOBaRpNCHOTaMATHbIN 雅感,False
+2577,"Ганичев
+клевета
+Реутов
+фонарь ,
+выдуть",FaHUee KeBema Pey moB cpOHapb  Bbby mb,False
+2578,9724237560,,False
+2579,"9169048712
+иль волкодав
+страз",1 erl 916904872 Wb BOnKOnaB CTpa3,False
+2580,м-м-м,1 O,False
+2581,Козич?,Ko3Hy?,False
+2582,Гладченко,rnoouenng,False
+2583,"Фишер,
+галогенный разбойник","Φwwep, mennne ranoreHHbM pa36oiHk",False
+2584,"филигранный
+Греция",cwwpaHbN IpeLya,False
+2585,"пряник picture
+одурманивать
+это ужасно",picture npAHUK odypmaHueamb mO yHCaCHO,False
+2586,"селезенка
+Степанов",cene3eHKa CTenaHOB,False
+2587,"Гайдаш скандалист
+возблагодарить
+бонна Стройтрест",Faudau cKaHdanUcm B036na200apumb Cmpoumpecm 60HHa,False
+2588,"эпилептик
+керлинг
+20922
+юркий",anETETTEK KepJIHHr 20922 rOpKuY,False
+2589,помпон неоднократно-,ROMDQH HeOAHOKpaTHO-,False
+2590,подогнуть Сокольчик Ракитин,Boroubuuk ParumuH nogozh gmb,False
+2591,"Поздняк
+вытесняться","M03A,HAK BbITeCHATbCA MA",False
+2592,легкомысленный,RrenvohacneMA ,False
+2593,"трубить)
+рака
+дурдом",Tpy6rb) paika AYPOM,False
+2594,Зенчик,3eHuK,False
+2595,"свес
+Диана",G CBeC AvaHa,False
+2596,"99259
+НКВД
+Дали",99259 HKBA Lanu,False
+2597,"сооружаться
+иглоукалывание
+Строев",cOOpy>KaTbCA NrOyKanbIBaHNe CTpoeB,False
+2598,"укореняться
+писарь
+понижаться",gkopeHsmbcs nucapb noHuxambcs,False
+2599,будочка,byAouka,False
+2600,"Тулупов
+Дедюхин",点  TYNYOB EOXNH,False
+2601,"Семыкин
+стойко
+Якунина?",CeMbIKUH cmouko A Ky HuHa?,False
+2602,82606,82606,True
+2603,Носов,Hocoe G  Oe,False
+2604,Трегубов,Tpery6oB 11110,False
+2605,засиять,,False
+2606,"ломота
+ухудшение", IOMOTa yxynmeHne,False
+2607,описаться,mbcx Onue 1OT H7222 OGV EE mg 21 49 1139990 22 ....   2022  s ..... o  ...... WT  ....... ...... 0 9  00 ..  ,False
+2608,Устинова,YcmuHoBa,False
+2609,Дергач,一 Aepzay,False
+2610,"талый
+88444",TanbIM 88444,False
+2611,"противно
+Ляхов",npomueHo 几Ax06,False
+2612,"дефектный
+катар",depeKmHbIU kamap ,False
+2613,"мачта левизна
+9139812070
+слепая-",Mayta JeBV3Ha 9139812070  cnenag- D,False
+2614,легкоатлет обнажаться.,TerKoaTJeT 06HaKaTBCA. 口家工网,False
+2615,"9722402815
+Самович",9722402815 CaMOBUy ,False
+2616,"Юхник доброта
+девятнадцатый  )
+канонизация
+вручить матица )
+Казимиров шляхта",HOxHuK  do6poma DeBAmHaouambiu ) KAHOHU3AUUA Bpyyumb Mamuua ) Ka3UMupoB  WnAXma,False
+2617,насилу, 八 HacH.Iy,False
+2618,вымачивать,BbIMauuBaTb,False
+2619,"бегун
+Запольская", 6ezy H 3anoNbCKag,False
+2620,сервис), cepouc),False
+2621,"антураж бисквит рецептура
+невидимость пакер тачка
+Молчанов Новик Рябцева",6NCKBNT aHTypax peLemrypa HEBNANMOCTb nakep Tayka MonyaHOB HOBNK Pa6LeBa,False
+2622,"9118301130
+баснословный",9118301130 BACHOCOBHbIN,False
+2623,"обрез
+стыдливость
+Шанина",06pe3 CTbANBOCT b LaHUHa,False
+2624,погонщик,VOrOHLMK,False
+2625,сразу,cpa3y 60,False
+2626,Дедов.,eDOB.,False
+2627,"прошедшее,","npouedwee,",False
+2628,Майко,Mauko,False
+2629,"обалдеть
+каторжанин",0annetb KaTOpXaHNH,False
+2630,"сливки
+уличка",CIHBKH YJIYYKA M,False
+2631,"марихуана
+шифон  ?",Mapvxy aHa WNOOH ? ,False
+2632,гриф,FPNO 一,False
+2633,Кушнер,KywHeP ASCO,False
+2634,"безумный
+гороховый",6e3y MHbIA rOpOx OBbIA  2991,False
+2635,correct,I 9 correct,False
+2636,поверх,noBepx A. 元 1.  ,False
+2637,"паралитик
+Личко
+Моргунова:",apaTK JvKO MopryHoPa:,False
+2638,"вколачивать,","BKOIaHMBaTb, ?",False
+2639,"апчхи
+тимус)
+hill",Cta anyxu mumye hill,False
+2640,"сырьем
+иссякнуть
+Сапоненко",chpbeM HCCsKEy'TD CaTOEeEKO,False
+2641,"раздвигать чушка
+трудный вдохновить(",pa3ABNraTb uywka TPy AHbIN BAOX HOBVTb(,False
+2642,30390,南  30390,False
+2643,"page
+обаяние
+нести
+анчоус",page 06a9Hve HECTИ aHHOyC,False
+2644,брехня,6pexH1,False
+2645,прииск,nouucK,False
+2646,ежить,eruTb,False
+2647,Яцыно,HyIHO 2 办,False
+2648,"Плетнев
+Смольский
+разрисовать;
+оценивающий",nnemHeB CMOnbCKuO pa3pUcoBamb; OUeHUBQIOWUd   ,False
+2649,gone,gone,True
+2650,жираф,JHcupap,False
+2651,"пуск,",myck 华,False
+2652,"Козак
+Басов-",Ko3aK EacOB-,False
+2653,"гогот протуберанец
+9036762207
+заалеть спидвей",npoTy6epaHeL rorOT 9036762207 CnNABeN 3aanieTb,False
+2654,"дагерротип
+ступор",Aareppotnn CTynop,False
+2655,"минский
+нормальность айва",英 MNHCKAN HOPMAbHOCTb AVBA,False
+2656,тяпка,TAnKa,False
+2657,Лазарева,JIasapeea,False
+2658,"Журова
+Базан
+статья
+МЭРТ
+Макей",>KypoBa Ba3aH CTaTbA MBPT Maken,False
+2659,акрил,aKpW 7,False
+2660,шарить),1 am1 0 S wapumb) S ,False
+2661,"44638
+48305.",44638 48305.,True
+2662,"пеший;
+стук",neuui; cmy k,False
+2663,"фотка-
+борец
+пошив",ΦOTKA- 6OPELL TOIVB,False
+2664,"дивно доносчик
+калужский арбитр
+переиграть",AVBHO AOHOCUNK KaTy>KcKW ap6vTp nepeNrpaTb,False
+2665,67606,TE 67606,False
+2666,сота,COTa,False
+2667,"пшено
+наяда",nueHO HOROO,False
+2668,линять,JMHATP,False
+2669,Козаченко,Ko3ayeHKO,False
+2670,дель,genb Y,False
+2671,"панталык
+9179675715",naHTaΛbIK 9179675715 #,False
+2672,"Глебко
+зарастать",rne6ko 3apacTaTb,False
+2673,17047,1047 FIRE Tan an,False
+2674,"наклон
+Плетнев
+Малкин)",HAKIOH IIeTEeB MaTKHE),False
+2675,Меньков,MeHbKOB,False
+2676,Черный,R  yepHblu,False
+2677,78669,78669,True
+2678,"Бирило
+Кусков
+физфак",0010 ,False
+2679,Кохно.,KOXHO.,False
+2680,"догматизм
+path",OnMaTVBM pah V L,False
+2681,Седова,CenoBa,False
+2682,9563363505,9563363505,True
+2683,"Ксения многоуважаемый страус!
+марал Дина прищурить",KceHNA MHOrOy BaXKaeMbIM CTpayc! Mapan WHa npuLypuTb,False
+2684,"тантал
+амбиция",maHman am6UUUa,False
+2685,60093-,60093 ,False
+2686,"Михаэль
+Болотин:",Mrxaab BOIOTHH:,False
+2687,"простираться
+запасной",npocmupambca 3anacHou,False
+2688,"Герус
+37106
+Метла",Tepyc 37106 Mera A,False
+2689,"believe(
+Нефедьев
+покорность",believel HepenbeB HOKOPHOCTb,False
+2690,"умывать Цыбуля
+шутить
+нация
+житье
+лакейский(",Lbbyna yMbBatb WyTVtb HOLIVA 小 >KVtbe nakeiickn,False
+2691,"фавор Вашкевич
+rock
+Карасик
+пиротехнический",ΦaBOP BaLLKeBVM rock Kapacuk rVpOTexHMeCkM,False
+2692,9796639454,9796639454 人 8,False
+2693,"station
+бубновый",station 6y6Hoeulu,False
+2694,пластически?,,False
+2695,чахнуть,yaXHyTb,False
+2696,"попа
+39972",nona 39972,False
+2697,"Щуревич
+суббота,","LllypeBuy cy66oma,",False
+2698,"опасный
+к.417",onacHblu K.417,False
+2699,глыба,Cabo0,False
+2700,"распухать
+Михасев
+свыше",PACIYXATB MHXACEB CBZIWE,False
+2701,лучина,张,False
+2702,"затейник
+заскрипеть
+9481761006
+угадать",BaretHuK BacKpAuerb 94 81761006 T yranaTb,False
+2703,неяркий,HeRprili SINGER,False
+2704,носик,司 ,False
+2705,биомасса,6nomacca,False
+2706,"мякоть
+Киселев",MAKOTb KncenieB O 发发 2 2,False
+2707,"27496
+правда",27496 npaBAa,False
+2708,9348606426,,False
+2709,"9957277488 длить
+Коротких кустик
+Марфа Рыбинская
+Гузенко)",9957277488 Onumb KopomKux Kycmuk Mappa PbI6uHCKaq [y3eHKo),False
+2710,"повелевать отвалиться
+укачать заснять",noeeΛeeamb omeaΛumbcg ykayamb 3aCH9mb  ,False
+2711,ларец:,分 福 napeL:,False
+2712,"Милютин Мигунов
+материальность;",MWIOTNH MhyHOB MaTepNaAbHOOTb; 88,False
+2713,логос,noroc,False
+2714,"Травников
+73481.
+МГИМО
+наступать;",TpaeHuKoB 73481. MrWMO Hacmy namb,False
+2715,ни-ни!,品 PEVER Hu-Hn!,False
+2716,wrong,Wrong,True
+2717,разлад,pasnaA ,False
+2718,хвощ,XBOLLI,False
+2719,Лебедевич сниматься,Me6eAeBHy CHHMaTbCA,False
+2720,"Шупляк)
+плотик",1. mymnsk) B WIOTHK,False
+2721,"смачно
+паника;","CMayHO nAHHKa,",False
+2722,"октябрьский
+Севрюков Дятлов
+Хомченко
+сморщить
+хиромантия",oKm96pbckuu CeepioKoe amoe XOMYeHKO cmopuumb xuPOMaHmu,False
+2723,веточка,,False
+2724,"Симченко
+дева",C WMYeHKO AeBa (?) 3,False
+2725,сжигать,cX u2amb # ,False
+2726,Леонова,neOHOBa  二,False
+2727,Кочанов,KOHaHOB,False
+2728,"уездный,","ye3μHbI,",False
+2729,"нагорье
+краснощекий,
+соединенный","nazopbe Kpachowekui, coeduHehhbi pc  e raipod Sacths antanvtu aplevtooen aeeatav",False
+2730,"начмед Герасим
+Сысой Стоянов",FepacHM Ha4MeA CbicoN CTOAHOB ,False
+2731,ребрышко,Deopbuno,False
+2732,благоприятность,BUATOITAUTHDOTb,False
+2733,Чиркун,,False
+2734,нереальный,L!!!!!!,False
+2735,особенно,OC06eHHO D,False
+2736,Жарких,noSoe kao,False
+2737,"волшебно никак
+пощекотать
+кабинетик",UoO Hukak nouekomamb kaouhemuk,False
+2738,космос,KOCMOC,False
+2739,"однополчанин
+проходка
+уплывать",OAHOnONHAHH npoxoAka YrUbBaTb GUARO TRANNGCHO,False
+2740,несмышленый изобличить,HeCM IIeHY H306TD ,False
+2741,"paint
+пятый
+десница
+Севрюк",T paint 一 nambiu  deCHuua CeepioK ,False
+2742,Жабко Митькин,Xa6Ko MuTbKH,False
+2743,усесться 9314966008,9314966008 ycecmbcA TRADSE,False
+2744,лабаз,na6a3,False
+2745,"идол
+48146
+хула ?
+Бокий",MAON 48146 ? xyAa BOKUV,False
+2746,диаспора,旺  1R95 R  P2I,False
+2747,"branch
+Тетерина",branch TemepuHa ！』 C,False
+2748,"обосновать
+лихач",060cHoeamb nuxay,False
+2749,"упорхнуть
+деревня
+кокс",ynopxhyTb nepeBHA KOKc L ,False
+2750,"грациозно
+изголовье",rpALNO3HO H3ronOBbe,False
+2751,Даниил,AaHNNn   ,False
+2752,"клавир Сак
+продуктивный
+хлопотливый
+колосник", CaK KIaBUP 一 HIPOIYKTHBHbIN XJIONOTJINBIN KOJIOCHHK,False
+2753,Хрущев,Xpy wee,False
+2754,стоп,们  1 ， + CTON,False
+2755,Бобрик,BoopiK,False
+2756,"54732
+47188",54732 47188 办米 治 类,False
+2757,Шишло:,HNIO:,False
+2758,"овцеводство
+единый
+прояснение
+гневить",OBLEBOACTBO eANHbIN npoACHeHve rHeBUTb 水 H ,False
+2759,"счесться
+Алексий между
+опус
+туфта Кудлач",CHeCTbCA AneKcWM MekAY onyc TyTa Kynay D,False
+2760,рассекать,peccekaTb,False
+2761,86554,86554. 7,False
+2762,Зыков,迎性支欢 FHNL BbKo6,False
+2763,"Мендель
+осколок",MeHdeΛb OCKOΛOK,False
+2764,"посыл
+Михин
+раба",日 HIOCbUI Fritten Pict MIXUH PABA,False
+2765,"winter
+анкетный
+навряд
+остро",PERRTELLIS winter aHKemHbIu HaBpga ocmpo,False
+2766,"артиллерия
+Грекова",apmwsepuy 『pekoea,False
+2767,Брич:,BpWy:,False
+2768,"Сидоров
+курортник.",® CWnOPOB KyPOPTHNK.,False
+2769,снедать,CHeAaTb,False
+2770,"покинуть Капский
+сломать Абдулла",Kanckuu nOKUHy mb A6dya cnoMamb,False
+2771,простак,npocTaK,False
+2772,веха,食 Bexa ,False
+2773,"поручень Коптева
+миллиардер
+пальмовый",KonTeBa HopyyeHb MWINapnep NaJIbMOBbI RESE PuzzLt PUZRLI,False
+2774,лежать, JexKaTb,False
+2775,блесна,bnecHa LLRO,False
+2776,крона,POHA,False
+2777,лето,JetO 0 ®,False
+2778,брага), 6para),False
+2779,"заказной?
+опала
+бесчувственный
+извиняться",3aKa3HOW? an 6eCyyBCTBeHHbIN VBBNHATbCA,False
+2780,Чикаго,Hnkaro P 福 S,False
+2781,Матюшин,Mainouuh,False
+2782,умно,MHO,False
+2783,Кулыба,kynbba,False
+2784,"студеный
+резервист
+ацтек",PXX  CTyAeHbI pe3epBNCT aLTeK,False
+2785,талмуд,0 TanMyA,False
+2786,датчик,南 A AXH 9,False
+2787,кварц,KBaPLL 3,False
+2788,стук,cmy K 牌,False
+2789,"шейный
+пошловатый",WeAHbIA TOWN OBaTbA,False
+2790,"гусар
+уход", zCOp yXOA,False
+2791,"червяк
+эпатаж
+магний
+двурушник
+гнать",4epBAK araTa>k N MarHN AByPyWHNK rHaTb,False
+2792,"женить
+сводиться",X eHNTb CBOANTbCA,False
+2793,"Баблевский
+Киселев!
+приземной",Ba6neBcKH KnceneB! npNBeMHON,False
+2794,хотя,二 xoma,False
+2795,"ефрейтор
+отлучить",Λ eΦpeiTop OTy uNTb,False
+2796,10388,福  10388,False
+2797,"Малинин
+9368238420 ниже
+Давидович",MaJHHUH 9368238420 HMKe JaBHI OBIY,False
+2798,кросс,KPOCC,False
+2799,включаться,eKAouambc9 E ,False
+2800,Маров,MapoB,False
+2801,"компас манишка
+9392790085 Бобр",XOMaCM 9392790085 Bobp 福 装鞋,False
+2802,пешка,newka ,False
+2803,"скатка
+умный",cKamka yMHblu,False
+2804,"банковский дамка
+Иордан бархотка",6aHKoecKuu  daMKa M,False
+2805,сервитут,店 OePMTyT 国 D,False
+2806,"малость;
+приглушенно
+стать Малицкий",MOAOCHES npuaAy weHHo MAuUKud CINMb,False
+2807,"завитой
+fight
+бусы плечо)",3aBVTON fight 6ycbl iveyo),False
+2808,"наущение певица превозмогать
+солженицынский",Ce HayLLLeHve neBVLIa npeBO3MOraTb CONI>KEHNLIbIHCKNN,False
+2809,"Дутов
+замазка
+супчик
+куда",Iy mo6 3aMa3Ka y nuuk xy da,False
+2810,"ребус
+ломка", pebyc JOMKa,False
+2811,пенаты!, neHaTbi!,False
+2812,"лязг
+пайка
+ожог",A3F FaVKa OXOF 329个,False
+2813,"смотрение
+возмужать",1HTO  CMOT PE Hve BO3MVKaTb,False
+2814,"бубновый
+шустро
+удобный",by6nosuii uycmpo 香 ydobnui LIEUT 3,False
+2815,"кабаре
+подачка
+опекун",五城 yabape nonauka SB1A onekyH #,False
+2816,водянистый,TbM BOAAH H,False
+2817,Романова соломенный:,POMaHOBa COnOMeHHbIu:,False
+2818,Изъюров,VBblopoB,False
+2819,"проповедь
+Якубчик остроумие",npOnoBenb Aky6unk ocTpoy Mne,False
+2820,обозлиться,n E MAIDS 2,False
+2821,"датский
+наплавка",JaTCKU 2 HaIwIaBKa,False
+2822,"просидеть изучить
+углеводородный  ;",HpOcHIeTb H3y4NTb yrJeBOIOPOMHbn,False
+2823,"Стефан
+тупость",CTepaH TynocTb,False
+2824,"Пекун 71434
+регулировщик вослед
+физик-теоретик
+верблюжий светодиод",neKyH 71434 perynHpOBWHK BOCnen 中N3MK-Te0peTHK Bep6n1oxnY CBeTOAHOA 出 # H 日 面 印目,False
+2825,"продразверстка
+Старикова!",mpoApa3BepCTKa CTapNKOBa!,False
+2826,примат, npnmat,False
+2827,Шелкович,#,False
+2828,мстить Ковалевская,KOBaJeBCKaA MCTITb,False
+2829,Артамонов внезапность,6 ApTaMOHOB BHe3arHOCTb,False
+2830,52358,52358 2,False
+2831,отток,OTTOK  永喜發財 吉祥如意,False
+2832,"Хуснуллин
+ингушский
+катион примечание",XyCHyJNH HHrywcKn KaTNOH npnMeyaHve,False
+2833,но-но,HO-HO,False
+2834,"славист
+82509",cΛaeucm 82509,False
+2835,мазанка),Ma3aHKa) 麻,False
+2836,клепать,KIenarb wwww,False
+2837,"выемка
+Концевая",加 空王 BbieMka KOHueBaa 666 OSR,False
+2838,"9658168312
+бридж
+Хасаншин",9658168312 6pmnz Xacan e,False
+2839,"прядка  .
+9925103811
+Петрович",PAKA 9925103811 TETPOBVM 公,False
+2840,брюзжать,6p103KaTb,False
+2841,"Машкин
+рекорд
+пожарный",MaWKNH pekopn nOK apHbIv,False
+2842,всецелый,eceuenbiu,False
+2843,"Шингирей
+Табаков
+Нечитайло
+Аршинов",WNHrNPE TAbAKOB HEYNTANO APWNHOB,False
+2844,Кошкарев,KouikapeB,False
+2845,Пац сервитут,"au,  cepeumym",False
+2846,"всякое
+Рагозина",BCAKOe Pa203UHa,False
+2847,"Касьяненко
+Васькина !
+выкатить
+Дерюго  (",KacbaHeHKO BacbKuHa BblKamumb M ep 1020,False
+2848,загрузка,3Ka 3arpY 8,False
+2849,двойня.,L,False
+2850,аналог,aHanor 国,False
+2851,одержать,OnepxaTb MmKO,False
+2852,чаша),yawa),False
+2853,межевой,O= O=,False
+2854,"застынуть
+подарочек",3acrsHyTb nonapoger,False
+2855,каротин,1 KapoTWH,False
+2856,"Попенко
+23638",noneHKO 23638 ,False
+2857,язва,Ⅱ R380 V 一,False
+2858,хлыст,XbICT 志萝联,False
+2859,"аэрозоль Кохно
+накормить   !",ap030nb KoxHo HaKOpMnTb,False
+2860,"мгла
+Гойя",tM2Aa Toda A,False
+2861,борода(,0 I00 02 CQ0 BOPOAAC,False
+2862,саморегулирование,,False
+2863,пленум,nneHyM,False
+2864,"Светка отцепить
+9608153379",CBeTKa OTLenNTb 9608153379,False
+2865,нить,HVT6 #Aa用aA ,False
+2866,"stop
+Аносов
+Сидор",stop AHOc06 Cudop,False
+2867,Хорьков,XopbKOB,False
+2868,настояние,WE,False
+2869,"Савин Бурков протечь
+семя Лозовская ocean
+булыжный
+бутик",CaBNH BypKOB IpOTeyb CeMA o30BCKaA OCean 6ybDKHbI 6yTUK,False
+2870,"сморить
+Болтуть
+остров",CMODNTb BomTyTb OCTPOB,False
+2871,"Велиев
+12360",2 BeAuee 12360,False
+2872,"думский
+Баранов
+почта",AyMCKHY BapaHOB HoyTa,False
+2873,доня,DOHA 出电,False
+2874,"супермен смрад
+константа
+табуретка",cynepmeH cMpad KOHCMOHMO ma6ypemka,False
+2875,"обувь
+рожки",06yBb pOKKH Jneno',False
+2876,"71659
+зело",71659 3EJIO,False
+2877,насмешливый,y,False
+2878,ракета,pakera,False
+2879,"chord
+17514",CHORD 17514,True
+2880,Брылев,BPHIIEB,False
+2881,"вау the .
+донестись",D the . Bay HOHECTHCb,False
+2882,смущаться,CMYUIAaTECA,False
+2883,Матюнина,MaTOHHHa,False
+2884,"кольцовский
+болезнь",KObLIOBCKNM 6one3Hb ?,False
+2885,"Белянина
+Мосгордума-",BEIAHHHA MOCTOPIY MA - 门,False
+2886,"штаны probable
+Сытая
+декартовский     :
+памятник выдрать",probable WITaHbI ChITag HEKapTOBcKNM MaMATHAK BbInpaTb 6E A,False
+2887,регби,M pe26u,False
+2888,"Боярина
+манящий
+порох",an GOsPNHa MAHILIN nopox,False
+2889,"подымать иностранец
+польстить переключать",nodbIMamb uHOcmp aHeu nonbcmumb nepek/iouamb,False
+2890,"брехня
+57457",6peXHA 57457 NIPALL,False
+2891,Брич!,Bpuy!,False
+2892,"нонсенс
+буфетчица
+обсерватория",HOHCeHC bypeTynua 06cepBaTOpnA,False
+2893,"швейцар
+битюг
+лыжный-
+Дергай",weeiuap 6um02   bH Hblu- epzau,False
+2894,Федотов,DenOTOB,False
+2895,Афган,AΦ2aH,False
+2896,"прежний наркотик(
+вестернизация
+чтить
+пикантность",npexHNi HapKOTNK( BeCTepHN3aLLNA YTNTb nNKaHTHOCTb,False
+2897,заумь,3ayMb RE  贝 ,False
+2898,"Гарбузов
+Хаттаб
+расшвырять,
+перевести","4 5 7 6 9 TapOy8OB XaTTao pacUIBbipxTb, epeBecrE",False
+2899,Абдулина.,1 字都 AIYINHa,False
+2900,"изюм пульсирующий
+незамужний лис  .",H3IOM IIy JIbCHpyIONn He3aMYKHHN JINC,False
+2901,речник,A peyHUK,False
+2902,сарказм,capKaam,False
+2903,"Ясюченя
+Зборовский
+Обнинск
+отжим",SUPER GIRL AcIO4eHA 36opoeckuü 06HUHCK OmXUm!,False
+2904,монах,MOHaX G,False
+2905,самодержавный, CamOAep>KAbhbIN,False
+2906,"Ракина запоминать
+сожрать Сапогов
+9315561525 Жакова",PaKMHa 3anOMHHaTb CanoroB coKpaTb 9315561525 )K akoBa,False
+2907,жать,KaTb,False
+2908,"гимназист
+сирота  ;
+зависть",THMHa3MCT CHpoTa 3aBHCTb,False
+2909,"9079541943
+клеевой
+бессловесный
+кубарь спад
+твид",9079541943 rreeeou beccnoBecHui xy 6apb cnad meud,False
+2910,"кроваво-красный наповал
+переправка бровастый",KpOBaBO-KpaCHbIN HanOBan 6pOBaCTbIN nepenpaBka ,False
+2911,имаго,vmaro 1LO ,False
+2912,"цыган
+аллах!",Coopraleg  blean annax!,False
+2913,гугу,ryry,False
+2914,"судовой
+втройне
+57373
+spot",yAOBON BTpOVHe 57373 spot ROBOTI,False
+2915,чуждый,k,False
+2916,84406,84406 8,False
+2917,просачиваться, npO 国,False
+2918,"пора Мелешкин разуть
+20375 плодоносящий",PIOPA MEnELLKAH PA3YTb LEAKKIE 20375 OOHOL,False
+2919,"именование
+призывник",UmeHoBaHue npu3blBHuK,False
+2920,завком,湘,False
+2921,Максименко,MakcUMeHKO,False
+2922,"внутренность
+явление 47296
+Микша
+Шкредова
+9762685709",BHyTpeHHOcTb 47296 ABneHNe Mukwa llkpenOBa 水水 9762685709,False
+2923,18337,18元,False
+2924,лыжня,KHA,False
+2925,бишь,6uwb,False
+2926,"Нуриахметов
+9053024441
+пьяноватый
+money    :
+пластинчатый",HypuaxMemo8 9053024441 nbAHoBambli money nacmuHyambli,False
+2927,"97420
+вязка",97420 BA3Ka,False
+2928,МРОТ,MPOT,False
+2929,"Савинская
+мыльница
+наглый",CABHHCKAX MLIBHHIA 特 494 HATIHA 2'9.22  9991 8,False
+2930,"visit
+загс
+Клим",VISIT 3ArC KΛUM,False
+2931,"трлн
+запить
+мудро",临 TPJIH O 3auzTb MyapO 福,False
+2932,"супрефект игрек
+Сивкова пересылать",cynpepekm u2pek CuBKoBa  nepeCblnamb 9,False
+2933,"Сокол таможенный
+дочиста сохатый",CoxOn TAMOXCEHH盘 其OAHCTA COXATHL业,False
+2934,"переплетение
+прикидывать
+завести",HepeIeTeHHe IpHKHAbIBaTb 3aBeCTH,False
+2935,"Киеня
+Шубин",10 IIC AZT KveH   Uy6H ,False
+2936,яблонька, O o,False
+2937,"нервический кой-что
+Стелла излишек
+обладать
+постиндустриальный",Hepeuyeckuu  kou-umo Cmenna u3Auwek obnadamb nocmuHdy cmpuaAbHbiü C C C O C -,False
+2938,"дайвинг
+Куба
+четный",AaBnHr Ky6a HETHbM   ,False
+2939,Грек,rpek 了,False
+2940,"порубка голышом
+Орех гуморальный
+ужасно шарф",nopy6ka 2onbluuom Opex  2yMopanbHblu yxaCHO wuapΦ 口,False
+2941,"густеть покалечить
+сдружиться инспектор",rycTeTb nokaeyNTb CAPY>KHTbCA WHCreKTop,False
+2942,"басовый
+Верина
+фотон
+капрал
+бороздка",d 6acOBbIN BepNHa CPOTOH kanpan 6op03nka,False
+2943,увалень,JBaneHS C ,False
+2944,Рябов,Pa6oe ,False
+2945,друид-,ApyW-,False
+2946,"оный
+Гасюк
+Фенько
+такси(",OHbIH TacIOK ΦeHbKO TaKCH( M,False
+2947,"маразм
+Вежновец",Mapa3M BeKHOBeLI,False
+2948,микроволновый:,,False
+2949,"лоза
+55375?
+юрьев",n1030 55375? ropbeB,False
+2950,"Янов
+носить
+впредь",AHOB HOCMTb BnpeAb,False
+2951,"низость
+поспрашивать",HVBOCTb nOCnpauuMBaTb,False
+2952,Ким обрамить,Kwm  06paMUT b,False
+2953,"сумбурно
+стыковой гостеприимно",CyM6ypHO CTbIKOBON rOCTenPNNMHO,False
+2954,Радько?,NEM PaAEKo?,False
+2955,"Усанов
+Лещик",yCOHOB Mewuk,False
+2956,"нерегулярно -
+26922
+зубило seven",HeperynApHO 26922 3y6wo seven,False
+2957,Котов,Komoe,False
+2958,"13098,","INVESTING 13098, ",False
+2959,"дырочный  .
+support
+Клементьева",OH support KneMeHTbeBa,False
+2960,Филонов,QULOHOB,False
+2961,"подспудный
+Юрова   ,",noncnyAHbN HOpoBa Mpa VKa upa MAe ® Te? K,False
+2962,горечь,20peyb,False
+2963,"грановитый
+обличие
+рыба лицей!",2patoeumbi Co 06nuuue phba nuyei!,False
+2964,плач),a A),False
+2965,вереница,Bepenna,False
+2966,неуд,！ Heya,False
+2967,Голубец Тороп,Fonybeu Topon,False
+2968,mark,mark,True
+2969,прут,IPYT A 2 R  an,False
+2970,"напряжение посветить
+Никонова кашпо матовый
+Печерский дифракция  ?",HanpaxeHue noceemumb HuKOHOBa kawno Mamoebiu euepckuu ducppakuua 2. 京 L m camm Y   电电1133173777,False
+2971,эльф,,False
+2972,макет,mI Makem,False
+2973,Селюн,CEJIOH #,False
+2974,"Козленок
+пунктир
+тигрица",KOSTeHOK nyxip Tyrprara,False
+2975,"кантон эпицентр
+Кирюхина
+изучение Алешкина",KAHTOH 3INLBHTP KVPIOXVHA VBYUEHVE AMEKMHA ,False
+2976,проектно-сметный туника,nPOEKTHO-CMETHbIN TYHNKA R moRen HBA a A,False
+2977,"Кишкурно
+онковирус,
+аконит-","KuwkypHO OHKOBMPyC, aKOHNT- ",False
+2978,"копить
+Бурый
+Суслов?",KOIITB Bypani CyCIOB!,False
+2979,Голованов,3 福,False
+2980,"считывать!
+челночный",CUVT bBaTb! YenHOUHbIN,False
+2981,"ситник
+иволга
+Желнов",AH-246HG VBOnTA KENHOB D PESKI,False
+2982,"удаться
+погибнуть",yoambca no2u6hym6,False
+2983,"правдивый биомасса
+свободомыслие",IpaBIHBbIm 6HoMacca CBO6OIOMBICIHe,False
+2984,ходовой,XOROBOA,False
+2985,лесоразведение,·,False
+2986,направление,HanpaeneHue,False
+2987,разгром,pa3rpom,False
+2988,"проба
+дальше
+подлость",npo6a AOABHE FOAN,False
+2989,"живучка
+писаться",Hcuey uka nucambca,False
+2990,"пороховница
+Рахманько
+названивать",mOPOXOBHMLa PaXMEHbKO Ha3BaHVBaTb,False
+2991,идеология,udeon o2ua F,False
+2992,меню,MEHO,False
+2993,"Тетерев
+чирей
+ощущать
+осыпь",TeTepeB unpe oly laTb OCbInb,False
+2994,"илистый
+возле
+окраина",EIACTSY BOBTe okparta,False
+2995,перегиб откопать,nepe2u6 omkonamb,False
+2996,19678,  19678 11,False
+2997,Береснев,5epecHee 8884,False
+2998,гиперссылка,rurepccbuika ,False
+2999,"провокационный
+Лапина панк",npOBOKaLNOHHbN 八anNHa naHK ,False

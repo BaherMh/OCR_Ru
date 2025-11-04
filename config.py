@@ -11,8 +11,8 @@ dataset_paths = {
 
 # Store classes, not instances
 models = {
-    "ppocr_v5": ModelPaddleOCR,
+    "ppocr_v5_mobile": ModelPaddleOCR,
     "EasyOCR": ModelEasyOCR,
-    "ppocr_v4": partial(ModelPaddleOCR, model_name="PP-OCRv4_mobile_rec"),
+    "ppocr_v4_mobile": partial(ModelPaddleOCR, model_name="PP-OCRv4_mobile_rec"),
     "tesseract": ModelTesseract
 }

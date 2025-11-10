@@ -1,7 +1,10 @@
 import base64
 import os
+from difflib import SequenceMatcher
 
+import numpy as np
 import pandas as pd
+from jiwer import cer, wer
 
 
 def exctract_images(tsv_data, save_dir):
@@ -34,3 +37,24 @@ def exctract_images(tsv_data, save_dir):
 
 def unify_string_format(text):
     return text.strip().lower().replace('\n',' ').replace(' ', '')
+
+
+
+def compute_cer(answer: str, prediction: str) -> float:
+    """
+    Compute Character Error Rate (CER) using jiwer.
+    CER = (S + D + I) / N_characters
+    """
+    return cer(answer, prediction)
+
+def compute_wer(answer: str, prediction: str) -> float:
+    """
+    Compute the Word Error Rate (WER) between a reference (answer) and a hypothesis (prediction).
+    WER = (S + D + I) / N
+    where:
+      S = number of substitutions
+      D = number of deletions
+      I = number of insertions
+      N = number of words in the reference (answer)
+    """
+    return wer(answer, prediction)

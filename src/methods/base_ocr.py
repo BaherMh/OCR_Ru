@@ -49,7 +49,11 @@ class BaseOCR(ABC):
             if index > 5 and debug_mode: # in debug mode, inference only first 5
                 break
             image_path = os.path.join(images_folder, str(row['index'])+'.png')
-            ocr_res = self.run_method(image_path)
+            try:
+                ocr_res = self.run_method(image_path)
+            except:
+                print(f"ERROR happened when inferencing image {index}")
+                ocr_res = "ERROR IN PARSING!!"
             results.append({
                 'index': row['index'],
                 'answer': row['answer'],
